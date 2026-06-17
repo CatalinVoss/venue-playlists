@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Venue Playlists — hear the room before you go</title>
+    <meta
+      name="description"
+      content="A Spotify playlist for every venue in your city — the artists playing there soon, soonest show first. Discover a band, then go catch the show."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Fraunces:ital,opsz,wght@1,9..144,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <p class="kicker">live music · self-updating</p>
+      <h1>Hear the room<br /><em>before you go.</em></h1>
+      <p class="lede">
+        One Spotify playlist per venue — the artists playing there soon, soonest
+        show first. Find something you love this week, then go catch the set.
+      </p>
+    </header>
+
+    <main id="app">
+      <p class="loading">Loading venues…</p>
+    </main>
+
+    <footer>
+      <p class="why">
+        I follow musicians, but the ones I love rarely roll through my town — and
+        the bands that <em>do</em> play the small rooms near me, I've never heard
+        of. So this listens to a handful of venues' calendars and turns each into
+        a playlist, refreshed every day. Discover a band at the top of the list,
+        and there's a good chance you can go see them this weekend.
+      </p>
+      <p class="meta">
+        Updated <span id="updated">—</span> · auto-generated · open source.
+      </p>
+    </footer>
+
+    <script>
+      const COVER_FALLBACK_HUES = [12, 280, 200, 150, 330, 45];
+
+      function card(v, i) {
+        const a = document.createElement("a");
+        a.className = "card";
+        a.href = v.playlist_url;
+        a.target = "_blank";
+        a.rel = "noopener";
+
+        const art = document.createElement("div");
+        art.className = "art";
+        if (v.cover) {
+          const img = document.createElement("img");
+          img.src = v.cover;
+          img.alt = `${v.name} playlist cover`;
+          img.loading = "lazy";
+          art.appendChild(img);
+        } else {
+          const hue = COVER_FALLBACK_HUES[i % COVER_FALLBACK_HUES.length];
+          art.style.background = `linear-gradient(145deg, hsl(${hue} 70% 22%), hsl(${hue} 80% 12%))`;
+          const initial = document.createElement("span");
+          initial.className = "art-initial";
+          initial.textContent = v.name[0];
+          art.appendChild(initial);
+        }
+        if (v.stale) {
+          const flag = document.createElement("span");
+          flag.className = "flag";
+          flag.textContent = "no upcoming shows";
+          art.appendChild(flag);
+        }
+        a.appendChild(art);
+
+        const meta = document.createElement("div");
+        meta.className = "meta-row";
+        const next = v.shows && v.shows[0];
+        const nextText = next
+          ? `next: ${next.artist} · ${fmtDate(next.show_date)}`
+          : "—";
+        meta.innerHTML = `<span class="venue">${v.name}</span>
+          <span class="next">${nextText}</span>
+          <span class="follow">Follow on Spotify ↗</span>`;
+        a.appendChild(meta);
+        return a;
+      }
+
+      function fmtDate(iso) {
+        try {
+          return new Date(iso + "T12:00:00").toLocaleDateString(undefined, {
+            month: "short",
+            day: "numeric",
+          });
+        } catch {
+          return iso;
+        }
+      }
+
+      function render(data) {
+        const app = document.getElementById("app");
+        app.innerHTML = "";
+        for (const city of data.cities) {
+          const section = document.createElement("section");
+          section.className = "city";
+          const h2 = document.createElement("h2");
+          h2.textContent = city.name;
+          section.appendChild(h2);
+          const grid = document.createElement("div");
+          grid.className = "grid";
+          city.venues.forEach((v, i) => grid.appendChild(card(v, i)));
+          section.appendChild(grid);
+          app.appendChild(section);
+        }
+        if (data.generated_at) {
+          document.getElementById("updated").textContent = new Date(
+            data.generated_at
+          ).toLocaleDateString(undefined, {
+            month: "short",
+            day: "numeric",
+            year: "numeric",
+          });
+        }
+      }
+
+      fetch("data/venues.json")
+        .then((r) => r.json())
+        .then(render)
+        .catch(() => {
+          document.getElementById("app").innerHTML =
+            '<p class="loading">Couldn\'t load venues yet.</p>';
+        });
+    </script>
+  </body>
+</html>

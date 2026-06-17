@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+
+# Local secrets / scratch
+.env
+.env.local
+*.local
+
+# OS
+.DS_Store
+
+# Build caches
+.cache/
+state/

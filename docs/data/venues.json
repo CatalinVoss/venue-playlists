@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-06-16T13:00:00+00:00",
+  "_note": "SAMPLE DATA for design preview only. Replaced by the build job on first real run.",
+  "cities": [
+    {
+      "name": "San Francisco",
+      "venues": [
+        {
+          "name": "The Independent",
+          "slug": "the-independent-sf",
+          "city": "San Francisco",
+          "playlist_url": "https://open.spotify.com/",
+          "cover": null,
+          "stale": false,
+          "show_count": 9,
+          "shows": [
+            { "artist": "Mdou Moctar", "show_date": "2026-06-20", "ticket_url": null },
+            { "artist": "Hana Vu", "show_date": "2026-06-24", "ticket_url": null }
+          ]
+        },
+        {
+          "name": "Rickshaw Stop",
+          "slug": "rickshaw-stop-sf",
+          "city": "San Francisco",
+          "playlist_url": "https://open.spotify.com/",
+          "cover": null,
+          "stale": false,
+          "show_count": 7,
+          "shows": [
+            { "artist": "Index For Working Musik", "show_date": "2026-06-18", "ticket_url": null }
+          ]
+        },
+        {
+          "name": "Bottom of the Hill",
+          "slug": "bottom-of-the-hill-sf",
+          "city": "San Francisco",
+          "playlist_url": "https://open.spotify.com/",
+          "cover": null,
+          "stale": false,
+          "show_count": 11,
+          "shows": [
+            { "artist": "Frankie and the Witch Fingers", "show_date": "2026-06-19", "ticket_url": null }
+          ]
+        },
+        {
+          "name": "The Chapel",
+          "slug": "the-chapel-sf",
+          "city": "San Francisco",
+          "playlist_url": "https://open.spotify.com/",
+          "cover": null,
+          "stale": false,
+          "show_count": 6,
+          "shows": [
+            { "artist": "Helado Negro", "show_date": "2026-06-27", "ticket_url": null }
+          ]
+        },
+        {
+          "name": "Great American Music Hall",
+          "slug": "great-american-music-hall-sf",
+          "city": "San Francisco",
+          "playlist_url": "https://open.spotify.com/",
+          "cover": null,
+          "stale": true,
+          "show_count": 0,
+          "shows": []
+        }
+      ]
+    }
+  ]
+}

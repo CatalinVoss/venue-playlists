@@ -1,0 +1,48 @@
+name: refresh playlists
+
+on:
+  schedule:
+    # Daily at 06:17 UTC. Off-the-hour to dodge the top-of-hour Actions load
+    # spike (scheduled runs are best-effort and can be delayed/dropped at peak).
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh playlists + regenerate site data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        # The Spotify access token is computed inside Python and never printed or
+        # exported to the shell / GITHUB_ENV, so there is nothing to ::add-mask::.
+        run: uv run python -m venue_playlists.build
+
+      - name: Commit generated data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "refresh playlists ($(date -u +%Y-%m-%d))"
+            git push
+          fi

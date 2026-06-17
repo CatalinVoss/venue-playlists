@@ -1,0 +1,56 @@
+# Venue list. One playlist is maintained per venue.
+#
+# Fields per venue:
+#   name                  display name
+#   slug                  stable id (used for cover-art filenames, etc.)
+#   source                "ticketmaster" | "scrape"  (where to read the calendar)
+#   ticketmaster_venue_id required when source == ticketmaster
+#   calendar_url          the venue's public calendar (scrape source, and shown on the page)
+#   spotify_playlist_id   filled in automatically after the first run (do not hand-edit)
+#
+# tracks_per_artist and max_tracks can be overridden per venue if needed.
+
+defaults:
+  tracks_per_artist: 4
+  max_tracks: 80
+  lookahead_days: 120
+
+cities:
+  - name: San Francisco
+    timezone: America/Los_Angeles
+    venues:
+      - name: The Independent
+        slug: the-independent-sf
+        source: ticketmaster
+        ticketmaster_venue_id: "229401"
+        calendar_url: https://www.theindependentsf.com/
+        spotify_playlist_id:
+
+      - name: Rickshaw Stop
+        slug: rickshaw-stop-sf
+        # TM under-lists Rickshaw (many shows ticket via See Tickets/Eventbrite),
+        # so the venue calendar is the authoritative source here.
+        source: scrape
+        ticketmaster_venue_id: "229795"
+        calendar_url: https://rickshawstop.com/calendar/
+        spotify_playlist_id:
+
+      - name: Bottom of the Hill
+        slug: bottom-of-the-hill-sf
+        # Not in Ticketmaster at all. Scrape-only. (Venue announced it closes
+        # end of 2026 -- keep until the calendar goes dark.)
+        source: scrape
+        calendar_url: https://bottomofthehill.com/calendar.html
+        spotify_playlist_id:
+
+      - name: The Chapel
+        slug: the-chapel-sf
+        source: scrape
+        calendar_url: https://thechapelsf.com/music/
+        spotify_playlist_id:
+
+      - name: Great American Music Hall
+        slug: great-american-music-hall-sf
+        source: scrape
+        calendar_url: https://gamh.com/calendar/
+        spotify_playlist_id:
