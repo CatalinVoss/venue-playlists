@@ -11,8 +11,8 @@
 # tracks_per_artist and max_tracks can be overridden per venue if needed.
 
 defaults:
-  tracks_per_artist: 4
-  max_tracks: 80
+  tracks_per_artist: 3
+  max_tracks: 50
   lookahead_days: 120
 
 cities:

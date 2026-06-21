@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "venues.yaml"
 PLAYLIST_IDS = ROOT / "config" / "playlist_ids.json"
 SCRAPE_CACHE = ROOT / "cache" / "scrape_cache.json"
+TRACK_CACHE = ROOT / "cache" / "track_cache.json"
 DOCS = ROOT / "docs"
 DATA_OUT = DOCS / "data" / "venues.json"
 COVERS_DIR = DOCS / "assets" / "covers"
@@ -89,32 +90,35 @@ def main() -> None:
     (DOCS / "data").mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc)
 
+    track_cache = json.loads(TRACK_CACHE.read_text()) if TRACK_CACHE.exists() else {}
     out_cities = []
+
+    def save_progress() -> None:
+        # Persist after every venue so an aborted run (e.g. a rate-limit cap)
+        # keeps created playlists, resolved tracks, and partial site data.
+        PLAYLIST_IDS.write_text(json.dumps(ids, indent=2, sort_keys=True))
+        TRACK_CACHE.write_text(json.dumps(track_cache, indent=2))
+        cache.save()
+        DATA_OUT.write_text(
+            json.dumps({"generated_at": now.isoformat(), "cities": out_cities}, indent=2)
+        )
+
     with SpotifyClient(token) as sp, httpx.Client(timeout=30) as http:
         user_id = sp.current_user_id()
-        artist_cache: dict[str, list[dict]] = {}
-
         for city in config.get("cities", []):
             tz = city["timezone"]
             out_venues = []
+            out_cities.append({"name": city["name"], "venues": out_venues})
             for venue in city.get("venues", []):
                 entry = _process_venue(
                     venue, city["name"], tz, lookahead_days, tracks_per_artist,
                     max_tracks, sp, user_id, http, ids, tm_key, anthropic_client,
-                    cache, artist_cache, now,
+                    cache, track_cache, now,
                 )
                 if entry:
                     out_venues.append(entry)
-            out_cities.append({"name": city["name"], "venues": out_venues})
+                save_progress()
 
-    PLAYLIST_IDS.write_text(json.dumps(ids, indent=2, sort_keys=True))
-    cache.save()
-    DATA_OUT.write_text(
-        json.dumps(
-            {"generated_at": now.isoformat(), "cities": out_cities},
-            indent=2,
-        )
-    )
     logger.info("wrote %s", DATA_OUT.relative_to(ROOT))
 
 

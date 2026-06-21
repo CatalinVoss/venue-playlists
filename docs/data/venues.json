@@ -1,6 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:00:00+00:00",
-  "_note": "SAMPLE DATA for design preview only. Replaced by the build job on first real run.",
+  "generated_at": "2026-06-21T19:45:28.437559+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -9,60 +8,342 @@
           "name": "The Independent",
           "slug": "the-independent-sf",
           "city": "San Francisco",
-          "playlist_url": "https://open.spotify.com/",
-          "cover": null,
+          "playlist_id": "0L9ftyzg3lSopvjQgyK0Jd",
+          "playlist_url": "https://open.spotify.com/playlist/0L9ftyzg3lSopvjQgyK0Jd",
+          "cover": "assets/covers/the-independent-sf.jpg",
+          "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 52,
           "shows": [
-            { "artist": "Mdou Moctar", "show_date": "2026-06-20", "ticket_url": null },
-            { "artist": "Hana Vu", "show_date": "2026-06-24", "ticket_url": null }
+            {
+              "artist": "Out & Loud",
+              "show_date": "2026-06-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/out-loud-the-independent-tickets/14783093"
+            },
+            {
+              "artist": "The Lagoons",
+              "show_date": "2026-06-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-lagoons-the-independent-tickets/14185934"
+            },
+            {
+              "artist": "Bay Pride Amplified!",
+              "show_date": "2026-06-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bay-pride-amplified-the-independent-tickets/14808243"
+            },
+            {
+              "artist": "Kelly McFarling",
+              "show_date": "2026-07-02",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Rose Paradise",
+                "Uwade"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/kelly-mcfarling-the-independent-tickets/14909493"
+            },
+            {
+              "artist": "Mac Gross Project - SF Rock Project Benefit + Against Medical Advice Album Release",
+              "show_date": "2026-07-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mac-gross-project-the-independent-tickets/14906323"
+            },
+            {
+              "artist": "High Fade",
+              "show_date": "2026-07-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/high-fade-the-independent-tickets/14119724"
+            },
+            {
+              "artist": "Young Franco",
+              "show_date": "2026-07-10",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/young-franco-the-independent-tickets/14769043"
+            },
+            {
+              "artist": "The Emo Night Tour",
+              "show_date": "2026-07-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14957953"
+            },
+            {
+              "artist": "veggi",
+              "show_date": "2026-07-17",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bad-tuner-x-veggi-the-independent-tickets/14960673"
+            },
+            {
+              "artist": "Los Tranquilos",
+              "show_date": "2026-07-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/los-tranquilos-the-independent-tickets/14820633"
+            },
+            {
+              "artist": "Chinese American Bear",
+              "show_date": "2026-07-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/chinese-american-bear-the-independent-tickets/14178754"
+            },
+            {
+              "artist": "Riff Wood",
+              "show_date": "2026-07-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/riff-wood-the-independent-tickets/14818353"
+            }
           ]
         },
         {
           "name": "Rickshaw Stop",
           "slug": "rickshaw-stop-sf",
           "city": "San Francisco",
-          "playlist_url": "https://open.spotify.com/",
-          "cover": null,
+          "playlist_id": "6Tkdb4rGfgyO2SgvNp8APQ",
+          "playlist_url": "https://open.spotify.com/playlist/6Tkdb4rGfgyO2SgvNp8APQ",
+          "cover": "assets/covers/rickshaw-stop-sf.jpg",
+          "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 8,
           "shows": [
-            { "artist": "Index For Working Musik", "show_date": "2026-06-18", "ticket_url": null }
+            {
+              "artist": "PLAYLUNCH",
+              "show_date": "2026-08-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-Y"
+            },
+            {
+              "artist": "Alex Amen",
+              "show_date": "2026-08-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/alex-amen-san-francisco-california-08-13-2026/event/1C0064A8D643F6B4"
+            },
+            {
+              "artist": "Be Your Own Pet",
+              "show_date": "2026-09-19",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Pob"
+            },
+            {
+              "artist": "Friko",
+              "show_date": "2026-09-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-S"
+            },
+            {
+              "artist": "Ecca Vandal",
+              "show_date": "2026-10-03",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-san-francisco-california-10-03-2026/event/1C0064B4F434F589"
+            },
+            {
+              "artist": "Dua Saleh",
+              "show_date": "2026-10-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-V"
+            },
+            {
+              "artist": "Zolita",
+              "show_date": "2026-10-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/zolita-the-hells-belles-tour-san-francisco-california-10-13-2026/event/1C0064C2069884E3"
+            },
+            {
+              "artist": "Bebe Stockwell",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Khatumu"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
+            }
           ]
         },
         {
           "name": "Bottom of the Hill",
           "slug": "bottom-of-the-hill-sf",
           "city": "San Francisco",
-          "playlist_url": "https://open.spotify.com/",
+          "playlist_id": "0IeeZO5JXnPerRv7KrIhw8",
+          "playlist_url": "https://open.spotify.com/playlist/0IeeZO5JXnPerRv7KrIhw8",
           "cover": null,
-          "stale": false,
-          "show_count": 11,
-          "shows": [
-            { "artist": "Frankie and the Witch Fingers", "show_date": "2026-06-19", "ticket_url": null }
-          ]
+          "calendar_url": "https://bottomofthehill.com/calendar.html",
+          "stale": true,
+          "show_count": 0,
+          "shows": []
         },
         {
           "name": "The Chapel",
           "slug": "the-chapel-sf",
           "city": "San Francisco",
-          "playlist_url": "https://open.spotify.com/",
-          "cover": null,
+          "playlist_id": "0KU33vGbpd76oXLdLJ9b82",
+          "playlist_url": "https://open.spotify.com/playlist/0KU33vGbpd76oXLdLJ9b82",
+          "cover": "assets/covers/the-chapel-sf.jpg",
+          "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 36,
           "shows": [
-            { "artist": "Helado Negro", "show_date": "2026-06-27", "ticket_url": null }
+            {
+              "artist": "Fleetwood Macram\u00e9",
+              "show_date": "2026-06-27",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vv"
+            },
+            {
+              "artist": "Dylan Leblanc",
+              "show_date": "2026-07-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70MoZ"
+            },
+            {
+              "artist": "Petty Theft",
+              "show_date": "2026-07-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mov"
+            },
+            {
+              "artist": "White Denim",
+              "show_date": "2026-07-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3ve"
+            },
+            {
+              "artist": "Dead Souls",
+              "show_date": "2026-07-17",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v7"
+            },
+            {
+              "artist": "Futurebirds",
+              "show_date": "2026-07-18",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Deloyd Elze"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/futurebirds-san-francisco-california-07-18-2026/event/1C006463DE766CA7"
+            },
+            {
+              "artist": "Futurebirds",
+              "show_date": "2026-07-18",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Deloyd Elze"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvK"
+            },
+            {
+              "artist": "Babe Rainbow",
+              "show_date": "2026-07-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mod"
+            },
+            {
+              "artist": "Friendship",
+              "show_date": "2026-07-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvf"
+            },
+            {
+              "artist": "NATURAL INFORMATION SOCIETY",
+              "show_date": "2026-07-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vA"
+            },
+            {
+              "artist": "James McMurtry",
+              "show_date": "2026-07-24",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vk"
+            },
+            {
+              "artist": "James McMurtry",
+              "show_date": "2026-07-25",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v6"
+            }
           ]
         },
         {
           "name": "Great American Music Hall",
           "slug": "great-american-music-hall-sf",
           "city": "San Francisco",
-          "playlist_url": "https://open.spotify.com/",
-          "cover": null,
-          "stale": true,
-          "show_count": 0,
-          "shows": []
+          "playlist_id": "0lLC2fx89QWWOBzIe6Lwr0",
+          "playlist_url": "https://open.spotify.com/playlist/0lLC2fx89QWWOBzIe6Lwr0",
+          "cover": "assets/covers/great-american-music-hall-sf.jpg",
+          "calendar_url": "https://gamh.com/calendar/",
+          "stale": false,
+          "show_count": 6,
+          "shows": [
+            {
+              "artist": "Wolfmother",
+              "show_date": "2026-07-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7ObvP"
+            },
+            {
+              "artist": "I Promised The World",
+              "show_date": "2026-07-17",
+              "show_time": "18:30:00",
+              "support_acts": [
+                "A Static Lullaby"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70E4z"
+            },
+            {
+              "artist": "Bear McCreary",
+              "show_date": "2026-09-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Poa"
+            },
+            {
+              "artist": "When Chai Met Toast",
+              "show_date": "2026-09-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jbee"
+            },
+            {
+              "artist": "Beth Orton",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4jZ"
+            },
+            {
+              "artist": "The Menzingers",
+              "show_date": "2026-10-06",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7038K"
+            }
+          ]
         }
       ]
     }

@@ -56,12 +56,16 @@ def _norm(name: str) -> str:
 
 
 class SpotifyClient:
-    def __init__(self, access_token: str):
+    def __init__(self, access_token: str, min_interval: float = 0.4):
         self._http = httpx.Client(
             base_url=_API,
             headers={"Authorization": f"Bearer {access_token}"},
             timeout=20,
         )
+        # Dev-mode quota is strict and punishes bursts with very long Retry-After
+        # values, so we self-throttle to stay well under the rolling window.
+        self._min_interval = min_interval
+        self._last_call = 0.0
 
     def close(self) -> None:
         self._http.close()
@@ -74,13 +78,25 @@ class SpotifyClient:
 
     # --- low-level with 429 backoff ---------------------------------------
 
+    # If Spotify asks us to wait longer than this, abort the run rather than
+    # hang for hours -- a later cron run will pick up where we left off.
+    MAX_BACKOFF = 60
+
     def _request(self, method: str, path: str, **kw) -> httpx.Response:
-        for attempt in range(4):
+        for _ in range(4):
+            gap = time.monotonic() - self._last_call
+            if gap < self._min_interval:
+                time.sleep(self._min_interval - gap)
             resp = self._http.request(method, path, **kw)
+            self._last_call = time.monotonic()
             if resp.status_code == 429:
-                wait = int(resp.headers.get("Retry-After", "2")) + 1
-                logger.info("Spotify 429; sleeping %ds", wait)
-                time.sleep(wait)
+                wait = int(resp.headers.get("Retry-After", "2"))
+                if wait > self.MAX_BACKOFF:
+                    raise RuntimeError(
+                        f"Spotify rate limit Retry-After={wait}s exceeds cap; aborting run"
+                    )
+                logger.info("Spotify 429; sleeping %ds", wait + 1)
+                time.sleep(wait + 1)
                 continue
             return resp
         return resp
@@ -102,87 +118,47 @@ class SpotifyClient:
 
     # --- track assembly ---------------------------------------------------
 
-    def resolve_artist(self, name: str) -> dict | None:
-        """Search for an artist and guard against bad name matches."""
-        data = self._get_json(
-            "/search", params={"q": name, "type": "artist", "limit": 5}
-        )
-        items = (data or {}).get("artists", {}).get("items", [])
-        if not items:
-            return None
-        target = _norm(name)
-        # Prefer an exact normalized match; else the first hit only if it's close.
-        for art in items:
-            if _norm(art["name"]) == target:
-                return art
-        first = items[0]
-        if target and (target in _norm(first["name"]) or _norm(first["name"]) in target):
-            return first
-        logger.info("artist resolve: no confident match for %r", name)
-        return None
+    def assemble_tracks(self, artist_name: str, n: int = 3) -> list[dict]:
+        """Pick the artist's ~n most popular tracks in ONE search call.
 
-    def _artist_albums(self, artist_id: str, limit_releases: int = 6) -> list[dict]:
-        data = self._get_json(
-            f"/artists/{artist_id}/albums",
-            params={"include_groups": "album,single", "market": "US", "limit": 50},
-        )
-        albums = (data or {}).get("items", [])
-        albums.sort(key=lambda a: a.get("release_date", ""), reverse=True)
-        # Dedupe albums by name (deluxe/remaster reissues).
-        seen, unique = set(), []
-        for a in albums:
-            key = _norm(a["name"])
-            if key not in seen:
-                seen.add(key)
-                unique.append(a)
-        return unique[:limit_releases]
-
-    def _album_tracks(self, album_id: str) -> list[dict]:
-        data = self._get_json(
-            f"/albums/{album_id}/tracks", params={"market": "US", "limit": 50}
-        )
-        return (data or {}).get("items", [])
-
-    def _track_popularity(self, track_id: str) -> int | None:
-        data = self._get_json(f"/tracks/{track_id}")
-        return data.get("popularity") if data else None
-
-    def assemble_tracks(self, artist_name: str, n: int = 4) -> list[dict]:
-        """Pick ~n representative tracks for an artist.
-
-        Popular-but-not-only-the-hit: gather candidates from recent releases,
-        rank by per-track popularity, take the top n (deduped by title).
-        Falls back to positional selection if popularity lookups are blocked.
+        A combined `type=artist,track` search returns the artist (for an
+        identity guard) and full track objects (with popularity) in a single
+        request -- so we rank by popularity for free, avoid the per-track and
+        per-album-tracks endpoints entirely (the latter has a punishing
+        dev-mode quota), and keep the cold build to ~one call per artist.
         """
-        artist = self.resolve_artist(artist_name)
-        if not artist:
+        data = self._get_json(
+            "/search", params={"q": artist_name, "type": "artist,track", "limit": 10}
+        )
+        if not data:
             return []
 
-        candidates: list[dict] = []
-        seen_titles: set[str] = set()
-        for album in self._artist_albums(artist["id"]):
-            for tr in self._album_tracks(album["id"]):
-                title = _norm(tr["name"])
-                if title in seen_titles or not tr.get("uri"):
-                    continue
-                seen_titles.add(title)
-                candidates.append(tr)
-            if len(candidates) >= 30:
+        target = _norm(artist_name)
+        artists = data.get("artists", {}).get("items", [])
+        artist = next((a for a in artists if _norm(a["name"]) == target), None)
+        if artist is None and artists:
+            first = artists[0]
+            if target in _norm(first["name"]) or _norm(first["name"]) in target:
+                artist = first
+        if artist is None:
+            logger.info("artist resolve: no confident match for %r", artist_name)
+            return []
+        aid, aname = artist["id"], artist["name"]
+
+        tracks = data.get("tracks", {}).get("items", [])
+        mine = [t for t in tracks if any(ar.get("id") == aid for ar in t.get("artists", []))]
+        mine.sort(key=lambda t: t.get("popularity", 0), reverse=True)
+
+        chosen, seen = [], set()
+        for t in mine:
+            title = _norm(t["name"])
+            if title in seen or not t.get("uri"):
+                continue
+            seen.add(title)
+            chosen.append({"uri": t["uri"], "name": t["name"], "artist": aname})
+            if len(chosen) >= n:
                 break
-        if not candidates:
-            return []
-
-        ranked = candidates[:12]  # bound popularity lookups
-        pops = {tr["id"]: self._track_popularity(tr["id"]) for tr in ranked}
-        if any(p is not None for p in pops.values()):
-            ranked.sort(key=lambda tr: pops.get(tr["id"]) or 0, reverse=True)
-        # else: leave in release-order (newest first) as the fallback.
-
-        chosen = ranked[:n]
-        return [
-            {"uri": tr["uri"], "name": tr["name"], "artist": artist["name"]}
-            for tr in chosen
-        ]
+        return chosen
 
     # --- playlist writes --------------------------------------------------
 
