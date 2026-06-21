@@ -34,35 +34,19 @@ body {
   padding: clamp(3rem, 9vw, 7rem) clamp(1.25rem, 5vw, 3rem) clamp(1.5rem, 4vw, 3rem);
 }
 
-.kicker {
-  text-transform: uppercase;
-  letter-spacing: 0.22em;
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: var(--accent);
-  margin: 0 0 1rem;
-}
-
 .hero h1 {
-  font-family: var(--display);
-  font-weight: 600;
-  font-style: italic;
-  font-size: clamp(2.6rem, 9vw, 5.5rem);
-  line-height: 0.98;
-  margin: 0 0 1.25rem;
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: clamp(1.3rem, 4.5vw, 2.75rem);
+  line-height: 1.18;
+  margin: 0;
   letter-spacing: -0.01em;
+  max-width: 24ch;
 }
 
 .hero h1 em {
-  color: var(--accent);
-  font-style: italic;
-}
-
-.lede {
-  max-width: 34ch;
-  font-size: clamp(1.05rem, 2.4vw, 1.3rem);
-  color: var(--muted);
-  margin: 0;
+  color: inherit;
+  font-style: normal;
 }
 
 main {
@@ -213,7 +197,7 @@ footer {
 }
 
 .why em {
-  color: var(--accent);
+  color: inherit;
 }
 
 .meta {
