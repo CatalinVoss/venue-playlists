@@ -22,16 +22,14 @@ cities:
       - name: The Independent
         slug: the-independent-sf
         source: ticketmaster
-        ticketmaster_venue_id: "229401"
+        ticketmaster_venue_id: KovZpZAAl7AA
         calendar_url: https://www.theindependentsf.com/
         spotify_playlist_id:
 
       - name: Rickshaw Stop
         slug: rickshaw-stop-sf
-        # TM under-lists Rickshaw (many shows ticket via See Tickets/Eventbrite),
-        # so the venue calendar is the authoritative source here.
-        source: scrape
-        ticketmaster_venue_id: "229795"
+        source: ticketmaster
+        ticketmaster_venue_id: KovZpZAa1JaA
         calendar_url: https://rickshawstop.com/calendar/
         spotify_playlist_id:
 
@@ -45,12 +43,14 @@ cities:
 
       - name: The Chapel
         slug: the-chapel-sf
-        source: scrape
+        source: ticketmaster
+        ticketmaster_venue_id: KovZ917AOMf
         calendar_url: https://thechapelsf.com/music/
         spotify_playlist_id:
 
       - name: Great American Music Hall
         slug: great-american-music-hall-sf
-        source: scrape
+        source: ticketmaster
+        ticketmaster_venue_id: KovZpZAJk7aA
         calendar_url: https://gamh.com/calendar/
         spotify_playlist_id:
