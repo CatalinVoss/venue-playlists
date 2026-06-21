@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:51:04.667126+00:00",
+  "generated_at": "2026-06-21T19:59:38.176733+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -176,18 +176,6 @@
           ]
         },
         {
-          "name": "Bottom of the Hill",
-          "slug": "bottom-of-the-hill-sf",
-          "city": "San Francisco",
-          "playlist_id": "0IeeZO5JXnPerRv7KrIhw8",
-          "playlist_url": "https://open.spotify.com/playlist/0IeeZO5JXnPerRv7KrIhw8",
-          "cover": null,
-          "calendar_url": "https://bottomofthehill.com/calendar.html",
-          "stale": true,
-          "show_count": 0,
-          "shows": []
-        },
-        {
           "name": "The Chapel",
           "slug": "the-chapel-sf",
           "city": "San Francisco",
@@ -342,6 +330,437 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7038K"
+            }
+          ]
+        },
+        {
+          "name": "Swedish American Hall",
+          "slug": "swedish-american-hall-sf",
+          "city": "San Francisco",
+          "playlist_id": "1Iu3Bq39lNvyH0sh9BPfVn",
+          "playlist_url": "https://open.spotify.com/playlist/1Iu3Bq39lNvyH0sh9BPfVn",
+          "cover": "assets/covers/swedish-american-hall-sf.jpg",
+          "calendar_url": "https://swedishamericanhall.com/",
+          "stale": false,
+          "show_count": 5,
+          "shows": [
+            {
+              "artist": "Hannah Frances",
+              "show_date": "2026-08-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/hannah-frances-swedish-american-hall-tickets/14965863"
+            },
+            {
+              "artist": "anaiis",
+              "show_date": "2026-09-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/anaiis-swedish-american-hall-tickets/14971003"
+            },
+            {
+              "artist": "Jacob Alon",
+              "show_date": "2026-10-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jacob-alon-swedish-american-hall-tickets/14956393"
+            },
+            {
+              "artist": "Allan Rayman",
+              "show_date": "2026-10-16",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-american-hall-tickets/14971113"
+            },
+            {
+              "artist": "Allan Rayman",
+              "show_date": "2026-10-16",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/hotel-allan-the-swedish-american-hall-tickets/14971303"
+            }
+          ]
+        },
+        {
+          "name": "Cafe du Nord",
+          "slug": "cafe-du-nord-sf",
+          "city": "San Francisco",
+          "playlist_id": "5afaACL3WS3yfA30cJJzVV",
+          "playlist_url": "https://open.spotify.com/playlist/5afaACL3WS3yfA30cJJzVV",
+          "cover": "assets/covers/cafe-du-nord-sf.jpg",
+          "calendar_url": "https://cafedunord.com/",
+          "stale": false,
+          "show_count": 42,
+          "shows": [
+            {
+              "artist": "Domani",
+              "show_date": "2026-06-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/domani-with-king-cafe-du-nord-tickets/14791813"
+            },
+            {
+              "artist": "Metalachi",
+              "show_date": "2026-06-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/metalachi-cafe-du-nord-tickets/14118674"
+            },
+            {
+              "artist": "Maddie Jay",
+              "show_date": "2026-07-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/maddie-jay-with-dani-offline-cafe-du-nord-tickets/14831903"
+            },
+            {
+              "artist": "The Psycodelics",
+              "show_date": "2026-07-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-psycodelics-cafe-du-nord-tickets/14781783"
+            },
+            {
+              "artist": "Jared Mattson",
+              "show_date": "2026-07-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jared-mattson-ruban-nielson-cafe-du-nord-tickets/14956913"
+            },
+            {
+              "artist": "Atta Boy",
+              "show_date": "2026-07-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/atta-boy-cafe-du-nord-tickets/14870573"
+            },
+            {
+              "artist": "Don't Tell John with Floratura, and Stimmy",
+              "show_date": "2026-07-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dont-tell-john-with-floratura-cafe-du-nord-tickets/14935273"
+            },
+            {
+              "artist": "3ee",
+              "show_date": "2026-07-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/3ee-cafe-du-nord-tickets/14932493"
+            },
+            {
+              "artist": "Brotherkenzie",
+              "show_date": "2026-07-14",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/brotherkenzie-cafe-du-nord-tickets/14896513"
+            },
+            {
+              "artist": "Alex Lahey",
+              "show_date": "2026-07-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/alex-lahey-solo-with-talker-cafe-du-nord-tickets/14872113"
+            },
+            {
+              "artist": "The Mainliners",
+              "show_date": "2026-07-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-mainliners-cafe-du-nord-tickets/14969473"
+            },
+            {
+              "artist": "Vacation Manor",
+              "show_date": "2026-07-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/vacation-manor-with-jettee-and-cafe-du-nord-tickets/14832423"
+            }
+          ]
+        },
+        {
+          "name": "Bimbo's 365 Club",
+          "slug": "bimbos-365-club-sf",
+          "city": "San Francisco",
+          "playlist_id": "3H39xXCYHhKZhHYACa51hR",
+          "playlist_url": "https://open.spotify.com/playlist/3H39xXCYHhKZhHYACa51hR",
+          "cover": "assets/covers/bimbos-365-club-sf.jpg",
+          "calendar_url": "https://bimbos365club.com/",
+          "stale": false,
+          "show_count": 11,
+          "shows": [
+            {
+              "artist": "Tainted Love",
+              "show_date": "2026-06-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tainted-love-bimbos-365-club-tickets/14823623"
+            },
+            {
+              "artist": "Daniela Andrade",
+              "show_date": "2026-06-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/daniela-andrade-bimbos-365-club-tickets/14182184"
+            },
+            {
+              "artist": "Mustache Harbor",
+              "show_date": "2026-08-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-tickets/14823673"
+            },
+            {
+              "artist": "Super Diamond",
+              "show_date": "2026-09-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/super-diamond-bimbos-365-club-tickets/14816803"
+            },
+            {
+              "artist": "Haute & Freddy",
+              "show_date": "2026-09-14",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/haute-freddy-bimbos-365-club-tickets/14826723"
+            },
+            {
+              "artist": "Lido Pimienta",
+              "show_date": "2026-09-18",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Chancha Via Circuito"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-tickets/14928063"
+            },
+            {
+              "artist": "Elder Island",
+              "show_date": "2026-09-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/elder-island-bimbos-365-club-tickets/14874123"
+            },
+            {
+              "artist": "Tokyo Tea Room",
+              "show_date": "2026-09-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tokyo-tea-room-bimbos-365-club-tickets/14922413"
+            },
+            {
+              "artist": "Emei",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/emei-bimbos-365-club-tickets/14871093"
+            },
+            {
+              "artist": "MARO",
+              "show_date": "2026-10-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/maro-so-much-has-changed-moved-san-francisco-california-10-12-2026/event/1C00635B15F4D47F"
+            },
+            {
+              "artist": "Lewis OfMan",
+              "show_date": "2026-10-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14933603"
+            }
+          ]
+        },
+        {
+          "name": "Brick & Mortar Music Hall",
+          "slug": "brick-and-mortar-sf",
+          "city": "San Francisco",
+          "playlist_id": "4dYWuc3jyb5G9y4aFplRZZ",
+          "playlist_url": "https://open.spotify.com/playlist/4dYWuc3jyb5G9y4aFplRZZ",
+          "cover": "assets/covers/brick-and-mortar-sf.jpg",
+          "calendar_url": "https://brickandmortarmusic.com/",
+          "stale": false,
+          "show_count": 43,
+          "shows": [
+            {
+              "artist": "Bayou",
+              "show_date": "2026-06-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bayou-brick-and-mortar-music-hall-tickets/14866443"
+            },
+            {
+              "artist": "Sea Wolf",
+              "show_date": "2026-06-24",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sea-wolf-solo-emory-brick-and-mortar-music-hall-tickets/14917923"
+            },
+            {
+              "artist": "Ian Kelly, BossLifeBigSpence, Stunnaman02",
+              "show_date": "2026-06-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ian-kelly-bosslifebigspence-stunnaman02-brick-and-mortar-music-hall-tickets/14906403"
+            },
+            {
+              "artist": "Analog Dream + Indigo Elephant + Twin Bloom",
+              "show_date": "2026-06-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/analog-dream-indigo-elephant-brick-and-mortar-music-hall-tickets/14870063"
+            },
+            {
+              "artist": "Sekou",
+              "show_date": "2026-06-27",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sekou-presley-regier-brick-and-mortar-music-hall-tickets/14832433"
+            },
+            {
+              "artist": "TMI , BoxCutter , Alison",
+              "show_date": "2026-06-28",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tmi-boxcutter-alison-brick-and-mortar-music-hall-tickets/14964853"
+            },
+            {
+              "artist": "Luna the Blooma, SundaY, Jay De La Cruz",
+              "show_date": "2026-07-03",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/luna-the-blooma-sunday-jay-brick-and-mortar-music-hall-tickets/14779763"
+            },
+            {
+              "artist": "Iluka",
+              "show_date": "2026-07-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/iluka-brick-and-mortar-music-hall-tickets/14952633"
+            },
+            {
+              "artist": "Earth to Eve",
+              "show_date": "2026-07-10",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/earth-to-eve-brick-and-mortar-music-hall-tickets/14852253"
+            },
+            {
+              "artist": "lil hero, 3lise, D1gital Diva, Ethereality, Jas the Muse",
+              "show_date": "2026-07-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lil-hero-3lise-d1gital-diva-brick-and-mortar-music-hall-tickets/14971433"
+            },
+            {
+              "artist": "bottombunk, cup cup, Sunset Chet",
+              "show_date": "2026-07-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bottombunk-cup-cup-sunset-chet-brick-and-mortar-music-hall-tickets/14196054"
+            },
+            {
+              "artist": "THE FEMCELS",
+              "show_date": "2026-07-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-femcels-brick-and-mortar-music-hall-tickets/14888873"
+            }
+          ]
+        },
+        {
+          "name": "Neck of the Woods",
+          "slug": "neck-of-the-woods-sf",
+          "city": "San Francisco",
+          "playlist_id": "6ye1SYSyAuJBwWda5n9VUF",
+          "playlist_url": "https://open.spotify.com/playlist/6ye1SYSyAuJBwWda5n9VUF",
+          "cover": "assets/covers/neck-of-the-woods-sf.jpg",
+          "calendar_url": "https://www.neckofthewoodssf.com/",
+          "stale": false,
+          "show_count": 47,
+          "shows": [
+            {
+              "artist": "The Moondrops/ Teary/ Misandrist",
+              "show_date": "2026-06-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-moondrops-teary-misandrist-neck-of-the-woods-tickets/14961273"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-06-24",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032934"
+            },
+            {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-06-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14193984"
+            },
+            {
+              "artist": "Vax",
+              "show_date": "2026-06-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/vax-neck-of-the-woods-tickets/14963243"
+            },
+            {
+              "artist": "Vicious Cycle/ Of Time/ Diablura/ Fabricant",
+              "show_date": "2026-06-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/vicious-cycle-of-time-diablura-neck-of-the-woods-tickets/14979563"
+            },
+            {
+              "artist": "The Cutthroats/ Stiff Arm/ Bone Thistle/ Usurper/ The Evening Arrangement",
+              "show_date": "2026-06-28",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-cutthroats-stiff-arm-bone-neck-of-the-woods-tickets/14948413"
+            },
+            {
+              "artist": "Asian Glow/ / What is Your Name?/ Ivory Daze/ Junebug/ Slugfeast",
+              "show_date": "2026-06-30",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/asian-glow-what-is-neck-of-the-woods-tickets/14899423"
+            },
+            {
+              "artist": "Tony Jupiter/ Rangoo/ TBA",
+              "show_date": "2026-06-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tony-jupiter-rangoo-tba-neck-of-the-woods-tickets/14846633"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-07-01",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032894"
+            },
+            {
+              "artist": "Frolic/ Blind Illusion/ Broken Glass Sanctuary/ Hemotoxin",
+              "show_date": "2026-07-03",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/frolic-blind-illusion-broken-glass-neck-of-the-woods-tickets/14897083"
+            },
+            {
+              "artist": "Big Girl/ Bloodsugar/ Bombshell",
+              "show_date": "2026-07-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/big-girl-bloodsugar-bombshell-neck-of-the-woods-tickets/14899283"
+            },
+            {
+              "artist": "Pussy Whipped/ Mahbuhay Gardens/ W*B*PR*S*NC*/The Unevicted",
+              "show_date": "2026-07-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pussy-whipped-mahbuhay-gardens-wbprsncthe-neck-of-the-woods-tickets/14971063"
             }
           ]
         }

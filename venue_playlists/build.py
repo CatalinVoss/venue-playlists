@@ -147,17 +147,29 @@ def _process_venue(
     up = compose.upcoming_events(raw, tz, lookahead_days=lookahead_days)
     stale = not up
 
-    # 2. assemble the ordered track list (soonest show first)
-    uris, seen = [], set()
+    # 2. assemble tracks per artist (artists kept in soonest-show-first order)
+    per_artist: list[list[str]] = []
     for ev in up:
         if ev.artist not in artist_cache:
             artist_cache[ev.artist] = sp.assemble_tracks(ev.artist, n=tracks_per_artist)
-        for tr in artist_cache[ev.artist]:
-            if tr["uri"] not in seen:
-                seen.add(tr["uri"])
-                uris.append(tr["uri"])
+        artist_uris = [tr["uri"] for tr in artist_cache[ev.artist]]
+        if artist_uris:
+            per_artist.append(artist_uris)
+
+    # Round-robin across artists so the playlist mixes acts instead of stacking
+    # one artist's tracks back-to-back; artist order (soonest show first) is kept
+    # by taking each artist's top pick before any second picks.
+    uris, seen = [], set()
+    for depth in range(max(map(len, per_artist), default=0)):
+        for artist_uris in per_artist:
+            if depth < len(artist_uris):
+                uri = artist_uris[depth]
+                if uri not in seen:
+                    seen.add(uri)
+                    uris.append(uri)
+                    if len(uris) >= max_tracks:
+                        break
         if len(uris) >= max_tracks:
-            uris = uris[:max_tracks]
             break
 
     # 3. ensure playlist + write

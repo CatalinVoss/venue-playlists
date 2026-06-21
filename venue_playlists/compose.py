@@ -34,9 +34,11 @@ def upcoming_events(events: list[Event], tz_name: str, *, lookahead_days: int) -
 
 
 def playlist_name(venue_name: str, *, stale: bool) -> str:
+    # Just the venue title. Stale state is flagged in parentheses (no dashes) so
+    # a broken/empty calendar stays visible without cluttering the normal name.
     if stale:
-        return f"{venue_name} – recent (no upcoming shows listed)"
-    return f"{venue_name} – upcoming shows"
+        return f"{venue_name} (no upcoming shows yet)"
+    return venue_name
 
 
 def playlist_description(venue_name: str, *, n_shows: int, updated, stale: bool) -> str:
