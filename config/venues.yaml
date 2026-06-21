@@ -49,12 +49,6 @@ cities:
         ticketmaster_venue_id: KovZ917ACQ0
         calendar_url: https://swedishamericanhall.com/
 
-      - name: Cafe du Nord
-        slug: cafe-du-nord-sf
-        source: ticketmaster
-        ticketmaster_venue_id: KovZ917ANZn
-        calendar_url: https://cafedunord.com/
-
       - name: Bimbo's 365 Club
         slug: bimbos-365-club-sf
         source: ticketmaster

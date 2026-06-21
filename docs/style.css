@@ -222,6 +222,13 @@ footer {
   margin-top: 1.4rem;
 }
 
+.meta a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .card,
   .follow {

@@ -19,12 +19,8 @@
   </head>
   <body>
     <header class="hero">
-      <p class="kicker">live music · self-updating</p>
-      <h1>Hear the room<br /><em>before you go.</em></h1>
-      <p class="lede">
-        One Spotify playlist per venue – the artists playing there soon, soonest
-        show first. Find something you love this week, then go catch the set.
-      </p>
+      <h1>A Spotify playlist for every music venue, built from
+        <em>who's playing there next.</em></h1>
     </header>
 
     <main id="app">
@@ -33,14 +29,15 @@
 
     <footer>
       <p class="why">
-        I follow musicians, but the ones I love rarely roll through my town – and
-        the bands that <em>do</em> play the small rooms near me, I've never heard
-        of. So this listens to a handful of venues' calendars and turns each into
-        a playlist, refreshed every day. Discover a band at the top of the list,
-        and there's a good chance you can go see them this weekend.
+        I follow musicians, but the ones I love rarely come through town – and the
+        bands that <em>do</em> play the small rooms near me, I've never heard of.
+        So this reads each venue's upcoming calendar and turns it into a Spotify
+        playlist, refreshed daily. The idea came from a job candidate's coding-
+        bootcamp project, built before agentic engineering – I hadn't seen anyone
+        do it since, so here it is.
       </p>
       <p class="meta">
-        Updated <span id="updated">—</span> · auto-generated · open source.
+        <a href="https://github.com/CatalinVoss/venue-playlists">open source</a>
       </p>
     </footer>
 
@@ -116,15 +113,6 @@
           city.venues.forEach((v, i) => grid.appendChild(card(v, i)));
           section.appendChild(grid);
           app.appendChild(section);
-        }
-        if (data.generated_at) {
-          document.getElementById("updated").textContent = new Date(
-            data.generated_at
-          ).toLocaleDateString(undefined, {
-            month: "short",
-            day: "numeric",
-            year: "numeric",
-          });
         }
       }
 
