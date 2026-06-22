@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:59:38.176733+00:00",
+  "generated_at": "2026-06-22T08:29:42.469728+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 52,
+          "show_count": 53,
           "shows": [
             {
               "artist": "Out & Loud",
@@ -485,13 +485,6 @@
           "show_count": 43,
           "shows": [
             {
-              "artist": "Bayou",
-              "show_date": "2026-06-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bayou-brick-and-mortar-music-hall-tickets/14866443"
-            },
-            {
               "artist": "Sea Wolf",
               "show_date": "2026-06-24",
               "show_time": "20:30:00",
@@ -567,6 +560,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-femcels-brick-and-mortar-music-hall-tickets/14888873"
+            },
+            {
+              "artist": "8RO8 \u2014 HAMMAJANG Tour",
+              "show_date": "2026-07-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/8ro8-hammajang-tour-brick-and-mortar-music-hall-tickets/14975993"
             }
           ]
         },
@@ -579,15 +579,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "The Moondrops/ Teary/ Misandrist",
-              "show_date": "2026-06-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-moondrops-teary-misandrist-neck-of-the-woods-tickets/14961273"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-06-24",
@@ -664,6 +657,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/pussy-whipped-mahbuhay-gardens-wbprsncthe-neck-of-the-woods-tickets/14971063"
+            },
+            {
+              "artist": "Dustbowl Champion/ Computer Kill",
+              "show_date": "2026-07-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dustbowl-champion-computer-kill-neck-of-the-woods-tickets/14787313"
             }
           ]
         }

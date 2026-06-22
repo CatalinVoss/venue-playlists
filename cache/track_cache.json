@@ -2718,5 +2718,34 @@
       "name": "Ceiling Fan",
       "artist": "Swapmeet"
     }
+  ],
+  "Sawyer Hill": [
+    {
+      "uri": "spotify:track:3TCADnvaBftMuVZMxMNJV3",
+      "name": "High On My Lows",
+      "artist": "Sawyer Hill"
+    },
+    {
+      "uri": "spotify:track:2hzdutjZmHEyM2EB0JqDsx",
+      "name": "Look At The Time",
+      "artist": "Sawyer Hill"
+    },
+    {
+      "uri": "spotify:track:7eZhfoVxaTWG94JvOG7hzi",
+      "name": "Jimmy's Gone Numb",
+      "artist": "Sawyer Hill"
+    }
+  ],
+  "T\u014dth": [
+    {
+      "uri": "spotify:track:1QJCkwatMNwqxqgWLY9XTV",
+      "name": "Not Broken",
+      "artist": "T\u014dth"
+    },
+    {
+      "uri": "spotify:track:2gGnjW3AtQGqyLWBHGspIK",
+      "name": "Turnaround (Cocaine Song)",
+      "artist": "T\u014dth"
+    }
   ]
 }
