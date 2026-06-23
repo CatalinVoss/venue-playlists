@@ -2747,5 +2747,73 @@
       "name": "Turnaround (Cocaine Song)",
       "artist": "T\u014dth"
     }
+  ],
+  "Daniel Avery": [
+    {
+      "uri": "spotify:track:0jUhvsQB5KcuQCFcv4LVo5",
+      "name": "58500 - Daniel Avery Remix",
+      "artist": "Daniel Avery"
+    },
+    {
+      "uri": "spotify:track:4n0Hki3RG2Fa35s5PORLIq",
+      "name": "Lone Swordsman",
+      "artist": "Daniel Avery"
+    },
+    {
+      "uri": "spotify:track:6cjUtb7XopHEeQKBjj0rER",
+      "name": "Drone Logic",
+      "artist": "Daniel Avery"
+    }
+  ],
+  "EVAN GIIA": [
+    {
+      "uri": "spotify:track:6ZP2iPx7t4epRBAKWvRPt1",
+      "name": "WESTWORLD",
+      "artist": "EVAN GIIA"
+    },
+    {
+      "uri": "spotify:track:6xkVpH24a622AA47vO8ezP",
+      "name": "tiny life - Duskus Remix",
+      "artist": "EVAN GIIA"
+    },
+    {
+      "uri": "spotify:track:4D7emHjofR0gcO9VxSoShw",
+      "name": "By My Side",
+      "artist": "EVAN GIIA"
+    }
+  ],
+  "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour": [
+    {
+      "uri": "spotify:track:3H8JtpXdyzmly6hamvJN1A",
+      "name": "FML",
+      "artist": "astrid"
+    },
+    {
+      "uri": "spotify:track:33oLvbCGz3XbzmoHylcvxH",
+      "name": "CRASH!",
+      "artist": "astrid"
+    },
+    {
+      "uri": "spotify:track:07ihZPD6mysZsGNqW3J0Bw",
+      "name": "Lost Signal",
+      "artist": "astrid"
+    }
+  ],
+  "Florence Road": [
+    {
+      "uri": "spotify:track:1GZ5KqHOdkU0cZoz1JfQo8",
+      "name": "Hanging Out To Dry",
+      "artist": "Florence Road"
+    },
+    {
+      "uri": "spotify:track:7vBOMoBKb6InbMdQiFwRCO",
+      "name": "Miss",
+      "artist": "Florence Road"
+    },
+    {
+      "uri": "spotify:track:4mYALBEaw2EEyuxJ2PhYwG",
+      "name": "Goodnight",
+      "artist": "Florence Road"
+    }
   ]
 }
