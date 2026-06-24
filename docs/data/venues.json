@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T07:32:56.934694+00:00",
+  "generated_at": "2026-06-24T07:29:07.688850+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 55,
+          "show_count": 61,
           "shows": [
             {
               "artist": "Out & Loud",
@@ -113,8 +113,17 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 8,
+          "show_count": 9,
           "shows": [
+            {
+              "artist": "Sports",
+              "show_date": "2026-08-08",
+              "show_time": "21:30:00",
+              "support_acts": [
+                "DJ Aaron Axelsen"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/sports-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D1F73A9A7B"
+            },
             {
               "artist": "PLAYLUNCH",
               "show_date": "2026-08-11",
@@ -184,7 +193,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 37,
           "shows": [
             {
               "artist": "Fleetwood Macram\u00e9",
@@ -390,7 +399,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 11,
+          "show_count": 12,
           "shows": [
             {
               "artist": "Tainted Love",
@@ -405,6 +414,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/daniela-andrade-bimbos-365-club-tickets/14182184"
+            },
+            {
+              "artist": "Balu Brigada",
+              "show_date": "2026-08-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/balu-brigada-bimbos-365-club-tickets/14205614"
             },
             {
               "artist": "Mustache Harbor",
@@ -482,7 +498,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 45,
+          "show_count": 46,
           "shows": [
             {
               "artist": "Sea Wolf",
@@ -579,7 +595,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 48,
           "shows": [
             {
               "artist": "Open Mic Night",
