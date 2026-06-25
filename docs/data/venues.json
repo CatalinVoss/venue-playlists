@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:29:07.688850+00:00",
+  "generated_at": "2026-06-25T07:30:01.314933+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 63,
           "shows": [
             {
               "artist": "Out & Loud",
@@ -399,7 +399,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 13,
           "shows": [
             {
               "artist": "Tainted Love",
@@ -481,11 +481,11 @@
               "ticket_url": "https://www.ticketmaster.com/maro-so-much-has-changed-moved-san-francisco-california-10-12-2026/event/1C00635B15F4D47F"
             },
             {
-              "artist": "Lewis OfMan",
-              "show_date": "2026-10-17",
+              "artist": "FIGHTMASTER",
+              "show_date": "2026-10-14",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14933603"
+              "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
             }
           ]
         },
@@ -498,15 +498,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 46,
+          "show_count": 47,
           "shows": [
-            {
-              "artist": "Sea Wolf",
-              "show_date": "2026-06-24",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sea-wolf-solo-emory-brick-and-mortar-music-hall-tickets/14917923"
-            },
             {
               "artist": "Ian Kelly, BossLifeBigSpence, Stunnaman02",
               "show_date": "2026-06-25",
@@ -550,11 +543,11 @@
               "ticket_url": "https://www.ticketweb.com/event/iluka-brick-and-mortar-music-hall-tickets/14952633"
             },
             {
-              "artist": "Earth to Eve",
+              "artist": "Earth to Eve, Camilla Covington",
               "show_date": "2026-07-10",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/earth-to-eve-brick-and-mortar-music-hall-tickets/14852253"
+              "ticket_url": "https://www.ticketweb.com/event/earth-to-eve-camilla-covington-brick-and-mortar-music-hall-tickets/14852253"
             },
             {
               "artist": "lil hero, 3lise, D1gital Diva, Ethereality, Jas the Muse",
@@ -583,6 +576,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/8ro8-hammajang-tour-brick-and-mortar-music-hall-tickets/14975993"
+            },
+            {
+              "artist": "Love Letter",
+              "show_date": "2026-07-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/love-letter-brick-and-mortar-music-hall-tickets/14942533"
             }
           ]
         },
@@ -597,13 +597,6 @@
           "stale": false,
           "show_count": 48,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-06-24",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032934"
-            },
             {
               "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
               "show_date": "2026-06-26",
@@ -680,6 +673,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dustbowl-champion-computer-kill-neck-of-the-woods-tickets/14787313"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-07-08",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032744"
             }
           ]
         }

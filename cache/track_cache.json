@@ -2998,5 +2998,98 @@
       "artist": "Wesley Joseph"
     }
   ],
-  "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper": []
+  "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper": [],
+  "Automatic": [],
+  "Frog": [
+    {
+      "uri": "spotify:track:1yVyCAFIVeqT7ytG271idT",
+      "name": "You Know I'm Down",
+      "artist": "Frog"
+    }
+  ],
+  "FIGHTMASTER": [
+    {
+      "uri": "spotify:track:5tnguwr2vzXKmoFoJqxCwd",
+      "name": "Cowboy Tumbleweed",
+      "artist": "FIGHTMASTER"
+    },
+    {
+      "uri": "spotify:track:6YebnWvX5MZNgQXcvjLr3h",
+      "name": "Minotaur",
+      "artist": "FIGHTMASTER"
+    },
+    {
+      "uri": "spotify:track:6tgvaWyhOnh3eAWJpsCY4B",
+      "name": "Bad Man",
+      "artist": "FIGHTMASTER"
+    }
+  ],
+  "Earth to Eve, Camilla Covington": [
+    {
+      "uri": "spotify:track:5u62zJvFqU9ceakuoMeyeQ",
+      "name": "Mosquito Bites",
+      "artist": "Camilla Covington"
+    },
+    {
+      "uri": "spotify:track:1p6eXboXJuk3fkPziK47iy",
+      "name": "Jealous",
+      "artist": "Camilla Covington"
+    },
+    {
+      "uri": "spotify:track:535T4pc2P4Y8z2IwMEklKI",
+      "name": "Daily",
+      "artist": "Camilla Covington"
+    }
+  ],
+  "Max Fry": [
+    {
+      "uri": "spotify:track:5h8mMDgymYYbKfdqhrdwZY",
+      "name": "zombie",
+      "artist": "Max Fry"
+    },
+    {
+      "uri": "spotify:track:0lLB36wM1xOFRkSauT0GVq",
+      "name": "lightspeed",
+      "artist": "Max Fry"
+    },
+    {
+      "uri": "spotify:track:0IxDs5fNQvQXm4fKbrZwe9",
+      "name": "dark out",
+      "artist": "Max Fry"
+    }
+  ],
+  "REZN": [
+    {
+      "uri": "spotify:track:1VqWkPxvADiyHdEZDZYSfC",
+      "name": "Optic Echo",
+      "artist": "REZN"
+    },
+    {
+      "uri": "spotify:track:40SDoPrRXlZIWlQOK3meCI",
+      "name": "Garden Green",
+      "artist": "REZN"
+    },
+    {
+      "uri": "spotify:track:2ZMLWGBdXSRRewKj7jVWXi",
+      "name": "High Tide",
+      "artist": "REZN"
+    }
+  ],
+  "Worlds Worst/ Bugbath/ Slumped": [
+    {
+      "uri": "spotify:track:4FsgaTkpoHhK4p9HXDg6Pd",
+      "name": "New Seasons",
+      "artist": "Worlds Worst"
+    },
+    {
+      "uri": "spotify:track:4ZBf9RlEUr86x0lfa8c3sV",
+      "name": "Challenger",
+      "artist": "Worlds Worst"
+    },
+    {
+      "uri": "spotify:track:5p31gXMyrLUtvDbYIiSaBm",
+      "name": "Motor Mouth",
+      "artist": "Worlds Worst"
+    }
+  ]
 }
