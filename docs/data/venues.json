@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:30:01.314933+00:00",
+  "generated_at": "2026-06-26T07:36:29.168634+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Out & Loud",
-              "show_date": "2026-06-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/out-loud-the-independent-tickets/14783093"
-            },
             {
               "artist": "The Lagoons",
               "show_date": "2026-06-26",
@@ -101,6 +94,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/riff-wood-the-independent-tickets/14818353"
+            },
+            {
+              "artist": "Diggy Graves",
+              "show_date": "2026-07-25",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Ryan Oakes"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/diggy-graves-the-independent-tickets/14015964"
             }
           ]
         },
@@ -351,7 +353,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 5,
+          "show_count": 6,
           "shows": [
             {
               "artist": "Hannah Frances",
@@ -359,6 +361,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/hannah-frances-swedish-american-hall-tickets/14965863"
+            },
+            {
+              "artist": "Lenka",
+              "show_date": "2026-09-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lenka-swedish-american-hall-tickets/14212574"
             },
             {
               "artist": "anaiis",
@@ -498,15 +507,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "Ian Kelly, BossLifeBigSpence, Stunnaman02",
-              "show_date": "2026-06-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ian-kelly-bosslifebigspence-stunnaman02-brick-and-mortar-music-hall-tickets/14906403"
-            },
             {
               "artist": "Analog Dream + Indigo Elephant + Twin Bloom",
               "show_date": "2026-06-26",
@@ -583,6 +585,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/love-letter-brick-and-mortar-music-hall-tickets/14942533"
+            },
+            {
+              "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
+              "show_date": "2026-07-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/paul-psarras-with-alejandro-aranda-brick-and-mortar-music-hall-tickets/14954143?REFERRAL_ID=tmfeed"
             }
           ]
         },

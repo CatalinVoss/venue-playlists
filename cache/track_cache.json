@@ -3091,5 +3091,56 @@
       "name": "Motor Mouth",
       "artist": "Worlds Worst"
     }
+  ],
+  "Everclear": [
+    {
+      "uri": "spotify:track:37EJtTS7jT5WUyXGZzrwnI",
+      "name": "Santa Monica",
+      "artist": "Everclear"
+    },
+    {
+      "uri": "spotify:track:2hx4ptqsE8dboLH3NCLmaN",
+      "name": "Father Of Mine",
+      "artist": "Everclear"
+    },
+    {
+      "uri": "spotify:track:2fhfoZqqTJ8jo4HvWseNfM",
+      "name": "I Will Buy You A New Life",
+      "artist": "Everclear"
+    }
+  ],
+  "Lenka": [
+    {
+      "uri": "spotify:track:1mHoqHeQClLBp5UO3TbUac",
+      "name": "The Show",
+      "artist": "Lenka"
+    },
+    {
+      "uri": "spotify:track:1c97hmN3Z064RQZTvCfM84",
+      "name": "Everything at Once",
+      "artist": "Lenka"
+    },
+    {
+      "uri": "spotify:track:2mxT8OWvZSjAzmYYGeBjoY",
+      "name": "Trouble Is a Friend",
+      "artist": "Lenka"
+    }
+  ],
+  "Kevian Kraemer + closebye": [
+    {
+      "uri": "spotify:track:3lF2lMJCNu6shqZL0SuHae",
+      "name": "Sweater",
+      "artist": "Kevian Kraemer"
+    },
+    {
+      "uri": "spotify:track:0htL8P0K5r7CEkVqoOBTyt",
+      "name": "Broken Toe",
+      "artist": "Kevian Kraemer"
+    },
+    {
+      "uri": "spotify:track:1a0TrCYoXd7b84mvuSYH1x",
+      "name": "Buddy",
+      "artist": "Kevian Kraemer"
+    }
   ]
 }
