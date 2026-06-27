@@ -3142,5 +3142,73 @@
       "name": "Buddy",
       "artist": "Kevian Kraemer"
     }
+  ],
+  "BALTHVS": [
+    {
+      "uri": "spotify:track:2Rlw1EslDSKSODPst1GhOY",
+      "name": "Sun Colored Eyes",
+      "artist": "BALTHVS"
+    },
+    {
+      "uri": "spotify:track:5ft9A4rISW2RA026LeLKtW",
+      "name": "Turkish Coffee",
+      "artist": "BALTHVS"
+    },
+    {
+      "uri": "spotify:track:5bPxFmZnHmyUTBH3k1kYQr",
+      "name": "Mango Season",
+      "artist": "BALTHVS"
+    }
+  ],
+  "Phillip Phillips": [
+    {
+      "uri": "spotify:track:1EAgPzRbK9YmdOESSMUm6P",
+      "name": "Home",
+      "artist": "Phillip Phillips"
+    },
+    {
+      "uri": "spotify:track:56sxN1yKg1dgOZXBcAHkJG",
+      "name": "Gone, Gone, Gone",
+      "artist": "Phillip Phillips"
+    },
+    {
+      "uri": "spotify:track:2VXMJvygwZzJsNPfFdxDN6",
+      "name": "Homesick",
+      "artist": "Phillip Phillips"
+    }
+  ],
+  "The Black Heart Procession": [
+    {
+      "uri": "spotify:track:6Ipvys1H997fXyAl4NbKBj",
+      "name": "It\u2019s a Crime I Never Told You About the Diamonds in Your Eyes",
+      "artist": "The Black Heart Procession"
+    },
+    {
+      "uri": "spotify:track:7qvYf1g5Mxuu8ziOsflBo1",
+      "name": "Fade Away",
+      "artist": "The Black Heart Procession"
+    },
+    {
+      "uri": "spotify:track:3sPTkfa4oXtyC2blcFIcCQ",
+      "name": "A Light So Dim",
+      "artist": "The Black Heart Procession"
+    }
+  ],
+  "Miguel Kultura": [
+    {
+      "uri": "spotify:track:1uaDvGxAbiqz8VdRqlwpl7",
+      "name": "Estilo Chicano",
+      "artist": "Miguel Kultura"
+    },
+    {
+      "uri": "spotify:track:43UNrTfyd6KByXMWTVF99a",
+      "name": "Cortez",
+      "artist": "Miguel Kultura"
+    },
+    {
+      "uri": "spotify:track:6YvczVcQxAj5frJIM5LMQF",
+      "name": "Chisme",
+      "artist": "Miguel Kultura"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T07:36:29.168634+00:00",
+  "generated_at": "2026-06-27T07:23:48.891774+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 64,
           "shows": [
-            {
-              "artist": "The Lagoons",
-              "show_date": "2026-06-26",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-lagoons-the-independent-tickets/14185934"
-            },
             {
               "artist": "Bay Pride Amplified!",
               "show_date": "2026-06-27",
@@ -103,6 +96,13 @@
                 "Ryan Oakes"
               ],
               "ticket_url": "https://www.ticketweb.com/event/diggy-graves-the-independent-tickets/14015964"
+            },
+            {
+              "artist": "WU LYF",
+              "show_date": "2026-07-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wu-lyf-the-independent-tickets/14081794"
             }
           ]
         },
@@ -296,7 +296,7 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 7,
           "shows": [
             {
               "artist": "Wolfmother",
@@ -341,6 +341,15 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7038K"
+            },
+            {
+              "artist": "Phillip Phillips",
+              "show_date": "2026-10-09",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Elias Hix"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pte9"
             }
           ]
         },
@@ -408,15 +417,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 13,
+          "show_count": 12,
           "shows": [
-            {
-              "artist": "Tainted Love",
-              "show_date": "2026-06-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tainted-love-bimbos-365-club-tickets/14823623"
-            },
             {
               "artist": "Daniela Andrade",
               "show_date": "2026-06-27",
@@ -495,6 +497,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
+            },
+            {
+              "artist": "Lewis OfMan",
+              "show_date": "2026-10-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14933603"
             }
           ]
         },
@@ -509,13 +518,6 @@
           "stale": false,
           "show_count": 46,
           "shows": [
-            {
-              "artist": "Analog Dream + Indigo Elephant + Twin Bloom",
-              "show_date": "2026-06-26",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/analog-dream-indigo-elephant-brick-and-mortar-music-hall-tickets/14870063"
-            },
             {
               "artist": "Sekou",
               "show_date": "2026-06-27",
@@ -592,6 +594,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/paul-psarras-with-alejandro-aranda-brick-and-mortar-music-hall-tickets/14954143?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Alejandro Aranda (Hondo World) W/ Afterthought & Paul Psarras At Brick",
+              "show_date": "2026-07-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/alejandro-aranda-hondo-world-w-brick-and-mortar-music-hall-tickets/14817893?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -606,13 +615,6 @@
           "stale": false,
           "show_count": 48,
           "shows": [
-            {
-              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
-              "show_date": "2026-06-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14193984"
-            },
             {
               "artist": "Vax",
               "show_date": "2026-06-27",
@@ -689,6 +691,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032744"
+            },
+            {
+              "artist": "Tess & The Details/ Tsosis/ Amity St./ Poser Emo",
+              "show_date": "2026-07-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tess-the-details-tsosis-neck-of-the-woods-tickets/14191794"
             }
           ]
         }
