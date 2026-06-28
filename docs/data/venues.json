@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T07:23:48.891774+00:00",
+  "generated_at": "2026-06-28T07:38:49.645809+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Bay Pride Amplified!",
-              "show_date": "2026-06-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bay-pride-amplified-the-independent-tickets/14808243"
-            },
             {
               "artist": "Kelly McFarling",
               "show_date": "2026-07-02",
@@ -103,6 +96,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/wu-lyf-the-independent-tickets/14081794"
+            },
+            {
+              "artist": "Chandol",
+              "show_date": "2026-07-31",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/chandol-the-independent-tickets/14939923"
             }
           ]
         },
@@ -195,15 +195,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Fleetwood Macram\u00e9",
-              "show_date": "2026-06-27",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vv"
-            },
             {
               "artist": "Dylan Leblanc",
               "show_date": "2026-07-07",
@@ -284,6 +277,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v6"
+            },
+            {
+              "artist": "Meatbodies",
+              "show_date": "2026-07-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo7"
             }
           ]
         },
@@ -417,15 +417,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 11,
           "shows": [
-            {
-              "artist": "Daniela Andrade",
-              "show_date": "2026-06-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/daniela-andrade-bimbos-365-club-tickets/14182184"
-            },
             {
               "artist": "Balu Brigada",
               "show_date": "2026-08-06",
@@ -516,15 +509,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 46,
+          "show_count": 45,
           "shows": [
-            {
-              "artist": "Sekou",
-              "show_date": "2026-06-27",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sekou-presley-regier-brick-and-mortar-music-hall-tickets/14832433"
-            },
             {
               "artist": "TMI , BoxCutter , Alison",
               "show_date": "2026-06-28",
@@ -601,6 +587,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/alejandro-aranda-hondo-world-w-brick-and-mortar-music-hall-tickets/14817893?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Sace6",
+              "show_date": "2026-07-24",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sace6-brick-and-mortar-music-hall-tickets/14190344?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -613,22 +606,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "Vax",
-              "show_date": "2026-06-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/vax-neck-of-the-woods-tickets/14963243"
-            },
-            {
-              "artist": "Vicious Cycle/ Of Time/ Diablura/ Fabricant",
-              "show_date": "2026-06-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/vicious-cycle-of-time-diablura-neck-of-the-woods-tickets/14979563"
-            },
             {
               "artist": "The Cutthroats/ Stiff Arm/ Bone Thistle/ Usurper/ The Evening Arrangement",
               "show_date": "2026-06-28",
@@ -698,6 +677,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/tess-the-details-tsosis-neck-of-the-woods-tickets/14191794"
+            },
+            {
+              "artist": "Sinister Sounds Fest",
+              "show_date": "2026-07-10",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sinister-sounds-fest-neck-of-the-woods-tickets/14884233"
+            },
+            {
+              "artist": "Noragami/ Checkpoint Charlie/ Eclypso/ Everything Falls Into Place/ Sequioa",
+              "show_date": "2026-07-12",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
             }
           ]
         }
