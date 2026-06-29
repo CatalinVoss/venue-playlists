@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:38:49.645809+00:00",
+  "generated_at": "2026-06-29T08:08:25.973357+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Kelly McFarling",
@@ -509,15 +509,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 45,
+          "show_count": 44,
           "shows": [
-            {
-              "artist": "TMI , BoxCutter , Alison",
-              "show_date": "2026-06-28",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tmi-boxcutter-alison-brick-and-mortar-music-hall-tickets/14964853"
-            },
             {
               "artist": "Luna the Blooma, SundaY, Jay De La Cruz",
               "show_date": "2026-07-03",
@@ -594,6 +587,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sace6-brick-and-mortar-music-hall-tickets/14190344?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Ben Chapman",
+              "show_date": "2026-07-25",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ben-chapman-feet-on-fire-brick-and-mortar-music-hall-tickets/14757813?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -609,13 +609,6 @@
           "show_count": 46,
           "shows": [
             {
-              "artist": "The Cutthroats/ Stiff Arm/ Bone Thistle/ Usurper/ The Evening Arrangement",
-              "show_date": "2026-06-28",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-cutthroats-stiff-arm-bone-neck-of-the-woods-tickets/14948413"
-            },
-            {
               "artist": "Asian Glow/ / What is Your Name?/ Ivory Daze/ Junebug/ Slugfeast",
               "show_date": "2026-06-30",
               "show_time": "19:30:00",
@@ -623,11 +616,11 @@
               "ticket_url": "https://www.ticketweb.com/event/asian-glow-what-is-neck-of-the-woods-tickets/14899423"
             },
             {
-              "artist": "Tony Jupiter/ Rangoo/ TBA",
+              "artist": "Tony Jupiter/ Rangoo/ Luna Ivy",
               "show_date": "2026-06-30",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tony-jupiter-rangoo-tba-neck-of-the-woods-tickets/14846633"
+              "ticket_url": "https://www.ticketweb.com/event/tony-jupiter-rangoo-luna-ivy-neck-of-the-woods-tickets/14846633"
             },
             {
               "artist": "Open Mic Night",
@@ -691,6 +684,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
+            },
+            {
+              "artist": "Kill Bill The Rapper/ Ashtin Larold/ TBA",
+              "show_date": "2026-07-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kill-bill-the-rapper-ashtin-neck-of-the-woods-tickets/14895123"
             }
           ]
         }
