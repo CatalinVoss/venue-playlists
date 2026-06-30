@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T08:08:25.973357+00:00",
+  "generated_at": "2026-06-30T07:36:51.736981+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -195,7 +195,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 38,
           "shows": [
             {
               "artist": "Dylan Leblanc",
@@ -417,7 +417,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 11,
+          "show_count": 12,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -490,6 +490,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
+            },
+            {
+              "artist": "World Famous Pets",
+              "show_date": "2026-10-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tickets/14224414"
             },
             {
               "artist": "Lewis OfMan",
@@ -606,7 +613,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 46,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Asian Glow/ / What is Your Name?/ Ivory Daze/ Junebug/ Slugfeast",
@@ -658,6 +665,13 @@
               "ticket_url": "https://www.ticketweb.com/event/dustbowl-champion-computer-kill-neck-of-the-woods-tickets/14787313"
             },
             {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-07-07",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226964"
+            },
+            {
               "artist": "Open Mic Night",
               "show_date": "2026-07-08",
               "show_time": "19:30:00",
@@ -684,13 +698,6 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
-            },
-            {
-              "artist": "Kill Bill The Rapper/ Ashtin Larold/ TBA",
-              "show_date": "2026-07-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kill-bill-the-rapper-ashtin-neck-of-the-woods-tickets/14895123"
             }
           ]
         }
