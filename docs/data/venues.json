@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:36:51.736981+00:00",
+  "generated_at": "2026-07-01T07:49:09.917940+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -43,7 +43,9 @@
               "artist": "Young Franco",
               "show_date": "2026-07-10",
               "show_time": "21:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Mojo"
+              ],
               "ticket_url": "https://www.ticketweb.com/event/young-franco-the-independent-tickets/14769043"
             },
             {
@@ -195,7 +197,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 39,
           "shows": [
             {
               "artist": "Dylan Leblanc",
@@ -582,7 +584,7 @@
               "ticket_url": "https://www.ticketweb.com/event/paul-psarras-with-alejandro-aranda-brick-and-mortar-music-hall-tickets/14954143?REFERRAL_ID=tmfeed"
             },
             {
-              "artist": "Alejandro Aranda (Hondo World) W/ Afterthought & Paul Psarras At Brick",
+              "artist": "Alejandro Aranda (Hondo World) W/ Tyler Stone, Afterthought & Paul Psa",
               "show_date": "2026-07-23",
               "show_time": "20:00:00",
               "support_acts": [],
@@ -613,22 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Asian Glow/ / What is Your Name?/ Ivory Daze/ Junebug/ Slugfeast",
-              "show_date": "2026-06-30",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/asian-glow-what-is-neck-of-the-woods-tickets/14899423"
-            },
-            {
-              "artist": "Tony Jupiter/ Rangoo/ Luna Ivy",
-              "show_date": "2026-06-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tony-jupiter-rangoo-luna-ivy-neck-of-the-woods-tickets/14846633"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-07-01",
@@ -698,6 +686,20 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
+            },
+            {
+              "artist": "Kill Bill The Rapper/ Ashtin Larold/ TBA",
+              "show_date": "2026-07-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kill-bill-the-rapper-ashtin-neck-of-the-woods-tickets/14895123"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-07-14",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227134"
             }
           ]
         }

@@ -3276,5 +3276,23 @@
       "artist": "World Famous Pets"
     }
   ],
-  "Karaoke Tuesday": []
+  "Karaoke Tuesday": [],
+  "Katie Pruitt": [
+    {
+      "uri": "spotify:track:3aV4xJGmhJHnyRhnzx5iHE",
+      "name": "Out Of The Blue",
+      "artist": "Katie Pruitt"
+    },
+    {
+      "uri": "spotify:track:5j5bXVwxBapNPj0MbYBa6f",
+      "name": "Expectations",
+      "artist": "Katie Pruitt"
+    },
+    {
+      "uri": "spotify:track:26pLSSwAk1LOxl2Q018cTb",
+      "name": "Blackout [feat. Nolan Taylor]",
+      "artist": "Katie Pruitt"
+    }
+  ],
+  "Alejandro Aranda (Hondo World) W/ Tyler Stone, Afterthought & Paul Psa": []
 }
