@@ -3294,5 +3294,73 @@
       "artist": "Katie Pruitt"
     }
   ],
-  "Alejandro Aranda (Hondo World) W/ Tyler Stone, Afterthought & Paul Psa": []
+  "Alejandro Aranda (Hondo World) W/ Tyler Stone, Afterthought & Paul Psa": [],
+  "High Step Society": [
+    {
+      "uri": "spotify:track:1Cx0UgJIF1ZpEtFgylFjRc",
+      "name": "Girls Do It Best",
+      "artist": "High Step Society"
+    },
+    {
+      "uri": "spotify:track:7t2pwoRMzGz0ANWVKjqZ1l",
+      "name": "Echoes of Whiteaker",
+      "artist": "High Step Society"
+    },
+    {
+      "uri": "spotify:track:36Fnk1J3qUGChDAOkykcZr",
+      "name": "Sidestep",
+      "artist": "High Step Society"
+    }
+  ],
+  "Stella Lefty": [
+    {
+      "uri": "spotify:track:36idurZmYRjJ56KQ8JD9bN",
+      "name": "Boston",
+      "artist": "STELLA LEFTY"
+    },
+    {
+      "uri": "spotify:track:6pxf2SRlRfBwnQKcUZCm2s",
+      "name": "Thinking 'bout You",
+      "artist": "STELLA LEFTY"
+    },
+    {
+      "uri": "spotify:track:1Ot6QuJzCY66UdLK1ci3sc",
+      "name": "I Know I Know",
+      "artist": "STELLA LEFTY"
+    }
+  ],
+  "Ditz": [
+    {
+      "uri": "spotify:track:0En42zLevWWRTw8fzzP9VV",
+      "name": "The Body as a Structure",
+      "artist": "DITZ"
+    },
+    {
+      "uri": "spotify:track:22V8yG9kmOxXRBII28Jwc0",
+      "name": "Taxi Man",
+      "artist": "DITZ"
+    },
+    {
+      "uri": "spotify:track:0IIyQPGHIHj3PChgUd1ilE",
+      "name": "Four",
+      "artist": "DITZ"
+    }
+  ],
+  "Doom Gong": [
+    {
+      "uri": "spotify:track:6UzR2YGkVR4lOBNC11CjQs",
+      "name": "Still Hoverin'",
+      "artist": "DOOM GONG"
+    },
+    {
+      "uri": "spotify:track:0SFvdGSMtFDCkTtiCIpyXt",
+      "name": "DOOM GONG III",
+      "artist": "DOOM GONG"
+    },
+    {
+      "uri": "spotify:track:2ATO7ETfL8uIcHDRAJUbgp",
+      "name": "DOOM GONG",
+      "artist": "DOOM GONG"
+    }
+  ]
 }

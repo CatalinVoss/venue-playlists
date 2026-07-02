@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:49:09.917940+00:00",
+  "generated_at": "2026-07-02T07:26:55.428527+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 65,
           "shows": [
             {
               "artist": "Kelly McFarling",
@@ -43,9 +43,7 @@
               "artist": "Young Franco",
               "show_date": "2026-07-10",
               "show_time": "21:00:00",
-              "support_acts": [
-                "Mojo"
-              ],
+              "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/young-franco-the-independent-tickets/14769043"
             },
             {
@@ -139,7 +137,9 @@
               "artist": "Alex Amen",
               "show_date": "2026-08-13",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Double Helix Peace Treaty"
+              ],
               "ticket_url": "https://www.ticketmaster.com/alex-amen-san-francisco-california-08-13-2026/event/1C0064A8D643F6B4"
             },
             {
@@ -419,7 +419,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 13,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -518,7 +518,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 44,
+          "show_count": 46,
           "shows": [
             {
               "artist": "Luna the Blooma, SundaY, Jay De La Cruz",
@@ -615,15 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 61,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-07-01",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032894"
-            },
             {
               "artist": "Frolic/ Blind Illusion/ Broken Glass Sanctuary/ Hemotoxin",
               "show_date": "2026-07-03",
@@ -700,6 +693,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227134"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-07-15",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032874"
             }
           ]
         }
