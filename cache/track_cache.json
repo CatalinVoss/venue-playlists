@@ -3369,5 +3369,39 @@
       "name": "Burn That Bridge",
       "artist": "W\u00e9 Ani"
     }
+  ],
+  "Guardin": [
+    {
+      "uri": "spotify:track:4XGeEL1FBLqpVbWh6IyQYR",
+      "name": "i think you're really cool",
+      "artist": "guardin"
+    },
+    {
+      "uri": "spotify:track:7IrcdsS1YNVHBYx2sNxEWR",
+      "name": "Solitary",
+      "artist": "guardin"
+    },
+    {
+      "uri": "spotify:track:7t09a5hJrTTSQCFfVc1j1R",
+      "name": "cliffnote",
+      "artist": "guardin"
+    }
+  ],
+  "Cardinal Bloom": [
+    {
+      "uri": "spotify:track:2bUAVdCwxWecV1WR1iYyT8",
+      "name": "She\u2019s Just a Friend",
+      "artist": "Cardinal Bloom"
+    },
+    {
+      "uri": "spotify:track:76PvwFuBUgm9VjSKomu3Fs",
+      "name": "Nothing Stays the Same",
+      "artist": "Cardinal Bloom"
+    },
+    {
+      "uri": "spotify:track:5g8Z70EfBKKP6Re0l1gOkS",
+      "name": "To Love Someone",
+      "artist": "Cardinal Bloom"
+    }
   ]
 }

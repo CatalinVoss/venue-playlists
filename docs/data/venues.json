@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:25:14.220591+00:00",
+  "generated_at": "2026-07-04T07:16:44.596166+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Mac Gross Project - SF Rock Project Benefit + Against Medical Advice Album Release",
-              "show_date": "2026-07-03",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mac-gross-project-the-independent-tickets/14906323"
-            },
             {
               "artist": "High Fade",
               "show_date": "2026-07-08",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/air-guitar-national-finals-the-independent-tickets/14899743"
+            },
+            {
+              "artist": "Clipse",
+              "show_date": "2026-08-06",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/clipse-the-independent-tickets/14204854"
             }
           ]
         },
@@ -515,15 +515,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 48,
           "shows": [
-            {
-              "artist": "Luna the Blooma, SundaY, Jay De La Cruz",
-              "show_date": "2026-07-03",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/luna-the-blooma-sunday-jay-brick-and-mortar-music-hall-tickets/14779763"
-            },
             {
               "artist": "Iluka",
               "show_date": "2026-07-09",
@@ -600,6 +593,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ben-chapman-feet-on-fire-brick-and-mortar-music-hall-tickets/14757813?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Lucius Arthur",
+              "show_date": "2026-07-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lucius-arthur-brick-and-mortar-music-hall-tickets/14195614"
             }
           ]
         },
@@ -612,22 +612,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 59,
           "shows": [
-            {
-              "artist": "Frolic/ Blind Illusion/ Broken Glass Sanctuary/ Hemotoxin",
-              "show_date": "2026-07-03",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/frolic-blind-illusion-broken-glass-neck-of-the-woods-tickets/14897083"
-            },
-            {
-              "artist": "Big Girl/ Bloodsugar/ Bombshell",
-              "show_date": "2026-07-03",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/big-girl-bloodsugar-bombshell-neck-of-the-woods-tickets/14899283"
-            },
             {
               "artist": "Pussy Whipped/ Mahbuhay Gardens/ W*B*PR*S*NC*/The Unevicted",
               "show_date": "2026-07-04",
@@ -697,6 +683,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032874"
+            },
+            {
+              "artist": "Daybed/ Catapult Stevens/ Mars Occult",
+              "show_date": "2026-07-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/daybed-catapult-stevens-mars-occult-neck-of-the-woods-tickets/14206424"
+            },
+            {
+              "artist": "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper",
+              "show_date": "2026-07-20",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/iced-wrist-global-disgust-dotcursor-neck-of-the-woods-tickets/14215094"
             }
           ]
         }
