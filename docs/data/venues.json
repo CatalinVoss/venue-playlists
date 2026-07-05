@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:16:44.596166+00:00",
+  "generated_at": "2026-07-05T07:25:49.443348+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -612,22 +612,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Pussy Whipped/ Mahbuhay Gardens/ W*B*PR*S*NC*/The Unevicted",
-              "show_date": "2026-07-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/pussy-whipped-mahbuhay-gardens-wbprsncthe-neck-of-the-woods-tickets/14971063"
-            },
-            {
-              "artist": "Dustbowl Champion/ Computer Kill",
-              "show_date": "2026-07-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dustbowl-champion-computer-kill-neck-of-the-woods-tickets/14787313"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-07-07",
@@ -697,6 +683,20 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/iced-wrist-global-disgust-dotcursor-neck-of-the-woods-tickets/14215094"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-07-21",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226994"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-07-22",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032704"
             }
           ]
         }
