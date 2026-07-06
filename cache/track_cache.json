@@ -3403,5 +3403,22 @@
       "name": "To Love Someone",
       "artist": "Cardinal Bloom"
     }
+  ],
+  "Gilla Band": [
+    {
+      "uri": "spotify:track:7DQ3JbZ8JmjjxoGmOYkjoR",
+      "name": "Giraffe",
+      "artist": "Gilla Band"
+    },
+    {
+      "uri": "spotify:track:5JPikGNqkUngwpppwRfiFd",
+      "name": "Lawman",
+      "artist": "Gilla Band"
+    },
+    {
+      "uri": "spotify:track:1GRGCIaRlqSCR6ljUmZpv0",
+      "name": "Paul",
+      "artist": "Gilla Band"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T07:25:49.443348+00:00",
+  "generated_at": "2026-07-06T07:52:28.289930+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
             {
               "artist": "High Fade",
@@ -612,7 +612,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 58,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
