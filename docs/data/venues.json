@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:52:28.289930+00:00",
+  "generated_at": "2026-07-07T07:27:56.439989+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 66,
           "shows": [
             {
               "artist": "High Fade",
@@ -194,7 +194,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 40,
           "shows": [
             {
               "artist": "Dylan Leblanc",
@@ -480,7 +480,11 @@
               "artist": "MARO",
               "show_date": "2026-10-12",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Manuel Rocha",
+                "Pedro Alterio",
+                "Carbeau"
+              ],
               "ticket_url": "https://www.ticketmaster.com/maro-so-much-has-changed-moved-san-francisco-california-10-12-2026/event/1C00635B15F4D47F"
             },
             {
@@ -515,7 +519,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 50,
           "shows": [
             {
               "artist": "Iluka",
@@ -612,7 +616,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 58,
+          "show_count": 59,
           "shows": [
             {
               "artist": "Karaoke Tuesday",

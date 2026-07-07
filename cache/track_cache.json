@@ -3420,5 +3420,90 @@
       "name": "Paul",
       "artist": "Gilla Band"
     }
+  ],
+  "INOHA": [
+    {
+      "uri": "spotify:track:2x6iNna6wQexggFz8smJcB",
+      "name": "Seventh Heaven",
+      "artist": "INOHA"
+    },
+    {
+      "uri": "spotify:track:2Hm5rPArM5mlSF5bZEzzPT",
+      "name": "GESHUOU",
+      "artist": "INOHA"
+    },
+    {
+      "uri": "spotify:track:3Gq4qo8QepeFNfngKWFZ9k",
+      "name": "Saturday Nights",
+      "artist": "INOHA"
+    }
+  ],
+  "The Limi\u00f1anas": [
+    {
+      "uri": "spotify:track:6iHJtWmqzvcrXHKg8Uva7j",
+      "name": "Migas 2000",
+      "artist": "The Limi\u00f1anas"
+    },
+    {
+      "uri": "spotify:track:10xhou0oMhzFZdINhIMJGk",
+      "name": "(I've Got) Trouble In Mind",
+      "artist": "The Limi\u00f1anas"
+    },
+    {
+      "uri": "spotify:track:6Y3wQAeD2FZA0XSf89389b",
+      "name": "Cold Was the Ground",
+      "artist": "The Limi\u00f1anas"
+    }
+  ],
+  "Bird and Byron W/ ZG Smith Live At Brick & Mortar (San Francisco, Ca)": [
+    {
+      "uri": "spotify:track:1FRUvoWIGZI8dOcWM5xDxY",
+      "name": "Come and Get Your Love",
+      "artist": "Bird and Byron"
+    },
+    {
+      "uri": "spotify:track:0xBGLTEdQpg4hjMhre2lml",
+      "name": "Here and There",
+      "artist": "Bird and Byron"
+    },
+    {
+      "uri": "spotify:track:6unmP7bb32g31iFIMmI5Zb",
+      "name": "Even If This Train Stops",
+      "artist": "Bird and Byron"
+    }
+  ],
+  "CuVa Bim\u00f6": [
+    {
+      "uri": "spotify:track:56YEANKnpe61eW4uSfEsb8",
+      "name": "Charm Offensive",
+      "artist": "CuVa Bim\u00f6"
+    },
+    {
+      "uri": "spotify:track:6BahkaXWpnxvzgEmocrPOt",
+      "name": "Malagradecido",
+      "artist": "CuVa Bim\u00f6"
+    },
+    {
+      "uri": "spotify:track:4AXfqLTEPuPgOVi43n2Ypb",
+      "name": "Tres Princes",
+      "artist": "CuVa Bim\u00f6"
+    }
+  ],
+  "Sassy 009": [
+    {
+      "uri": "spotify:track:1pDiRrLro0tlhsPSexB3Zv",
+      "name": "Tell Me",
+      "artist": "Sassy 009"
+    },
+    {
+      "uri": "spotify:track:4hOIaf53AbFr6BwcaT12S1",
+      "name": "Lara (feat. Clairo)",
+      "artist": "Sassy 009"
+    },
+    {
+      "uri": "spotify:track:0VQLUf1y9Y01gYjJs4cleE",
+      "name": "Are you leaving",
+      "artist": "Sassy 009"
+    }
   ]
 }
