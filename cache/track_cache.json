@@ -3505,5 +3505,92 @@
       "name": "Are you leaving",
       "artist": "Sassy 009"
     }
-  ]
+  ],
+  "Tonic Walter": [
+    {
+      "uri": "spotify:track:7LMsAia3rSvaNrHjgfuJzB",
+      "name": "Into The Night",
+      "artist": "Tonic Walter"
+    },
+    {
+      "uri": "spotify:track:0K6vzSQFh3aBwwm241oqiE",
+      "name": "Falling",
+      "artist": "Tonic Walter"
+    },
+    {
+      "uri": "spotify:track:0iq7U2A3aN5dUqBTItZoxJ",
+      "name": "A New World, Pt. 3",
+      "artist": "Tonic Walter"
+    }
+  ],
+  "Rules": [],
+  "KiNG MALA": [
+    {
+      "uri": "spotify:track:4nBsvvjN134KFVcvFMLWwK",
+      "name": "she calls me daddy",
+      "artist": "KiNG MALA"
+    },
+    {
+      "uri": "spotify:track:6Dhz2lfttLBT8jsLyZ6Czw",
+      "name": "G\u00d8D",
+      "artist": "KiNG MALA"
+    },
+    {
+      "uri": "spotify:track:1oPmWr7a3RIpJIhqWUrTJY",
+      "name": "LITTLE DEATH",
+      "artist": "KiNG MALA"
+    }
+  ],
+  "Vox Rea": [
+    {
+      "uri": "spotify:track:6eYjkQvNxRmUXusXe5Iyp8",
+      "name": "Julia",
+      "artist": "Vox Rea"
+    },
+    {
+      "uri": "spotify:track:57jgMizB79fsA9FV31yZRG",
+      "name": "When You Go",
+      "artist": "Vox Rea"
+    },
+    {
+      "uri": "spotify:track:5mYIWVAYJWa8kCNKjIVVAN",
+      "name": "Oh Mama",
+      "artist": "Vox Rea"
+    }
+  ],
+  "Freak Slug": [
+    {
+      "uri": "spotify:track:4GQGU0CI1lR4xRcxxioIIQ",
+      "name": "Friday",
+      "artist": "Freak Slug"
+    },
+    {
+      "uri": "spotify:track:1gyIYA98zceKTnjISviYRz",
+      "name": "Radio",
+      "artist": "Freak Slug"
+    },
+    {
+      "uri": "spotify:track:2D1LIEnjmKBsRRJGaRWkbA",
+      "name": "Lucky",
+      "artist": "Freak Slug"
+    }
+  ],
+  "Squirrel Flower": [
+    {
+      "uri": "spotify:track:6LHioVAsFPLjupnl8ikW7H",
+      "name": "So Hot You're Hurting My Feelings",
+      "artist": "Squirrel Flower"
+    },
+    {
+      "uri": "spotify:track:2IUAGDffoWoasAGUPu5sM5",
+      "name": "Reelin",
+      "artist": "Squirrel Flower"
+    },
+    {
+      "uri": "spotify:track:6Tad0GdthV8sEb5bFMB613",
+      "name": "Wheels - with Babehoven & Billie Marten",
+      "artist": "Squirrel Flower"
+    }
+  ],
+  "Love Letter, m\u00e1u, concision": []
 }
