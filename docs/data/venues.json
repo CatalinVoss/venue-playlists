@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T07:08:35.176775+00:00",
+  "generated_at": "2026-07-09T07:28:03.810321+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 71,
           "shows": [
-            {
-              "artist": "High Fade",
-              "show_date": "2026-07-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/high-fade-the-independent-tickets/14119724"
-            },
             {
               "artist": "Young Franco",
               "show_date": "2026-07-10",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/clipse-the-independent-tickets/14204854"
+            },
+            {
+              "artist": "GRiZ",
+              "show_date": "2026-08-07",
+              "show_time": "22:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt07"
             }
           ]
         },
@@ -297,15 +297,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 6,
           "shows": [
-            {
-              "artist": "Wolfmother",
-              "show_date": "2026-07-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7ObvP"
-            },
             {
               "artist": "I Promised The World",
               "show_date": "2026-07-17",
@@ -521,7 +514,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 49,
+          "show_count": 57,
           "shows": [
             {
               "artist": "Iluka",
@@ -587,6 +580,15 @@
               "ticket_url": "https://www.ticketweb.com/event/alejandro-aranda-hondo-world-w-brick-and-mortar-music-hall-tickets/14817893?REFERRAL_ID=tmfeed"
             },
             {
+              "artist": "Alejandro Aranda",
+              "show_date": "2026-07-23",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Tyler Stone"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pao9"
+            },
+            {
               "artist": "Sace6",
               "show_date": "2026-07-24",
               "show_time": "20:30:00",
@@ -599,13 +601,6 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ben-chapman-feet-on-fire-brick-and-mortar-music-hall-tickets/14757813?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Lucius Arthur",
-              "show_date": "2026-07-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lucius-arthur-brick-and-mortar-music-hall-tickets/14195614"
             }
           ]
         },
@@ -618,22 +613,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 58,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-07-08",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032744"
-            },
-            {
-              "artist": "Tess & The Details/ Tsosis/ Amity St./ Poser Emo",
-              "show_date": "2026-07-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tess-the-details-tsosis-neck-of-the-woods-tickets/14191794"
-            },
             {
               "artist": "Sinister Sounds Fest",
               "show_date": "2026-07-10",
@@ -703,6 +684,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/slay-squad-bruhmanegod-blackpunks-bodyshot-neck-of-the-woods-tickets/14906643"
+            },
+            {
+              "artist": "Fight Back",
+              "show_date": "2026-07-23",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/no-right-opposing-force-what-neck-of-the-woods-tickets/14197084"
+            },
+            {
+              "artist": "Jonny's Day Out/ Over Under/ For Horses",
+              "show_date": "2026-07-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jonnys-day-out-over-under-neck-of-the-woods-tickets/14911433"
             }
           ]
         }

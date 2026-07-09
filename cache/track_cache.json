@@ -3592,5 +3592,56 @@
       "artist": "Squirrel Flower"
     }
   ],
-  "Love Letter, m\u00e1u, concision": []
+  "Love Letter, m\u00e1u, concision": [],
+  "King Buffalo": [
+    {
+      "uri": "spotify:track:6rIh2ETnPnBxkFYjQb83SV",
+      "name": "Centurion",
+      "artist": "King Buffalo"
+    },
+    {
+      "uri": "spotify:track:2m3TWZ06aY3Ue2oFmifQan",
+      "name": "Morning Song",
+      "artist": "King Buffalo"
+    },
+    {
+      "uri": "spotify:track:09SvE4RSe1Unl1Ta2Fj98N",
+      "name": "Burning",
+      "artist": "King Buffalo"
+    }
+  ],
+  "Alejandro Aranda": [
+    {
+      "uri": "spotify:track:415YnURdXwND7z2GiVxtZm",
+      "name": "Out Loud - Remastered",
+      "artist": "Alejandro Aranda"
+    },
+    {
+      "uri": "spotify:track:6FTC16bWnHu3PG2ACqoi4U",
+      "name": "Yellow",
+      "artist": "Alejandro Aranda"
+    },
+    {
+      "uri": "spotify:track:6Nd9FwX5XVfQRTZZTeevbG",
+      "name": "Cholo Love",
+      "artist": "Alejandro Aranda"
+    }
+  ],
+  "EJEAN": [
+    {
+      "uri": "spotify:track:3ldhH5hUEld1IQi7Q6WAyb",
+      "name": "Then I Got Us",
+      "artist": "EJEAN"
+    },
+    {
+      "uri": "spotify:track:5DZrNCtCKXV7lsBkN0qFBc",
+      "name": "Sweatshirt",
+      "artist": "EJEAN"
+    },
+    {
+      "uri": "spotify:track:2YJqH17c3oWCgV6G0IXUbT",
+      "name": "Head Home",
+      "artist": "EJEAN"
+    }
+  ]
 }
