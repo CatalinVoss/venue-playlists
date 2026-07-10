@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T07:28:03.810321+00:00",
+  "generated_at": "2026-07-10T07:27:31.341447+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 71,
+          "show_count": 72,
           "shows": [
             {
               "artist": "Young Franco",
@@ -194,7 +194,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 41,
           "shows": [
             {
               "artist": "Petty Theft",
@@ -514,15 +514,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "Iluka",
-              "show_date": "2026-07-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/iluka-brick-and-mortar-music-hall-tickets/14952633"
-            },
             {
               "artist": "Earth to Eve, Camilla Covington",
               "show_date": "2026-07-10",
@@ -601,6 +594,15 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ben-chapman-feet-on-fire-brick-and-mortar-music-hall-tickets/14757813?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Ben Chapman",
+              "show_date": "2026-07-25",
+              "show_time": "20:30:00",
+              "support_acts": [
+                "Nate Fredrick"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-IAO"
             }
           ]
         },

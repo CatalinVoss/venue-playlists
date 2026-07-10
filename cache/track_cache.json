@@ -3643,5 +3643,39 @@
       "name": "Head Home",
       "artist": "EJEAN"
     }
+  ],
+  "Karina Rykman": [
+    {
+      "uri": "spotify:track:1hF5WYl0cErwabX8EvFawl",
+      "name": "Easy, Rider",
+      "artist": "Karina Rykman"
+    },
+    {
+      "uri": "spotify:track:01h0ZZOe9DpdWEmbrL4ZM9",
+      "name": "Plants",
+      "artist": "Karina Rykman"
+    },
+    {
+      "uri": "spotify:track:0ZM5cj0yuZN0lg6UluM7XN",
+      "name": "Joyride",
+      "artist": "Karina Rykman"
+    }
+  ],
+  "Alex Cameron": [
+    {
+      "uri": "spotify:track:3vEMNFVdFKYgGm4jnISfIc",
+      "name": "Happy Ending",
+      "artist": "Alex Cameron"
+    },
+    {
+      "uri": "spotify:track:7C9XoMfFqmYoKQtWN7OCEH",
+      "name": "Stranger's Kiss (Duet with Angel Olsen)",
+      "artist": "Alex Cameron"
+    },
+    {
+      "uri": "spotify:track:4nopFapJccbuP7HMf8LOO6",
+      "name": "K Hole",
+      "artist": "Alex Cameron"
+    }
   ]
 }
