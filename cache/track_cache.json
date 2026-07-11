@@ -3677,5 +3677,24 @@
       "name": "K Hole",
       "artist": "Alex Cameron"
     }
+  ],
+  "Computer": [],
+  "Slow Coast/ The Moondrops/ Sun Casino": [],
+  "Galactic Empire": [
+    {
+      "uri": "spotify:track:2Qfv23eR1GwrbKEyKHVg8d",
+      "name": "Duel Of The Fates",
+      "artist": "Galactic Empire"
+    },
+    {
+      "uri": "spotify:track:5BCauVWQQ9IDbtVn2C7o3k",
+      "name": "The Imperial March",
+      "artist": "Galactic Empire"
+    },
+    {
+      "uri": "spotify:track:1h4TPhdEOl6FPmMHIU74vc",
+      "name": "Cantina Band",
+      "artist": "Galactic Empire"
+    }
   ]
 }

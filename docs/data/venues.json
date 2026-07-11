@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:27:31.341447+00:00",
+  "generated_at": "2026-07-11T07:00:37.972833+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 72,
+          "show_count": 71,
           "shows": [
-            {
-              "artist": "Young Franco",
-              "show_date": "2026-07-10",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/young-franco-the-independent-tickets/14769043"
-            },
             {
               "artist": "The Emo Night Tour",
               "show_date": "2026-07-11",
@@ -100,6 +93,13 @@
               "show_time": "22:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt07"
+            },
+            {
+              "artist": "GRiZ",
+              "show_date": "2026-08-07",
+              "show_time": "22:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/griz-the-independent-tickets/14205294"
             }
           ]
         },
@@ -514,15 +514,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 56,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Earth to Eve, Camilla Covington",
-              "show_date": "2026-07-10",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/earth-to-eve-camilla-covington-brick-and-mortar-music-hall-tickets/14852253"
-            },
             {
               "artist": "lil hero, 3lise, D1gital Diva, Ethereality, Jas the Muse",
               "show_date": "2026-07-12",
@@ -603,6 +596,13 @@
                 "Nate Fredrick"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-IAO"
+            },
+            {
+              "artist": "Lucius Arthur",
+              "show_date": "2026-07-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lucius-arthur-brick-and-mortar-music-hall-tickets/14195614"
             }
           ]
         },
@@ -615,15 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 56,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Sinister Sounds Fest",
-              "show_date": "2026-07-10",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sinister-sounds-fest-neck-of-the-woods-tickets/14884233"
-            },
             {
               "artist": "Noragami/ Checkpoint Charlie/ Eclypso/ Everything Falls Into Place/ Sequioa",
               "show_date": "2026-07-12",
@@ -700,6 +693,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/jonnys-day-out-over-under-neck-of-the-woods-tickets/14911433"
+            },
+            {
+              "artist": "Miguel Kultura",
+              "show_date": "2026-07-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/miguel-kultura-neck-of-the-woods-tickets/14224324"
             }
           ]
         }
