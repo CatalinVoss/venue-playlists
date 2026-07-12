@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:00:37.972833+00:00",
+  "generated_at": "2026-07-12T07:08:57.533041+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 71,
+          "show_count": 70,
           "shows": [
-            {
-              "artist": "The Emo Night Tour",
-              "show_date": "2026-07-11",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14957953"
-            },
             {
               "artist": "veggi",
               "show_date": "2026-07-17",
@@ -100,6 +93,13 @@
               "show_time": "22:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/griz-the-independent-tickets/14205294"
+            },
+            {
+              "artist": "Goldie Boutilier",
+              "show_date": "2026-08-08",
+              "show_time": "22:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/goldie-boutilier-the-independent-tickets/14205454"
             }
           ]
         },
@@ -194,15 +194,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Petty Theft",
-              "show_date": "2026-07-11",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mov"
-            },
             {
               "artist": "White Denim",
               "show_date": "2026-07-12",
@@ -285,6 +278,13 @@
                 "Shannon Lay"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mok"
+            },
+            {
+              "artist": "Deradoorian",
+              "show_date": "2026-08-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv4"
             }
           ]
         },
@@ -625,7 +625,7 @@
               "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
             },
             {
-              "artist": "Kill Bill The Rapper/ Ashtin Larold/ TBA",
+              "artist": "Kill Bill The Rapper/ Ashtin Larold/ Umamifunk",
               "show_date": "2026-07-12",
               "show_time": "20:00:00",
               "support_acts": [],
