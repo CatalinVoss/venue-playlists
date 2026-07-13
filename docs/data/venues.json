@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T07:08:57.533041+00:00",
+  "generated_at": "2026-07-13T07:25:08.847033+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -194,15 +194,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 39,
           "shows": [
-            {
-              "artist": "White Denim",
-              "show_date": "2026-07-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3ve"
-            },
             {
               "artist": "Dead Souls",
               "show_date": "2026-07-17",
@@ -285,6 +278,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv4"
+            },
+            {
+              "artist": "Man Man",
+              "show_date": "2026-08-14",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vF"
             }
           ]
         },
@@ -514,15 +514,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "lil hero, 3lise, D1gital Diva, Ethereality, Jas the Muse",
-              "show_date": "2026-07-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lil-hero-3lise-d1gital-diva-brick-and-mortar-music-hall-tickets/14971433"
-            },
             {
               "artist": "bottombunk, cup cup, Sunset Chet",
               "show_date": "2026-07-15",
@@ -603,6 +596,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lucius-arthur-brick-and-mortar-music-hall-tickets/14195614"
+            },
+            {
+              "artist": "Kevian Kraemer + closebye",
+              "show_date": "2026-07-29",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kevian-kraemer-closebye-brick-and-mortar-music-hall-tickets/14861583"
             }
           ]
         },
@@ -615,22 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "Noragami/ Checkpoint Charlie/ Eclypso/ Everything Falls Into Place/ Sequioa",
-              "show_date": "2026-07-12",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/noragami-checkpoint-charlie-eclypso-everything-neck-of-the-woods-tickets/14978363"
-            },
-            {
-              "artist": "Kill Bill The Rapper/ Ashtin Larold/ Umamifunk",
-              "show_date": "2026-07-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kill-bill-the-rapper-ashtin-neck-of-the-woods-tickets/14895123"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-07-14",
@@ -700,6 +686,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/miguel-kultura-neck-of-the-woods-tickets/14224324"
+            },
+            {
+              "artist": "Solene",
+              "show_date": "2026-07-25",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/solene-neck-of-the-woods-tickets/14978253"
+            },
+            {
+              "artist": "Corpse Pile",
+              "show_date": "2026-07-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/corpse-pile-iron-front-barbarous-neck-of-the-woods-tickets/14978163"
             }
           ]
         }
