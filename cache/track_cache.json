@@ -3697,5 +3697,40 @@
       "artist": "Galactic Empire"
     }
   ],
-  "Kill Bill The Rapper/ Ashtin Larold/ Umamifunk": []
+  "Kill Bill The Rapper/ Ashtin Larold/ Umamifunk": [],
+  "Juice": [],
+  "City of the Sun": [
+    {
+      "uri": "spotify:track:0fUKorjnPylPY87IaXtjyV",
+      "name": "Metamorphosis",
+      "artist": "City of the Sun"
+    },
+    {
+      "uri": "spotify:track:0iwbQGbVYBMjXBomCEOrOF",
+      "name": "London",
+      "artist": "City of the Sun"
+    },
+    {
+      "uri": "spotify:track:1dRUC1k4GyDJ5tNHW656hV",
+      "name": "Sica",
+      "artist": "City of the Sun"
+    }
+  ],
+  "Phora": [
+    {
+      "uri": "spotify:track:6Umac95Mt46VcwAM9s9mOa",
+      "name": "To the Moon",
+      "artist": "Phora"
+    },
+    {
+      "uri": "spotify:track:0KRkgRkBa1fA4vJl8PMOTf",
+      "name": "Stuck in My Ways (feat. 6LACK)",
+      "artist": "Phora"
+    },
+    {
+      "uri": "spotify:track:4gKCKkQbtejYebL9Km5cu1",
+      "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
+      "artist": "Phora"
+    }
+  ]
 }

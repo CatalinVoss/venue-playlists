@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:25:08.847033+00:00",
+  "generated_at": "2026-07-14T06:59:05.142547+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 73,
           "shows": [
             {
               "artist": "veggi",
@@ -514,7 +514,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 56,
+          "show_count": 57,
           "shows": [
             {
               "artist": "bottombunk, cup cup, Sunset Chet",
