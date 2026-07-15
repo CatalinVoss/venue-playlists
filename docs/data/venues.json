@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:59:05.142547+00:00",
+  "generated_at": "2026-07-15T07:01:24.497013+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 73,
+          "show_count": 75,
           "shows": [
             {
               "artist": "veggi",
@@ -112,7 +112,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 10,
           "shows": [
             {
               "artist": "Sports",
@@ -152,6 +152,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-S"
+            },
+            {
+              "artist": "Porch Light",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/porch-light-san-francisco-california-09-30-2026/event/1C0064EAB3281ACF"
             },
             {
               "artist": "Ecca Vandal",
@@ -194,7 +201,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 45,
           "shows": [
             {
               "artist": "Dead Souls",
@@ -264,6 +271,13 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo7"
             },
             {
+              "artist": "Corduroy - Pearl Jam Tribute",
+              "show_date": "2026-08-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pv"
+            },
+            {
               "artist": "Alela Diane",
               "show_date": "2026-08-06",
               "show_time": "20:00:00",
@@ -278,13 +292,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv4"
-            },
-            {
-              "artist": "Man Man",
-              "show_date": "2026-08-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vF"
             }
           ]
         },
@@ -363,7 +370,7 @@
               "show_date": "2026-08-05",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/hannah-frances-swedish-american-hall-tickets/14965863"
+              "ticket_url": "https://www.ticketweb.com/event/hannah-frances-with-special-guest-swedish-american-hall-tickets/14965863"
             },
             {
               "artist": "Lenka",
@@ -411,7 +418,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 13,
+          "show_count": 14,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -514,7 +521,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 62,
           "shows": [
             {
               "artist": "bottombunk, cup cup, Sunset Chet",
@@ -618,13 +625,6 @@
           "show_count": 56,
           "shows": [
             {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-07-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227134"
-            },
-            {
               "artist": "Open Mic Night",
               "show_date": "2026-07-15",
               "show_time": "19:30:00",
@@ -700,6 +700,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/corpse-pile-iron-front-barbarous-neck-of-the-woods-tickets/14978163"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-07-28",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227364"
             }
           ]
         }
