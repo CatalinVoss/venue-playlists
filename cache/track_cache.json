@@ -4005,5 +4005,40 @@
     }
   ],
   "Parting Gift/ Starzdust/ Street Play/ Bombshell": [],
-  "Dri": []
+  "Dri": [],
+  "Sean Hayes": [
+    {
+      "uri": "spotify:track:3sOEdZiqjCYlEz84eRJXf7",
+      "name": "Powerful Stuff",
+      "artist": "Sean Hayes"
+    },
+    {
+      "uri": "spotify:track:1YYpBxYsS44GWA8i1mnrI8",
+      "name": "Rattlesnake Charm",
+      "artist": "Sean Hayes"
+    },
+    {
+      "uri": "spotify:track:2dX60dP0pYSbXh9fttIPdd",
+      "name": "When We Fall In",
+      "artist": "Sean Hayes"
+    }
+  ],
+  "The Cactus Blossoms": [
+    {
+      "uri": "spotify:track:2MzuBHUg1YLezoTZqfBfVl",
+      "name": "Mississippi",
+      "artist": "The Cactus Blossoms"
+    },
+    {
+      "uri": "spotify:track:4MaNTAN78ylZnCMCKBFiU9",
+      "name": "Hey Baby",
+      "artist": "The Cactus Blossoms"
+    },
+    {
+      "uri": "spotify:track:4eml8c7ZKYbMPFNgtfiwou",
+      "name": "Powder Blue",
+      "artist": "The Cactus Blossoms"
+    }
+  ],
+  "MyVeronica/TBA": []
 }

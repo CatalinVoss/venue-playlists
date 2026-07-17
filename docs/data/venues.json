@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:06:17.413408+00:00",
+  "generated_at": "2026-07-17T07:03:23.333366+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 75,
+          "show_count": 76,
           "shows": [
             {
               "artist": "veggi",
@@ -208,7 +208,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 48,
           "shows": [
             {
               "artist": "Dead Souls",
@@ -629,7 +629,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 58,
           "shows": [
             {
               "artist": "Daybed/ Catapult Stevens/ Mars Occult",
