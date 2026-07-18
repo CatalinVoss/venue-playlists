@@ -4040,5 +4040,42 @@
       "artist": "The Cactus Blossoms"
     }
   ],
-  "MyVeronica/TBA": []
+  "MyVeronica/TBA": [],
+  "Broadway Rave": [],
+  "Alan Vuong": [
+    {
+      "uri": "spotify:track:3DUe5irMKEjbsIoHxHnIYe",
+      "name": "TELL 'EM YOU'RE MINE",
+      "artist": "alan vuong"
+    },
+    {
+      "uri": "spotify:track:0tbar3AoobXRjfhlh7b95g",
+      "name": "DEEP IN YOUR SOUL",
+      "artist": "alan vuong"
+    },
+    {
+      "uri": "spotify:track:38T0ch67w89QHB9R0iEyGu",
+      "name": "TOO LATE FOR YOU",
+      "artist": "alan vuong"
+    }
+  ],
+  "Marc Broussard": [
+    {
+      "uri": "spotify:track:1XhzO8cuPaqsqUKw92Wbwc",
+      "name": "Home",
+      "artist": "Marc Broussard"
+    },
+    {
+      "uri": "spotify:track:3ceGfYOopNjTlXOaKLO1bQ",
+      "name": "Cry To Me",
+      "artist": "Marc Broussard"
+    },
+    {
+      "uri": "spotify:track:5fMInRpERS8jP2zPz6QyUI",
+      "name": "Love And Happiness",
+      "artist": "Marc Broussard"
+    }
+  ],
+  "Lucius Arthur, Slow coast, kin + me": [],
+  "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag": []
 }
