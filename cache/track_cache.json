@@ -4077,5 +4077,73 @@
     }
   ],
   "Lucius Arthur, Slow coast, kin + me": [],
-  "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag": []
+  "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag": [],
+  "strongboi": [
+    {
+      "uri": "spotify:track:1qabjFO5ij7kHIM91RSeqr",
+      "name": "fool around",
+      "artist": "strongboi"
+    },
+    {
+      "uri": "spotify:track:0UC90h4WaYbpwh8dDz9ivU",
+      "name": "strongboi",
+      "artist": "strongboi"
+    },
+    {
+      "uri": "spotify:track:7vb2OD6XVxjhbLFWwPpgBe",
+      "name": "honey thighs",
+      "artist": "strongboi"
+    }
+  ],
+  "Francisca Valenzuela": [
+    {
+      "uri": "spotify:track:1PK04A4kyAkJCHaAMw07ea",
+      "name": "Prenderemos Fuego al Cielo",
+      "artist": "Francisca Valenzuela"
+    },
+    {
+      "uri": "spotify:track:3PqqPzs10N3nX1U63CyYJP",
+      "name": "Afortunada",
+      "artist": "Francisca Valenzuela"
+    },
+    {
+      "uri": "spotify:track:6jsSbsBhinG8VDo5l5Z4zj",
+      "name": "Qu\u00e9 Ser\u00eda",
+      "artist": "Francisca Valenzuela"
+    }
+  ],
+  "Craig Finn": [
+    {
+      "uri": "spotify:track:0TirTwxkDYEN6dMmo7zvFQ",
+      "name": "God in Chicago",
+      "artist": "Craig Finn"
+    },
+    {
+      "uri": "spotify:track:1mgxwt5P7wZsaNL0A1dYvk",
+      "name": "Blankets",
+      "artist": "Craig Finn"
+    },
+    {
+      "uri": "spotify:track:4MtXbKTXoT5t8GTwVCYzvY",
+      "name": "Luke & Leanna",
+      "artist": "Craig Finn"
+    }
+  ],
+  "Margaret Glaspy": [
+    {
+      "uri": "spotify:track:1uVD7mxRrnwnLqh6uBOuSt",
+      "name": "Emotions and Math",
+      "artist": "Margaret Glaspy"
+    },
+    {
+      "uri": "spotify:track:2CE0MF8zOilJcogEI8wFB6",
+      "name": "You and I",
+      "artist": "Margaret Glaspy"
+    },
+    {
+      "uri": "spotify:track:2T3g3fKFMBAlgADkcOJ12S",
+      "name": "Act Natural",
+      "artist": "Margaret Glaspy"
+    }
+  ]
 }

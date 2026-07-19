@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T06:56:43.584846+00:00",
+  "generated_at": "2026-07-19T07:08:29.770087+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 75,
           "shows": [
-            {
-              "artist": "Los Tranquilos",
-              "show_date": "2026-07-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/los-tranquilos-the-independent-tickets/14820633"
-            },
             {
               "artist": "Chinese American Bear",
               "show_date": "2026-07-19",
@@ -100,6 +93,15 @@
               "show_time": "22:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ben-bhmer-the-independent-tickets/14205394"
+            },
+            {
+              "artist": "Greg Mendez",
+              "show_date": "2026-08-12",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Maria BC"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/greg-mendez-the-independent-tickets/14749763"
             }
           ]
         },
@@ -114,13 +116,6 @@
           "stale": false,
           "show_count": 13,
           "shows": [
-            {
-              "artist": "Emo Nite",
-              "show_date": "2026-07-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7Ay"
-            },
             {
               "artist": "Broadway Rave",
               "show_date": "2026-08-07",
@@ -203,6 +198,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/zolita-the-hells-belles-tour-san-francisco-california-10-13-2026/event/1C0064C2069884E3"
+            },
+            {
+              "artist": "Bebe Stockwell",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Khatumu"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
             }
           ]
         },
@@ -217,24 +221,6 @@
           "stale": false,
           "show_count": 48,
           "shows": [
-            {
-              "artist": "Futurebirds",
-              "show_date": "2026-07-18",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Deloyd Elze"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/futurebirds-san-francisco-california-07-18-2026/event/1C006463DE766CA7"
-            },
-            {
-              "artist": "Futurebirds",
-              "show_date": "2026-07-18",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Deloyd Elze"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvK"
-            },
             {
               "artist": "Babe Rainbow",
               "show_date": "2026-07-19",
@@ -306,6 +292,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vF"
+            },
+            {
+              "artist": "Valerie June",
+              "show_date": "2026-08-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3va"
+            },
+            {
+              "artist": "Valerie June",
+              "show_date": "2026-08-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v8"
             }
           ]
         },
@@ -526,15 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "8RO8 \u2014 HAMMAJANG Tour",
-              "show_date": "2026-07-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/8ro8-hammajang-tour-brick-and-mortar-music-hall-tickets/14975993"
-            },
             {
               "artist": "Love Letter, m\u00e1u, concision",
               "show_date": "2026-07-19",
@@ -615,6 +608,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/return-of-the-emcee-xv-brick-and-mortar-music-hall-tickets/14928833"
+            },
+            {
+              "artist": "Bird and Byron W/ ZG Smith Live At Brick & Mortar (San Francisco, Ca)",
+              "show_date": "2026-08-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bird-and-byron-w-zg-brick-and-mortar-music-hall-tickets/14860143?REFERRAL_ID=tmfeed"
             }
           ]
         },
