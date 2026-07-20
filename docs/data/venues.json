@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:08:29.770087+00:00",
+  "generated_at": "2026-07-20T07:22:32.485455+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 75,
           "shows": [
-            {
-              "artist": "Chinese American Bear",
-              "show_date": "2026-07-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/chinese-american-bear-the-independent-tickets/14178754"
-            },
             {
               "artist": "Riff Wood",
               "show_date": "2026-07-23",
@@ -102,6 +95,13 @@
                 "Maria BC"
               ],
               "ticket_url": "https://www.ticketweb.com/event/greg-mendez-the-independent-tickets/14749763"
+            },
+            {
+              "artist": "FOUR SQUARE VOL. 2 - A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE",
+              "show_date": "2026-08-14",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/four-square-vol-2-the-independent-tickets/14954133"
             }
           ]
         },
@@ -219,15 +219,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 47,
           "shows": [
-            {
-              "artist": "Babe Rainbow",
-              "show_date": "2026-07-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mod"
-            },
             {
               "artist": "Friendship",
               "show_date": "2026-07-22",
@@ -306,6 +299,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v8"
+            },
+            {
+              "artist": "Black Joe Lewis",
+              "show_date": "2026-08-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo6"
             }
           ]
         },
@@ -526,15 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 59,
           "shows": [
-            {
-              "artist": "Love Letter, m\u00e1u, concision",
-              "show_date": "2026-07-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/love-letter-mu-concision-brick-and-mortar-music-hall-tickets/14942533"
-            },
             {
               "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
               "show_date": "2026-07-23",
@@ -615,6 +608,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bird-and-byron-w-zg-brick-and-mortar-music-hall-tickets/14860143?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour",
+              "show_date": "2026-08-03",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/femm-x-astrid-emo-brick-and-mortar-music-hall-tickets/14207354"
             }
           ]
         },
@@ -627,7 +627,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 58,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper",

@@ -4145,5 +4145,43 @@
       "name": "Act Natural",
       "artist": "Margaret Glaspy"
     }
-  ]
+  ],
+  "Silverada": [
+    {
+      "uri": "spotify:track:3fGP2EeAI275OaT8oc7YWZ",
+      "name": "You Look Good in Neon",
+      "artist": "Silverada"
+    },
+    {
+      "uri": "spotify:track:4HiAuVY4bXVyn5eTewsmEp",
+      "name": "Drag",
+      "artist": "Silverada"
+    },
+    {
+      "uri": "spotify:track:2lEihHqyRM7lq1YuxObnb0",
+      "name": "Hour on the Hour",
+      "artist": "Silverada"
+    }
+  ],
+  "ulyssescfm/ look at fiona./ Cilantro": [],
+  "Cashier/ TBA": [
+    {
+      "uri": "spotify:track:37auVkMndiZtMGrMc1xKJA",
+      "name": "The Weight",
+      "artist": "Cashier"
+    },
+    {
+      "uri": "spotify:track:26jW6O3jnh8yxpQiSBpo0L",
+      "name": "Like I Do",
+      "artist": "Cashier"
+    },
+    {
+      "uri": "spotify:track:52kBorvBYwcs2ZSfcBHuEO",
+      "name": "Part From Me",
+      "artist": "Cashier"
+    }
+  ],
+  "away with words/ my precious solitude/ TBA": [],
+  "Burnout/ Index/ Maintecen/ Big Green": [],
+  "Lucky Devils": []
 }
