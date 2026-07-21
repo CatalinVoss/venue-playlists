@@ -4183,5 +4183,73 @@
   ],
   "away with words/ my precious solitude/ TBA": [],
   "Burnout/ Index/ Maintecen/ Big Green": [],
-  "Lucky Devils": []
+  "Lucky Devils": [],
+  "Tomboy W/ Bird and Byron Live At Brick & Mortar (San Francisco, Ca)": [
+    {
+      "uri": "spotify:track:1FRUvoWIGZI8dOcWM5xDxY",
+      "name": "Come and Get Your Love",
+      "artist": "Bird and Byron"
+    },
+    {
+      "uri": "spotify:track:3Uvxn0OoRr0yCKoaqOO52D",
+      "name": "I'll Always Be There",
+      "artist": "Bird and Byron"
+    },
+    {
+      "uri": "spotify:track:20bXG73amCLk3E9SjpNLgl",
+      "name": "Oh My Lord",
+      "artist": "Bird and Byron"
+    }
+  ],
+  "Raininglol & 2FacedLon w/ Jay Armani": [
+    {
+      "uri": "spotify:track:0bj9M8NkdR7I1cOvAS9m1b",
+      "name": "RainingLol ?",
+      "artist": "RainingLol"
+    },
+    {
+      "uri": "spotify:track:2BRUhu1J2gDfmGJBEzvDLy",
+      "name": "RainingLol Cypher Verse",
+      "artist": "RainingLol"
+    },
+    {
+      "uri": "spotify:track:0RUjwwbYgtNgtv4oG0GCDx",
+      "name": "XD",
+      "artist": "RainingLol"
+    }
+  ],
+  "natalie jinju": [
+    {
+      "uri": "spotify:track:57rxKv4RIfJEDtBYw6WSx1",
+      "name": "all the time",
+      "artist": "natalie jinju"
+    },
+    {
+      "uri": "spotify:track:3hbNYG6XZc9bvbo3J4yaEU",
+      "name": "crush!",
+      "artist": "natalie jinju"
+    },
+    {
+      "uri": "spotify:track:3rLmoERpmL27yIqyPsWB0i",
+      "name": "open wound",
+      "artist": "natalie jinju"
+    }
+  ],
+  "Camp Blu": [
+    {
+      "uri": "spotify:track:4vhAElBaeDn10qtNGra6yL",
+      "name": "Bloody Kisses",
+      "artist": "Camp Blu"
+    },
+    {
+      "uri": "spotify:track:2rbZuqt2UsPLwckXPVofsn",
+      "name": "Bad Luck",
+      "artist": "Camp Blu"
+    },
+    {
+      "uri": "spotify:track:6i2pZl5STYPFqQSigNa8Tt",
+      "name": "I AM NOT SO TALL",
+      "artist": "Camp Blu"
+    }
+  ]
 }

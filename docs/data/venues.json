@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:22:32.485455+00:00",
+  "generated_at": "2026-07-21T07:10:08.728913+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -526,7 +526,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 62,
           "shows": [
             {
               "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
@@ -610,11 +610,11 @@
               "ticket_url": "https://www.ticketweb.com/event/bird-and-byron-w-zg-brick-and-mortar-music-hall-tickets/14860143?REFERRAL_ID=tmfeed"
             },
             {
-              "artist": "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour",
-              "show_date": "2026-08-03",
-              "show_time": "19:30:00",
+              "artist": "Tomboy W/ Bird and Byron Live At Brick & Mortar (San Francisco, Ca)",
+              "show_date": "2026-08-02",
+              "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/femm-x-astrid-emo-brick-and-mortar-music-hall-tickets/14207354"
+              "ticket_url": "https://www.ticketweb.com/event/tomboy-w-bird-and-byron-brick-and-mortar-music-hall-tickets/14271344?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -627,15 +627,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper",
-              "show_date": "2026-07-20",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/iced-wrist-global-disgust-dotcursor-neck-of-the-woods-tickets/14215094"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-07-21",
@@ -644,18 +637,18 @@
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226994"
             },
             {
+              "artist": "Slay Squad/ Bruhmanegod/ Blackpunks/ Bodyshot/ Hash Gordon/ Bent Outta Shape",
+              "show_date": "2026-07-22",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/slay-squad-bruhmanegod-blackpunks-bodyshot-neck-of-the-woods-tickets/14906643"
+            },
+            {
               "artist": "Open Mic Night",
               "show_date": "2026-07-22",
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032704"
-            },
-            {
-              "artist": "Slay Squad/ Bruhmanegod/ Blackpunks/ Bodyshot/ Hash Gordon/ Bent Outta Shape",
-              "show_date": "2026-07-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/slay-squad-bruhmanegod-blackpunks-bodyshot-neck-of-the-woods-tickets/14906643"
             },
             {
               "artist": "Fight Back",
@@ -712,6 +705,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sleepyhead-an-indie-sleaze-dance-neck-of-the-woods-tickets/14197114"
+            },
+            {
+              "artist": "Mortal/ Manhunt/ Egregious/ Headhunter/ Apraxia",
+              "show_date": "2026-08-02",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mortal-manhunt-egregious-headhunter-apraxia-neck-of-the-woods-tickets/14196634"
             }
           ]
         }
