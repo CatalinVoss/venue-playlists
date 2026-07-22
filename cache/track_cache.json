@@ -4251,5 +4251,125 @@
       "name": "I AM NOT SO TALL",
       "artist": "Camp Blu"
     }
-  ]
+  ],
+  "Raaginder": [
+    {
+      "uri": "spotify:track:3rtFmjYrrTFaI0oZVP3E1a",
+      "name": "rangde",
+      "artist": "Raaginder"
+    },
+    {
+      "uri": "spotify:track:25kTxMzxN4oovuai0WVl0h",
+      "name": "Flower",
+      "artist": "Raaginder"
+    },
+    {
+      "uri": "spotify:track:6OeGHi46stYp9c06P5SCGV",
+      "name": "Jind Mahi - Remix",
+      "artist": "Raaginder"
+    }
+  ],
+  "SIX60": [
+    {
+      "uri": "spotify:track:45yjWI9WSWYIeKPYiRuZx4",
+      "name": "Don\u2019t Forget Your Roots",
+      "artist": "SIX60"
+    },
+    {
+      "uri": "spotify:track:7KkpWFfKfSivkMD6yrKhGD",
+      "name": "Someone To Be Around",
+      "artist": "SIX60"
+    },
+    {
+      "uri": "spotify:track:6SNuDYyAi5sI3LIqbhMRCB",
+      "name": "Forever",
+      "artist": "SIX60"
+    }
+  ],
+  "Greg Freeman": [
+    {
+      "uri": "spotify:track:5i7tMeZF3KMwjwb343rX7h",
+      "name": "Come and Change My Body",
+      "artist": "Greg Freeman"
+    },
+    {
+      "uri": "spotify:track:3Ofhc1eEv8pxcsnxWCJ5eK",
+      "name": "Long Distance Driver",
+      "artist": "Greg Freeman"
+    },
+    {
+      "uri": "spotify:track:3UJ6mJtM2pxT0oBT5BiVST",
+      "name": "Right Before the Last Waves Took Vestris",
+      "artist": "Greg Freeman"
+    }
+  ],
+  "The Animeros": [
+    {
+      "uri": "spotify:track:7Hlx94kNyAY5OMovXYzAJn",
+      "name": "La Camita",
+      "artist": "The Animeros"
+    },
+    {
+      "uri": "spotify:track:7M0dUcX4MImpJfH4n8MyuU",
+      "name": "G\u00f3zalo - 45 Mix",
+      "artist": "The Animeros"
+    },
+    {
+      "uri": "spotify:track:3D0YPi9gtBz2C145b41DDo",
+      "name": "Danza de Los Saguaros - 45 Mix",
+      "artist": "The Animeros"
+    }
+  ],
+  "Yana": [
+    {
+      "uri": "spotify:track:5zmLRdgheUjzeeL6697YK1",
+      "name": "Haunt Me",
+      "artist": "Yana"
+    },
+    {
+      "uri": "spotify:track:6ZD1BmXJAUKR301UGCor5e",
+      "name": "Come On",
+      "artist": "Yana"
+    },
+    {
+      "uri": "spotify:track:6Pu01EVobxrICuU90Ptzn6",
+      "name": "Like You Do",
+      "artist": "Yana"
+    }
+  ],
+  "Supertaste": [
+    {
+      "uri": "spotify:track:6GRRR3GTp9kVIfX3J9UcON",
+      "name": "Supernova",
+      "artist": "Supertaste"
+    },
+    {
+      "uri": "spotify:track:3Z0ykpKi8eN2bbm42xZh3a",
+      "name": "Comedown",
+      "artist": "Supertaste"
+    },
+    {
+      "uri": "spotify:track:6GUqseTc9d4yGETDg7dr83",
+      "name": "Chemistry",
+      "artist": "Supertaste"
+    }
+  ],
+  "untitled (halo)": [
+    {
+      "uri": "spotify:track:20cT7dK78lcWivtroaaumC",
+      "name": "020",
+      "artist": "untitled (halo)"
+    },
+    {
+      "uri": "spotify:track:4K3TWtmQ2E5ovfFRfydcRI",
+      "name": "Pedal Petal",
+      "artist": "untitled (halo)"
+    },
+    {
+      "uri": "spotify:track:61M8NiGTSJNy0kFnirktM3",
+      "name": "that's honey",
+      "artist": "untitled (halo)"
+    }
+  ],
+  "Losing Streak": []
 }

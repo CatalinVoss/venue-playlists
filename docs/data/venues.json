@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:10:08.728913+00:00",
+  "generated_at": "2026-07-22T07:10:34.159091+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 75,
+          "show_count": 78,
           "shows": [
             {
               "artist": "Riff Wood",
@@ -183,7 +183,7 @@
               "show_date": "2026-10-03",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-san-francisco-california-10-03-2026/event/1C0064B4F434F589"
+              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-103-san-francisco-california-10-03-2026/event/1C0064B4F434F589"
             },
             {
               "artist": "Dua Saleh",
@@ -526,7 +526,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 66,
           "shows": [
             {
               "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
@@ -627,15 +627,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-07-21",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226994"
-            },
             {
               "artist": "Slay Squad/ Bruhmanegod/ Blackpunks/ Bodyshot/ Hash Gordon/ Bent Outta Shape",
               "show_date": "2026-07-22",
@@ -712,6 +705,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mortal-manhunt-egregious-headhunter-apraxia-neck-of-the-woods-tickets/14196634"
+            },
+            {
+              "artist": "ulyssescfm/ look at fiona./ Cilantro",
+              "show_date": "2026-08-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ulyssescfm-look-at-fiona-cilantro-neck-of-the-woods-tickets/14269274"
             }
           ]
         }
