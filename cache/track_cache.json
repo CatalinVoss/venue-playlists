@@ -4371,5 +4371,91 @@
       "artist": "untitled (halo)"
     }
   ],
-  "Losing Streak": []
+  "Losing Streak": [],
+  "Dan Whitlam": [
+    {
+      "uri": "spotify:track:7rV7ED4Y1kcboXdMuugb62",
+      "name": "Juliette",
+      "artist": "Dan Whitlam"
+    },
+    {
+      "uri": "spotify:track:09sD40iBNjCrZQwr3UgQa2",
+      "name": "Blue (feat. Tamzene)",
+      "artist": "Dan Whitlam"
+    },
+    {
+      "uri": "spotify:track:0QVeYbIchvBmCRnBGGuWoD",
+      "name": "Satellite",
+      "artist": "Dan Whitlam"
+    }
+  ],
+  "Maddie Zahm": [
+    {
+      "uri": "spotify:track:6gPQg2iktdQq3OpOGKmY42",
+      "name": "Hometown Letdown",
+      "artist": "Maddie Zahm"
+    },
+    {
+      "uri": "spotify:track:0BqWEdlRUTCsYlLO5jMItB",
+      "name": "You Might Not Like Her",
+      "artist": "Maddie Zahm"
+    },
+    {
+      "uri": "spotify:track:7z3NjKBqjv3d1ykXCFQxaT",
+      "name": "Fat Funny Friend",
+      "artist": "Maddie Zahm"
+    }
+  ],
+  "Hug": [],
+  "Bird and Byron W/ ZG Smith, Hero Magnus Live At Brick & Mortar (San FR": [
+    {
+      "uri": "spotify:track:0xBGLTEdQpg4hjMhre2lml",
+      "name": "Here and There",
+      "artist": "Bird and Byron"
+    }
+  ],
+  "Hero Magnus W/ Bird and Byron Live At Brick & Mortar (San Francisco, C": [],
+  "Fully Loaded, San Quinn": [
+    {
+      "uri": "spotify:track:4x63pccNzB0xSdj7EQz6nr",
+      "name": "Major Heat",
+      "artist": "San Quinn"
+    }
+  ],
+  "L\u00d8L\u00d8, Mylie Taylor": [],
+  "Triptides": [
+    {
+      "uri": "spotify:track:1phxX6genVzHVcH3XGvHvP",
+      "name": "Wake",
+      "artist": "Triptides"
+    },
+    {
+      "uri": "spotify:track:6fpobbQdKgd19CgzWzjq9U",
+      "name": "Not Mine",
+      "artist": "Triptides"
+    },
+    {
+      "uri": "spotify:track:3Fs732eA8tiHQHQ8hOnsJj",
+      "name": "Over",
+      "artist": "Triptides"
+    }
+  ],
+  "Bayonne": [
+    {
+      "uri": "spotify:track:5WSbA7CYliGAJiZTRldTMK",
+      "name": "Right Thing",
+      "artist": "Bayonne"
+    },
+    {
+      "uri": "spotify:track:5onMeHZm3FROBkNgV0otiP",
+      "name": "I Know",
+      "artist": "Bayonne"
+    },
+    {
+      "uri": "spotify:track:2bAZx1704rpD2K0Uhtzei0",
+      "name": "Perfect",
+      "artist": "Bayonne"
+    }
+  ],
+  "Whalefall/ Sleepycat/ The Science Team/ Petals for Armor/ Pluie": []
 }

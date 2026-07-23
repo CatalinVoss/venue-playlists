@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:10:34.159091+00:00",
+  "generated_at": "2026-07-23T07:09:06.412623+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 78,
+          "show_count": 79,
           "shows": [
             {
               "artist": "Riff Wood",
@@ -114,7 +114,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 13,
+          "show_count": 14,
           "shows": [
             {
               "artist": "Broadway Rave",
@@ -182,8 +182,19 @@
               "artist": "Ecca Vandal",
               "show_date": "2026-10-03",
               "show_time": "21:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Speed of Light"
+              ],
               "ticket_url": "https://www.ticketmaster.com/ecca-vandal-103-san-francisco-california-10-03-2026/event/1C0064B4F434F589"
+            },
+            {
+              "artist": "Ecca Vandal",
+              "show_date": "2026-10-04",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Speed of Light"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-104-san-francisco-california-10-04-2026/event/1C0064F5C943FC84"
             },
             {
               "artist": "Dua Saleh",
@@ -198,15 +209,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/zolita-the-hells-belles-tour-san-francisco-california-10-13-2026/event/1C0064C2069884E3"
-            },
-            {
-              "artist": "Bebe Stockwell",
-              "show_date": "2026-10-19",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Khatumu"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
             }
           ]
         },
@@ -221,13 +223,6 @@
           "stale": false,
           "show_count": 47,
           "shows": [
-            {
-              "artist": "Friendship",
-              "show_date": "2026-07-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvf"
-            },
             {
               "artist": "NATURAL INFORMATION SOCIETY",
               "show_date": "2026-07-23",
@@ -306,6 +301,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo6"
+            },
+            {
+              "artist": "Built To Spill",
+              "show_date": "2026-08-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v3"
             }
           ]
         },
@@ -423,7 +425,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 16,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -526,7 +528,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 70,
           "shows": [
             {
               "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
@@ -603,18 +605,18 @@
               "ticket_url": "https://www.ticketweb.com/event/return-of-the-emcee-xv-brick-and-mortar-music-hall-tickets/14928833"
             },
             {
-              "artist": "Bird and Byron W/ ZG Smith Live At Brick & Mortar (San Francisco, Ca)",
+              "artist": "Bird and Byron W/ ZG Smith, Hero Magnus Live At Brick & Mortar (San FR",
               "show_date": "2026-08-02",
-              "show_time": "20:00:00",
+              "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bird-and-byron-w-zg-brick-and-mortar-music-hall-tickets/14860143?REFERRAL_ID=tmfeed"
             },
             {
-              "artist": "Tomboy W/ Bird and Byron Live At Brick & Mortar (San Francisco, Ca)",
+              "artist": "Hero Magnus W/ Bird and Byron Live At Brick & Mortar (San Francisco, C",
               "show_date": "2026-08-02",
-              "show_time": "20:00:00",
+              "show_time": "19:30:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tomboy-w-bird-and-byron-brick-and-mortar-music-hall-tickets/14271344?REFERRAL_ID=tmfeed"
+              "ticket_url": "https://www.ticketweb.com/event/hero-magnus-w-bird-and-brick-and-mortar-music-hall-tickets/14275434?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -630,20 +632,6 @@
           "show_count": 64,
           "shows": [
             {
-              "artist": "Slay Squad/ Bruhmanegod/ Blackpunks/ Bodyshot/ Hash Gordon/ Bent Outta Shape",
-              "show_date": "2026-07-22",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/slay-squad-bruhmanegod-blackpunks-bodyshot-neck-of-the-woods-tickets/14906643"
-            },
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-07-22",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032704"
-            },
-            {
               "artist": "Fight Back",
               "show_date": "2026-07-23",
               "show_time": "19:30:00",
@@ -656,6 +644,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/jonnys-day-out-over-under-neck-of-the-woods-tickets/14911433"
+            },
+            {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-07-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14275154"
             },
             {
               "artist": "Miguel Kultura",
@@ -712,6 +707,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ulyssescfm-look-at-fiona-cilantro-neck-of-the-woods-tickets/14269274"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-08-04",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226984"
             }
           ]
         }
