@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:09:06.412623+00:00",
+  "generated_at": "2026-07-24T07:09:44.475019+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 78,
           "shows": [
-            {
-              "artist": "Riff Wood",
-              "show_date": "2026-07-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/riff-wood-the-independent-tickets/14818353"
-            },
             {
               "artist": "Diggy Graves",
               "show_date": "2026-07-25",
@@ -102,6 +95,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/four-square-vol-2-the-independent-tickets/14954133"
+            },
+            {
+              "artist": "Krooked Kings",
+              "show_date": "2026-08-15",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/krooked-kings-the-independent-tickets/14902833"
             }
           ]
         },
@@ -221,15 +221,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "NATURAL INFORMATION SOCIETY",
-              "show_date": "2026-07-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vA"
-            },
             {
               "artist": "James McMurtry",
               "show_date": "2026-07-24",
@@ -308,6 +301,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v3"
+            },
+            {
+              "artist": "Built To Spill",
+              "show_date": "2026-08-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vK"
             }
           ]
         },
@@ -528,31 +528,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 68,
           "shows": [
-            {
-              "artist": "Paul Psarras with Alejandro Aranda Live At Brick & Mortar Music Hall (",
-              "show_date": "2026-07-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/paul-psarras-with-alejandro-aranda-brick-and-mortar-music-hall-tickets/14954143?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Alejandro Aranda (Hondo World) W/ Tyler Stone, Afterthought & Paul Psa",
-              "show_date": "2026-07-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/alejandro-aranda-hondo-world-w-brick-and-mortar-music-hall-tickets/14817893?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Alejandro Aranda",
-              "show_date": "2026-07-23",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Tyler Stone"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pao9"
-            },
             {
               "artist": "Sace6",
               "show_date": "2026-07-24",
@@ -617,6 +594,27 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/hero-magnus-w-bird-and-brick-and-mortar-music-hall-tickets/14275434?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Tomboy W/ Bird and Byron Live At Brick & Mortar (San Francisco, Ca)",
+              "show_date": "2026-08-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tomboy-w-bird-and-byron-brick-and-mortar-music-hall-tickets/14271344?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour",
+              "show_date": "2026-08-03",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/femm-x-astrid-emo-brick-and-mortar-music-hall-tickets/14207354"
+            },
+            {
+              "artist": "Justine Skye",
+              "show_date": "2026-08-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xeQK"
             }
           ]
         },
@@ -629,15 +627,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Fight Back",
-              "show_date": "2026-07-23",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/no-right-opposing-force-what-neck-of-the-woods-tickets/14197084"
-            },
             {
               "artist": "Jonny's Day Out/ Over Under/ For Horses",
               "show_date": "2026-07-24",
@@ -714,6 +705,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226984"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-08-05",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032814"
             }
           ]
         }
