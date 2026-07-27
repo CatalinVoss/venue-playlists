@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:10:34.907076+00:00",
+  "generated_at": "2026-07-27T07:26:25.713264+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -628,13 +628,6 @@
           "show_count": 61,
           "shows": [
             {
-              "artist": "Corpse Pile",
-              "show_date": "2026-07-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/corpse-pile-iron-front-barbarous-neck-of-the-woods-tickets/14978163"
-            },
-            {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-07-28",
               "show_time": "21:00:00",
@@ -710,6 +703,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/away-with-words-my-precious-neck-of-the-woods-tickets/14269284"
+            },
+            {
+              "artist": "Worlds Worst/ Bugbath/ Slumped",
+              "show_date": "2026-08-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/worlds-worst-bugbath-slumped-neck-of-the-woods-tickets/14217234"
             }
           ]
         }
