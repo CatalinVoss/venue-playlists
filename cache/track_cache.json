@@ -4505,5 +4505,64 @@
       "name": "Chasing The Sky (feat. Terrence Howard, Jussie Smollett & Yazz)",
       "artist": "Yazz"
     }
+  ],
+  "LIMBO": [
+    {
+      "uri": "spotify:track:5SNYJ0XrbFr0vPzE0wZLup",
+      "name": "Airplane Mode",
+      "artist": "Limbo"
+    }
+  ],
+  "Patrick Wolf": [
+    {
+      "uri": "spotify:track:51VDsgehISUIIJvUgIjwQu",
+      "name": "The Magic Position",
+      "artist": "Patrick Wolf"
+    },
+    {
+      "uri": "spotify:track:3fDyWXe1JbCU6AgL7Z6soQ",
+      "name": "Jupiter",
+      "artist": "Patrick Wolf"
+    },
+    {
+      "uri": "spotify:track:07AE1d4NtXHPEQoTNrbi4b",
+      "name": "Together",
+      "artist": "Patrick Wolf"
+    }
+  ],
+  "Nai Palm": [
+    {
+      "uri": "spotify:track:2VsKJODsXzU1NtoFYIh9FM",
+      "name": "Crossfire / So Into You",
+      "artist": "Nai Palm"
+    },
+    {
+      "uri": "spotify:track:2zXfpzLG8YDA6JX3RJ0gEF",
+      "name": "Atoll",
+      "artist": "Nai Palm"
+    },
+    {
+      "uri": "spotify:track:2vmGgEn95r2rNAzN5v3h4X",
+      "name": "Homebody",
+      "artist": "Nai Palm"
+    }
+  ],
+  "Cashier/ Bed Bug Guru": [],
+  "60 juno": [
+    {
+      "uri": "spotify:track:6jMbYChkL89v2SlsrjyURG",
+      "name": "zzz",
+      "artist": "60 juno"
+    },
+    {
+      "uri": "spotify:track:0CuRD2TMEILw4kEs73Fqpb",
+      "name": "J Song",
+      "artist": "60 juno"
+    },
+    {
+      "uri": "spotify:track:0MOQm4a7YqjSAxmAJgaS8Z",
+      "name": "Enjoy the Sunset",
+      "artist": "60 juno"
+    }
   ]
 }

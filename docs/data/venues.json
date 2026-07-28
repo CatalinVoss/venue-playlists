@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:26:25.713264+00:00",
+  "generated_at": "2026-07-28T07:11:13.935077+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 78,
           "shows": [
-            {
-              "artist": "WU LYF",
-              "show_date": "2026-07-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wu-lyf-the-independent-tickets/14081794"
-            },
             {
               "artist": "Chandol",
               "show_date": "2026-07-31",
@@ -65,7 +58,7 @@
               "ticket_url": "https://www.ticketweb.com/event/goldie-boutilier-the-independent-tickets/14205454"
             },
             {
-              "artist": "Ben B\u00f6hmer",
+              "artist": "LIMBO",
               "show_date": "2026-08-09",
               "show_time": "22:00:00",
               "support_acts": [],
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-wfO"
+            },
+            {
+              "artist": "Angine de Poitrine",
+              "show_date": "2026-08-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/angine-de-poitrine-the-independent-tickets/14785623"
             }
           ]
         },
@@ -425,7 +425,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 17,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -463,6 +463,13 @@
                 "Chancha Via Circuito"
               ],
               "ticket_url": "https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-tickets/14928063"
+            },
+            {
+              "artist": "Nai Palm",
+              "show_date": "2026-09-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/nai-palm-of-hiatus-kaiyote-bimbos-365-club-tickets/14276654"
             },
             {
               "artist": "Elder Island",
@@ -509,13 +516,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
-            },
-            {
-              "artist": "World Famous Pets",
-              "show_date": "2026-10-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tickets/14224414"
             }
           ]
         },
@@ -625,7 +625,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 63,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
@@ -677,11 +677,11 @@
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032814"
             },
             {
-              "artist": "Cashier/ Starbelliedbug",
+              "artist": "Cashier/ Bed Bug Guru",
               "show_date": "2026-08-06",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cashier-starbelliedbug-neck-of-the-woods-tickets/14269304"
+              "ticket_url": "https://www.ticketweb.com/event/cashier-bed-bug-guru-neck-of-the-woods-tickets/14269304"
             },
             {
               "artist": "Balmora/ Empty Shell Casing/ In 2 Again/ Eightfold Path/ State of Reliance",
