@@ -4564,5 +4564,36 @@
       "name": "Enjoy the Sunset",
       "artist": "60 juno"
     }
+  ],
+  "The Breaks": [],
+  "Spencer Krug": [
+    {
+      "uri": "spotify:track:4PzxBFvZtasK85pou364lw",
+      "name": "I'll Believe in Anything - 2026 Solo Piano Version",
+      "artist": "Spencer Krug"
+    },
+    {
+      "uri": "spotify:track:0rRijAv1gdytO2ZFmZD12P",
+      "name": "Get To Live",
+      "artist": "Spencer Krug"
+    },
+    {
+      "uri": "spotify:track:1i0xJdgk6OZnBm63kMidof",
+      "name": "Stadiums and Shrines II",
+      "artist": "Spencer Krug"
+    }
+  ],
+  "Computer + Brahm": [],
+  "Drag Talk": [
+    {
+      "uri": "spotify:track:588XqSdDz0SwkznM7RUruV",
+      "name": "DOGS",
+      "artist": "Drag Talk"
+    },
+    {
+      "uri": "spotify:track:1vVIGgPd4F9Nvyv8LKOJT6",
+      "name": "Egyptian Flesh",
+      "artist": "Drag Talk"
+    }
   ]
 }

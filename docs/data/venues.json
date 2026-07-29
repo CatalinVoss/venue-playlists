@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:11:13.935077+00:00",
+  "generated_at": "2026-07-29T07:12:42.290368+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 78,
+          "show_count": 79,
           "shows": [
             {
               "artist": "Chandol",
@@ -219,15 +219,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 44,
+          "show_count": 43,
           "shows": [
-            {
-              "artist": "Meatbodies",
-              "show_date": "2026-07-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo7"
-            },
             {
               "artist": "Corduroy - Pearl Jam Tribute",
               "show_date": "2026-08-01",
@@ -308,6 +301,15 @@
                 "Traps PS"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kx9"
+            },
+            {
+              "artist": "Osees",
+              "show_date": "2026-08-27",
+              "show_time": "20:30:00",
+              "support_acts": [
+                "Brigid Dawson"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kxp"
             }
           ]
         },
@@ -370,7 +372,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 7,
           "shows": [
             {
               "artist": "Hannah Frances",
@@ -413,6 +415,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/hotel-allan-the-swedish-american-hall-tickets/14971303"
+            },
+            {
+              "artist": "Spencer Krug",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/spencer-krug-swedish-american-hall-tickets/14994153"
             }
           ]
         },
@@ -425,7 +434,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 18,
           "shows": [
             {
               "artist": "Balu Brigada",
@@ -528,15 +537,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Lucius Arthur, Slow coast, kin + me",
-              "show_date": "2026-07-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lucius-arthur-slow-coast-kin-brick-and-mortar-music-hall-tickets/14195614"
-            },
             {
               "artist": "Kevian Kraemer + closebye",
               "show_date": "2026-07-29",
@@ -613,6 +615,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yellow-brick-and-mortar-music-hall-tickets/14975883"
+            },
+            {
+              "artist": "Computer + Brahm",
+              "show_date": "2026-08-14",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/computer-brahm-brick-and-mortar-music-hall-tickets/14249864"
             }
           ]
         },
@@ -627,13 +636,6 @@
           "stale": false,
           "show_count": 63,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-07-28",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227364"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-07-29",
@@ -710,6 +712,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/worlds-worst-bugbath-slumped-neck-of-the-woods-tickets/14217234"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-08-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226974"
             }
           ]
         }
