@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:12:42.290368+00:00",
+  "generated_at": "2026-07-30T07:11:13.676462+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 80,
           "shows": [
             {
               "artist": "Chandol",
@@ -537,15 +537,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Kevian Kraemer + closebye",
-              "show_date": "2026-07-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kevian-kraemer-closebye-brick-and-mortar-music-hall-tickets/14861583"
-            },
             {
               "artist": "Rome Streetz",
               "show_date": "2026-07-31",
@@ -622,6 +615,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/computer-brahm-brick-and-mortar-music-hall-tickets/14249864"
+            },
+            {
+              "artist": "EJEAN",
+              "show_date": "2026-08-15",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70v7M"
             }
           ]
         },
@@ -634,15 +634,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-07-29",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032774"
-            },
             {
               "artist": "Sleepyhead",
               "show_date": "2026-08-01",
@@ -719,6 +712,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226974"
+            },
+            {
+              "artist": "Smooth Alligator/ Primary Care/ Clumsy Tungs/ Yaantras",
+              "show_date": "2026-08-12",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/smooth-alligator-primary-care-clumsy-neck-of-the-woods-tickets/14994283"
             }
           ]
         }

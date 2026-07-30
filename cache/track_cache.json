@@ -4595,5 +4595,22 @@
       "name": "Egyptian Flesh",
       "artist": "Drag Talk"
     }
+  ],
+  "THAO": [
+    {
+      "uri": "spotify:track:0WdfCa2a7iNxVDgsLnulyt",
+      "name": "Holy Roller",
+      "artist": "THAO"
+    },
+    {
+      "uri": "spotify:track:3FYlL8mNX4aFVtklDs01gH",
+      "name": "Bag of Hammers",
+      "artist": "THAO"
+    },
+    {
+      "uri": "spotify:track:3jh1zRkY9JhFkXZhSkxX45",
+      "name": "Temple",
+      "artist": "THAO"
+    }
   ]
 }
