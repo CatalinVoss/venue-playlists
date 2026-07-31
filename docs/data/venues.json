@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:11:13.676462+00:00",
+  "generated_at": "2026-07-31T07:16:33.148468+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -434,7 +434,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 19,
           "shows": [
             {
               "artist": "Balu Brigada",
