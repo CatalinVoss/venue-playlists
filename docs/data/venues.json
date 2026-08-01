@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:16:33.148468+00:00",
+  "generated_at": "2026-08-01T07:07:07.226150+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 79,
           "shows": [
-            {
-              "artist": "Chandol",
-              "show_date": "2026-07-31",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/chandol-the-independent-tickets/14939923"
-            },
             {
               "artist": "Ultimate Fakebook",
               "show_date": "2026-08-01",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/angine-de-poitrine-the-independent-tickets/14785623"
+            },
+            {
+              "artist": "G Flip",
+              "show_date": "2026-08-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/g-flip-the-independent-tickets/14989453"
             }
           ]
         },
@@ -537,15 +537,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Rome Streetz",
-              "show_date": "2026-07-31",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rome-streetz-sock-brick-and-mortar-music-hall-tickets/14959803"
-            },
             {
               "artist": "Return of the Emcee XV",
               "show_date": "2026-08-01",
@@ -622,6 +615,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70v7M"
+            },
+            {
+              "artist": "EJEAN \u2014 meant love tour",
+              "show_date": "2026-08-15",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ejean-meant-love-tour-brick-and-mortar-music-hall-tickets/14179124"
             }
           ]
         },
