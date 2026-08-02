@@ -4647,5 +4647,23 @@
       "artist": "Ella Boh"
     }
   ],
-  "Polkadot/ MyVeronica/ Buddy Junior": []
+  "Polkadot/ MyVeronica/ Buddy Junior": [],
+  "Ella Red, ZOE KO, Gloomy June": [],
+  "DEATH LENS + HEART TO GOLD + GRAVE SECRETS + GARAGE SPIDERS": [
+    {
+      "uri": "spotify:track:6BJoHw1QdwMURiWHTsb7zF",
+      "name": "Off The Edge",
+      "artist": "Death Lens"
+    },
+    {
+      "uri": "spotify:track:7zZSpzhovJFLtjrX7KSz7P",
+      "name": "Waiting To Know",
+      "artist": "Death Lens"
+    },
+    {
+      "uri": "spotify:track:4NdOLMmsLIpHIKUuDrw4fv",
+      "name": "Power",
+      "artist": "Death Lens"
+    }
+  ]
 }
