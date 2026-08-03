@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:09:15.332345+00:00",
+  "generated_at": "2026-08-03T07:26:06.108938+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -537,29 +537,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Bird and Byron W/ ZG Smith, Hero Magnus Live At Brick & Mortar (San FR",
-              "show_date": "2026-08-02",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bird-and-byron-w-zg-brick-and-mortar-music-hall-tickets/14860143?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Hero Magnus W/ Bird and Byron Live At Brick & Mortar (San Francisco, C",
-              "show_date": "2026-08-02",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/hero-magnus-w-bird-and-brick-and-mortar-music-hall-tickets/14275434?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Tomboy W/ Bird and Byron Live At Brick & Mortar (San Francisco, Ca)",
-              "show_date": "2026-08-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tomboy-w-bird-and-byron-brick-and-mortar-music-hall-tickets/14271344?REFERRAL_ID=tmfeed"
-            },
             {
               "artist": "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour",
               "show_date": "2026-08-03",
@@ -622,6 +601,27 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/franklin-jonas-the-byzantines-brick-and-mortar-music-hall-tickets/14912123?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Fully Loaded, San Quinn",
+              "show_date": "2026-08-21",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/fully-loaded-san-quinn-brick-and-mortar-music-hall-tickets/14273524"
+            },
+            {
+              "artist": "The Black Heart Procession",
+              "show_date": "2026-08-22",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PyJk"
+            },
+            {
+              "artist": "The Black Heart Procession",
+              "show_date": "2026-08-22",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-black-heart-procession-brick-and-mortar-music-hall-tickets/14221194"
             }
           ]
         },
@@ -634,22 +634,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Mortal/ Manhunt/ Egregious/ Headhunter/ Apraxia",
-              "show_date": "2026-08-02",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mortal-manhunt-egregious-headhunter-apraxia-neck-of-the-woods-tickets/14196634"
-            },
-            {
-              "artist": "ulyssescfm/ look at fiona./ Cilantro",
-              "show_date": "2026-08-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ulyssescfm-look-at-fiona-cilantro-neck-of-the-woods-tickets/14269274"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-08-04",
@@ -719,6 +705,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032884"
+            },
+            {
+              "artist": "Parting Gift/ Starzdust/ Street Play/ Bombshell",
+              "show_date": "2026-08-13",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/parting-gift-starzdust-street-play-neck-of-the-woods-tickets/14262274"
+            },
+            {
+              "artist": "Burnout/ Index/ Maintecen/ Big Green",
+              "show_date": "2026-08-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/burnout-index-maintecen-big-green-neck-of-the-woods-tickets/14269254"
             }
           ]
         }
