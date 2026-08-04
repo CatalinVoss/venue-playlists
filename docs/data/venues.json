@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:26:06.108938+00:00",
+  "generated_at": "2026-08-04T07:11:13.544884+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -540,13 +540,6 @@
           "show_count": 60,
           "shows": [
             {
-              "artist": "FEM&M X ASTRID \u2014 EMO GIRLS VS RAVE GIRLS Tour",
-              "show_date": "2026-08-03",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/femm-x-astrid-emo-brick-and-mortar-music-hall-tickets/14207354"
-            },
-            {
               "artist": "Justine Skye",
               "show_date": "2026-08-06",
               "show_time": "20:00:00",
@@ -622,6 +615,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-black-heart-procession-brick-and-mortar-music-hall-tickets/14221194"
+            },
+            {
+              "artist": "BORN AT MIDNITE",
+              "show_date": "2026-08-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/born-at-midnite-brick-and-mortar-music-hall-tickets/14888923"
             }
           ]
         },
@@ -634,7 +634,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
@@ -651,11 +651,11 @@
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032814"
             },
             {
-              "artist": "Cashier/ Bed Bug Guru",
+              "artist": "Cashier/ Bed Bug Guru/ Deceit",
               "show_date": "2026-08-06",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cashier-bed-bug-guru-neck-of-the-woods-tickets/14269304"
+              "ticket_url": "https://www.ticketweb.com/event/cashier-bed-bug-guru-deceit-neck-of-the-woods-tickets/14269304"
             },
             {
               "artist": "Balmora/ Empty Shell Casing/ In 2 Again/ Eightfold Path/ State of Reliance",
@@ -670,6 +670,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/weathy-women-failed-sun-shrud-neck-of-the-woods-tickets/14198434"
+            },
+            {
+              "artist": "Postnasal Drainage/ Xignitx/ Kr\u00fcx/ The Hammer Party",
+              "show_date": "2026-08-08",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/postnasal-drainage-xignitx-krx-the-neck-of-the-woods-tickets/15008513"
             },
             {
               "artist": "Losing Streak",
@@ -712,13 +719,6 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/parting-gift-starzdust-street-play-neck-of-the-woods-tickets/14262274"
-            },
-            {
-              "artist": "Burnout/ Index/ Maintecen/ Big Green",
-              "show_date": "2026-08-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/burnout-index-maintecen-big-green-neck-of-the-woods-tickets/14269254"
             }
           ]
         }
