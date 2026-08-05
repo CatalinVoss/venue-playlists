@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:11:13.544884+00:00",
+  "generated_at": "2026-08-05T07:11:17.422937+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 78,
+          "show_count": 79,
           "shows": [
             {
               "artist": "Clipse",
@@ -634,15 +634,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-08-04",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226984"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-08-05",
@@ -719,6 +712,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/parting-gift-starzdust-street-play-neck-of-the-woods-tickets/14262274"
+            },
+            {
+              "artist": "SnallyGaster/ War Whore/ TBA",
+              "show_date": "2026-08-14",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/snallygaster-war-whore-tba-neck-of-the-woods-tickets/15008533"
             }
           ]
         }
