@@ -4677,5 +4677,56 @@
       "name": "Fabulous",
       "artist": "MEEK"
     }
+  ],
+  "Grace Enger": [
+    {
+      "uri": "spotify:track:0wzUCmxT0JIeIAZkNWxIDK",
+      "name": "The Neighborhood",
+      "artist": "Grace Enger"
+    },
+    {
+      "uri": "spotify:track:6KZNvMmJA40X5IdEywrV0W",
+      "name": "Undiscovered",
+      "artist": "Grace Enger"
+    },
+    {
+      "uri": "spotify:track:2z9FTmH4pP06PeQFGNRAI1",
+      "name": "Love Will Find Me",
+      "artist": "Grace Enger"
+    }
+  ],
+  "Cult Member": [
+    {
+      "uri": "spotify:track:61iJknbAXSuBflDz3vSQ0b",
+      "name": "U Weren't Here I Really Miss You",
+      "artist": "Cult Member"
+    },
+    {
+      "uri": "spotify:track:0YvtuzxqHtn4f5cEQnBKJC",
+      "name": "three",
+      "artist": "Cult Member"
+    },
+    {
+      "uri": "spotify:track:0uR0qQt8DRepceVPRnB5Cd",
+      "name": "Fantastic Life",
+      "artist": "Cult Member"
+    }
+  ],
+  "Worlds Worst/ Bugbath/ Slumped/ Badvril": [
+    {
+      "uri": "spotify:track:4MS4Wpp0QGM8RgJrId9BPy",
+      "name": "Worldsworst",
+      "artist": "Worlds Worst"
+    },
+    {
+      "uri": "spotify:track:4RpYDETtHvEOQAglR6OvPe",
+      "name": "Gas Hands",
+      "artist": "Worlds Worst"
+    },
+    {
+      "uri": "spotify:track:4ZBf9RlEUr86x0lfa8c3sV",
+      "name": "Challenger",
+      "artist": "Worlds Worst"
+    }
   ]
 }
