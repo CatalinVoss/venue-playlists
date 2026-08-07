@@ -4728,5 +4728,60 @@
       "name": "Challenger",
       "artist": "Worlds Worst"
     }
+  ],
+  "Cure for Paranoia": [
+    {
+      "uri": "spotify:track:35ZpZUwG9lNar3B055ZpWE",
+      "name": "THE ARTSHOW - Tiny Desk Version",
+      "artist": "Cure for Paranoia"
+    },
+    {
+      "uri": "spotify:track:5pp2MByIQp89yB8IksnEPx",
+      "name": "The Artshow",
+      "artist": "Cure for Paranoia"
+    },
+    {
+      "uri": "spotify:track:2k0Dpq5Dtn0dQnvXbAlayC",
+      "name": "No Brainer",
+      "artist": "Cure for Paranoia"
+    }
+  ],
+  "Dragon Smoke": [],
+  "Dustin Dollin's Fine Mess + M.A.T.B + D. Sablu + DJ Corey Duffel": [],
+  "GENWUNNER": [
+    {
+      "uri": "spotify:track:59z99kJAUvNHtNcIZkxlQt",
+      "name": "BLASTOISE! (Big Man Blastoise)",
+      "artist": "Genwunner"
+    },
+    {
+      "uri": "spotify:track:72NoCpzTiZeVBiAhyM5Rtf",
+      "name": "PSYDUCK!",
+      "artist": "Genwunner"
+    },
+    {
+      "uri": "spotify:track:0COIEkVI89pag3LCSZ2gn4",
+      "name": "CHARIZARD!",
+      "artist": "Genwunner"
+    }
+  ],
+  "Bombshell/ Nonbinary Girlfriend/ Femme Cell/ starbelliedbug": [],
+  "Kevlar Upper/ Mortuary Assistant/ P.O.S./ Crawl of Time": [],
+  "Swapmeet/ Joyer": [
+    {
+      "uri": "spotify:track:38Af6mSvET1v7XXpE4C21S",
+      "name": "Bonny",
+      "artist": "Swapmeet"
+    },
+    {
+      "uri": "spotify:track:3bOTGbOT5dnY13CafbWeN5",
+      "name": "Halfway",
+      "artist": "Swapmeet"
+    },
+    {
+      "uri": "spotify:track:3q2YKTA1K0GrFVoBFMoN5t",
+      "name": "I Know!",
+      "artist": "Swapmeet"
+    }
   ]
 }

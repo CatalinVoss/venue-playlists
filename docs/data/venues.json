@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:04:51.433610+00:00",
+  "generated_at": "2026-08-07T07:40:16.889522+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "Clipse",
-              "show_date": "2026-08-06",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/clipse-the-independent-tickets/14204854"
-            },
             {
               "artist": "GRiZ",
               "show_date": "2026-08-07",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/niina-soleil-the-independent-tickets/14975223"
+            },
+            {
+              "artist": "Pearl & The Oysters",
+              "show_date": "2026-08-22",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pearl-the-oysters-the-independent-tickets/14878423"
             }
           ]
         },
@@ -219,17 +219,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 42,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Alela Diane",
-              "show_date": "2026-08-06",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Shannon Lay"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mok"
-            },
             {
               "artist": "Deradoorian",
               "show_date": "2026-08-09",
@@ -310,6 +301,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vf"
+            },
+            {
+              "artist": "Osees",
+              "show_date": "2026-08-29",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v4"
             }
           ]
         },
@@ -427,15 +425,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Balu Brigada",
-              "show_date": "2026-08-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/balu-brigada-bimbos-365-club-tickets/14205614"
-            },
             {
               "artist": "Mustache Harbor",
               "show_date": "2026-08-21",
@@ -518,6 +509,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
+            },
+            {
+              "artist": "World Famous Pets",
+              "show_date": "2026-10-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tickets/14224414"
             }
           ]
         },
@@ -532,20 +530,6 @@
           "stale": false,
           "show_count": 60,
           "shows": [
-            {
-              "artist": "Justine Skye",
-              "show_date": "2026-08-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xeQK"
-            },
-            {
-              "artist": "Justine Skye",
-              "show_date": "2026-08-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/justine-skye-candy-tour-brick-and-mortar-music-hall-tickets/14820623"
-            },
             {
               "artist": "Ella Red, ZOE KO, Gloomy June",
               "show_date": "2026-08-11",
@@ -589,6 +573,13 @@
               "ticket_url": "https://www.ticketweb.com/event/franklin-jonas-the-byzantines-brick-and-mortar-music-hall-tickets/14912123?REFERRAL_ID=tmfeed"
             },
             {
+              "artist": "Dustin Dollin's Fine Mess + M.A.T.B + D. Sablu + DJ Corey Duffel",
+              "show_date": "2026-08-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dustin-dollins-fine-mess-brick-and-mortar-music-hall-tickets/15017303"
+            },
+            {
               "artist": "Fully Loaded, San Quinn",
               "show_date": "2026-08-21",
               "show_time": "21:00:00",
@@ -615,6 +606,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/born-at-midnite-brick-and-mortar-music-hall-tickets/14888923"
+            },
+            {
+              "artist": "GLU",
+              "show_date": "2026-08-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/glu-brick-and-mortar-music-hall-tickets/14952663"
             }
           ]
         },
@@ -627,15 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Cashier/ Bed Bug Guru/ Deceit",
-              "show_date": "2026-08-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cashier-bed-bug-guru-deceit-neck-of-the-woods-tickets/14269304"
-            },
             {
               "artist": "Balmora/ Empty Shell Casing/ In 2 Again/ Eightfold Path/ State of Reliance",
               "show_date": "2026-08-07",
@@ -712,6 +703,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/burnout-index-maintecen-big-green-neck-of-the-woods-tickets/14269254"
+            },
+            {
+              "artist": "Lucky Devils",
+              "show_date": "2026-08-18",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lucky-devils-neck-of-the-woods-tickets/14269314"
             }
           ]
         }
