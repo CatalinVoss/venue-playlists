@@ -4783,5 +4783,24 @@
       "name": "I Know!",
       "artist": "Swapmeet"
     }
-  ]
+  ],
+  "Fireworks": [],
+  "Squirrel Nut Zippers": [
+    {
+      "uri": "spotify:track:4efAv86uRxR4yQBcb3Vczq",
+      "name": "Hell - Remastered 2016",
+      "artist": "Squirrel Nut Zippers"
+    },
+    {
+      "uri": "spotify:track:4OHXGwmWLzb6Vdcnc0nBfK",
+      "name": "Put a Lid on It - Remastered 2016",
+      "artist": "Squirrel Nut Zippers"
+    },
+    {
+      "uri": "spotify:track:0yxGHQARcoJLF3hBJ3KMHT",
+      "name": "Ghost Of Stephen Foster",
+      "artist": "Squirrel Nut Zippers"
+    }
+  ],
+  "Strangepride, Big Afternoon, & Collision Brothers": []
 }

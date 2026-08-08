@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:40:16.889522+00:00",
+  "generated_at": "2026-08-08T07:14:00.288535+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 80,
           "shows": [
-            {
-              "artist": "GRiZ",
-              "show_date": "2026-08-07",
-              "show_time": "22:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt07"
-            },
-            {
-              "artist": "GRiZ",
-              "show_date": "2026-08-07",
-              "show_time": "22:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/griz-the-independent-tickets/14205294"
-            },
             {
               "artist": "Goldie Boutilier",
               "show_date": "2026-08-08",
@@ -100,6 +86,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/pearl-the-oysters-the-independent-tickets/14878423"
+            },
+            {
+              "artist": "Son Rompe Pera",
+              "show_date": "2026-08-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/son-rompe-pera-the-independent-tickets/14941743"
+            },
+            {
+              "artist": "Wax + DJ Hoppa",
+              "show_date": "2026-08-28",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wax-dj-hoppa-the-independent-tickets/14823433"
             }
           ]
         },
@@ -112,15 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 14,
+          "show_count": 13,
           "shows": [
-            {
-              "artist": "Broadway Rave",
-              "show_date": "2026-08-07",
-              "show_time": "20:31:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PNGY"
-            },
             {
               "artist": "Sports",
               "show_date": "2026-08-08",
@@ -207,6 +200,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/zolita-the-hells-belles-tour-san-francisco-california-10-13-2026/event/1C0064C2069884E3"
+            },
+            {
+              "artist": "Bebe Stockwell",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Khatumu"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
             }
           ]
         },
@@ -425,7 +427,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 19,
           "shows": [
             {
               "artist": "Mustache Harbor",
@@ -528,7 +530,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 61,
           "shows": [
             {
               "artist": "Ella Red, ZOE KO, Gloomy June",
@@ -625,22 +627,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Balmora/ Empty Shell Casing/ In 2 Again/ Eightfold Path/ State of Reliance",
-              "show_date": "2026-08-07",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/balmora-empty-shell-casing-in-neck-of-the-woods-tickets/14878723"
-            },
-            {
-              "artist": "Weathy Women/ Failed Sun/ SHR\u00d8UD/ Field of Fear",
-              "show_date": "2026-08-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/weathy-women-failed-sun-shrud-neck-of-the-woods-tickets/14198434"
-            },
             {
               "artist": "Postnasal Drainage/ Xignitx/ Kr\u00fcx/ The Hammer Party",
               "show_date": "2026-08-08",
@@ -710,6 +698,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lucky-devils-neck-of-the-woods-tickets/14269314"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-08-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227184"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-08-19",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032904"
             }
           ]
         }
