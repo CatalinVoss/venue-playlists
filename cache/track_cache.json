@@ -4802,5 +4802,22 @@
       "artist": "Squirrel Nut Zippers"
     }
   ],
-  "Strangepride, Big Afternoon, & Collision Brothers": []
+  "Strangepride, Big Afternoon, & Collision Brothers": [],
+  "Buck Meek": [
+    {
+      "uri": "spotify:track:3sTNIZ0hdHC2Lj1dp0IQRm",
+      "name": "Candle",
+      "artist": "Buck Meek"
+    },
+    {
+      "uri": "spotify:track:3usxfn6u1M15bWZ1RaiMuo",
+      "name": "Gasoline",
+      "artist": "Buck Meek"
+    },
+    {
+      "uri": "spotify:track:10DdThCoROsMPrKprE1XWq",
+      "name": "Can I Mend It?",
+      "artist": "Buck Meek"
+    }
+  ]
 }

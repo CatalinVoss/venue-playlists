@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:14:00.288535+00:00",
+  "generated_at": "2026-08-09T07:15:14.816004+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 79,
           "shows": [
-            {
-              "artist": "Goldie Boutilier",
-              "show_date": "2026-08-08",
-              "show_time": "22:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/goldie-boutilier-the-independent-tickets/14205454"
-            },
             {
               "artist": "LIMBO",
               "show_date": "2026-08-09",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/wax-dj-hoppa-the-independent-tickets/14823433"
+            },
+            {
+              "artist": "Brenn!",
+              "show_date": "2026-08-29",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/brenn-the-independent-tickets/14893903"
             }
           ]
         },
@@ -112,17 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 13,
+          "show_count": 12,
           "shows": [
-            {
-              "artist": "Sports",
-              "show_date": "2026-08-08",
-              "show_time": "21:30:00",
-              "support_acts": [
-                "DJ Aaron Axelsen"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/sports-outside-lands-night-show-san-francisco-california-08-08-2026/event/1C0064D1F73A9A7B"
-            },
             {
               "artist": "PLAYLUNCH",
               "show_date": "2026-08-11",
@@ -209,6 +200,13 @@
                 "Khatumu"
               ],
               "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
+            },
+            {
+              "artist": "Francisca Valenzuela",
+              "show_date": "2026-11-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/francisca-valenzuela-san-francisco-california-11-15-2026/event/1C0064B4BCB55F8A"
             }
           ]
         },
@@ -221,7 +219,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 42,
           "shows": [
             {
               "artist": "Deradoorian",
@@ -627,22 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Postnasal Drainage/ Xignitx/ Kr\u00fcx/ The Hammer Party",
-              "show_date": "2026-08-08",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/postnasal-drainage-xignitx-krx-the-neck-of-the-woods-tickets/15008513"
-            },
-            {
-              "artist": "Losing Streak",
-              "show_date": "2026-08-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/away-with-words-my-precious-neck-of-the-woods-tickets/14269284"
-            },
             {
               "artist": "Worlds Worst/ Bugbath/ Slumped/ Badvril",
               "show_date": "2026-08-09",
@@ -712,6 +696,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032904"
+            },
+            {
+              "artist": "Present/ Day Aches/ Odder/ Stranger Than",
+              "show_date": "2026-08-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/present-day-aches-odder-stranger-neck-of-the-woods-tickets/14197104"
+            },
+            {
+              "artist": "Smoked909/ TBA/ Humanicide/ Avulsion/ Suffering",
+              "show_date": "2026-08-21",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/smoked909-tba-humanicide-avulsion-suffering-neck-of-the-woods-tickets/15009713"
             }
           ]
         }
