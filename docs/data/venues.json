@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:15:14.816004+00:00",
+  "generated_at": "2026-08-10T08:03:32.893079+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 78,
           "shows": [
-            {
-              "artist": "LIMBO",
-              "show_date": "2026-08-09",
-              "show_time": "22:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ben-bhmer-the-independent-tickets/14205394"
-            },
             {
               "artist": "Greg Mendez",
               "show_date": "2026-08-12",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/brenn-the-independent-tickets/14893903"
+            },
+            {
+              "artist": "Tonic Walter",
+              "show_date": "2026-09-04",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tonic-walter-the-independent-tickets/14238254"
             }
           ]
         },
@@ -219,15 +219,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 42,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Deradoorian",
-              "show_date": "2026-08-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv4"
-            },
             {
               "artist": "Man Man",
               "show_date": "2026-08-14",
@@ -308,6 +301,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v4"
+            },
+            {
+              "artist": "Drink The Sea",
+              "show_date": "2026-09-05",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvb"
             }
           ]
         },
@@ -370,7 +370,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 7,
           "shows": [
             {
               "artist": "Lenka",
@@ -413,6 +413,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/spencer-krug-swedish-american-hall-tickets/14994153"
+            },
+            {
+              "artist": "Why?",
+              "show_date": "2026-12-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/why-swedish-american-hall-tickets/15003283"
             }
           ]
         },
@@ -628,13 +635,6 @@
           "show_count": 60,
           "shows": [
             {
-              "artist": "Worlds Worst/ Bugbath/ Slumped/ Badvril",
-              "show_date": "2026-08-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/worlds-worst-bugbath-slumped-badvril-neck-of-the-woods-tickets/14217234"
-            },
-            {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-08-11",
               "show_time": "21:00:00",
@@ -710,6 +710,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/smoked909-tba-humanicide-avulsion-suffering-neck-of-the-woods-tickets/15009713"
+            },
+            {
+              "artist": "Whalefall/ Sleepycat/ The Science Team/ Petals for Armor/ Pluie",
+              "show_date": "2026-08-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/whalefall-sleepycat-the-science-team-neck-of-the-woods-tickets/14275194"
             }
           ]
         }
