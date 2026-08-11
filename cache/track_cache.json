@@ -4826,5 +4826,39 @@
       "name": "The Vowels, Pt. 2",
       "artist": "WHY?"
     }
+  ],
+  "feeble little horse": [
+    {
+      "uri": "spotify:track:3qvJiQOb5Qa0jO7MdLoBp3",
+      "name": "Dior",
+      "artist": "feeble little horse"
+    },
+    {
+      "uri": "spotify:track:5dO7SoTU75M2UVVmPKx1kv",
+      "name": "Rewind",
+      "artist": "feeble little horse"
+    },
+    {
+      "uri": "spotify:track:3YhPmmnigtDxukWdqlQXrF",
+      "name": "Freak",
+      "artist": "feeble little horse"
+    }
+  ],
+  "Father of Peace": [
+    {
+      "uri": "spotify:track:3PTjxRUcTRSBfKcM5xrIsC",
+      "name": "Enemy",
+      "artist": "Father Of Peace"
+    },
+    {
+      "uri": "spotify:track:0EhjxP458BPWJd5McM5dVY",
+      "name": "No Complaints",
+      "artist": "Father Of Peace"
+    },
+    {
+      "uri": "spotify:track:4z6uxjuQNiEHfBiPGbqqJ8",
+      "name": "Bluish",
+      "artist": "Father Of Peace"
+    }
   ]
 }

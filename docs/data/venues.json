@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:03:32.893079+00:00",
+  "generated_at": "2026-08-11T07:36:23.973513+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 78,
+          "show_count": 79,
           "shows": [
             {
               "artist": "Greg Mendez",
@@ -535,7 +535,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 62,
           "shows": [
             {
               "artist": "Ella Red, ZOE KO, Gloomy June",
@@ -632,7 +632,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 61,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
