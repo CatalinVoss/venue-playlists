@@ -4860,5 +4860,43 @@
       "name": "Bluish",
       "artist": "Father Of Peace"
     }
+  ],
+  "Oliver Hazard": [
+    {
+      "uri": "spotify:track:4IumDL4TCJZDo3wtQfA8VG",
+      "name": "Dandelion",
+      "artist": "Oliver Hazard"
+    },
+    {
+      "uri": "spotify:track:5IIRnP6MSko4GJV7EUvqaD",
+      "name": "Grenadine",
+      "artist": "Oliver Hazard"
+    },
+    {
+      "uri": "spotify:track:72mgEDDNhgFunOAz2PGgKX",
+      "name": "Henry & Pearl",
+      "artist": "Oliver Hazard"
+    }
+  ],
+  "Computer + Brahm + Parting Gift": [],
+  "Fervence, Captive State, Beauty is Betrayal , The Beauty in Death": [],
+  "Raynes + David Wimbish & The Collection": [],
+  "Olive Klug + Frail Talk": [],
+  "Sam Quealy": [
+    {
+      "uri": "spotify:track:1NEXEw8ZdsMdnoVTQbkbTo",
+      "name": "Watch Me Now",
+      "artist": "Sam Quealy"
+    },
+    {
+      "uri": "spotify:track:14GRKQOtSzpkgs0Cu58THE",
+      "name": "Londontown",
+      "artist": "Sam Quealy"
+    },
+    {
+      "uri": "spotify:track:6s5wvYwqx75DUaW1tz8i9i",
+      "name": "Groovy Jungle",
+      "artist": "Sam Quealy"
+    }
   ]
 }

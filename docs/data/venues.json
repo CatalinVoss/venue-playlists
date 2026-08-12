@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:36:23.973513+00:00",
+  "generated_at": "2026-08-12T07:51:19.451334+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 80,
           "shows": [
             {
               "artist": "Greg Mendez",
@@ -115,13 +115,6 @@
           "show_count": 12,
           "shows": [
             {
-              "artist": "PLAYLUNCH",
-              "show_date": "2026-08-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-Y"
-            },
-            {
               "artist": "Alex Amen",
               "show_date": "2026-08-13",
               "show_time": "20:00:00",
@@ -207,6 +200,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/francisca-valenzuela-san-francisco-california-11-15-2026/event/1C0064B4BCB55F8A"
+            },
+            {
+              "artist": "Oliver Hazard",
+              "show_date": "2026-12-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PfoA"
             }
           ]
         },
@@ -535,15 +535,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Ella Red, ZOE KO, Gloomy June",
-              "show_date": "2026-08-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ella-red-zoe-ko-gloomy-brick-and-mortar-music-hall-tickets/14885633"
-            },
             {
               "artist": "YELLOW",
               "show_date": "2026-08-12",
@@ -552,11 +545,11 @@
               "ticket_url": "https://www.ticketweb.com/event/yellow-brick-and-mortar-music-hall-tickets/14975883"
             },
             {
-              "artist": "Computer + Brahm",
+              "artist": "Computer + Brahm + Parting Gift",
               "show_date": "2026-08-14",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/computer-brahm-brick-and-mortar-music-hall-tickets/14249864"
+              "ticket_url": "https://www.ticketweb.com/event/computer-brahm-parting-brick-and-mortar-music-hall-tickets/14249864"
             },
             {
               "artist": "EJEAN",
@@ -620,6 +613,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/glu-brick-and-mortar-music-hall-tickets/14952663"
+            },
+            {
+              "artist": "DEATH LENS + HEART TO GOLD + GRAVE SECRETS + GARAGE SPIDERS",
+              "show_date": "2026-08-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/death-lens-heart-to-brick-and-mortar-music-hall-tickets/14885663"
             }
           ]
         },
@@ -632,15 +632,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-08-11",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14226974"
-            },
             {
               "artist": "Smooth Alligator/ Primary Care/ Clumsy Tungs/ Yaantras",
               "show_date": "2026-08-12",
@@ -717,6 +710,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/whalefall-sleepycat-the-science-team-neck-of-the-woods-tickets/14275194"
+            },
+            {
+              "artist": "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag",
+              "show_date": "2026-08-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/faith-zapata-emma-roellig-caroline-neck-of-the-woods-tickets/14266784"
             }
           ]
         }
