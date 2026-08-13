@@ -4898,5 +4898,60 @@
       "name": "Groovy Jungle",
       "artist": "Sam Quealy"
     }
-  ]
+  ],
+  "Pretty Sick": [
+    {
+      "uri": "spotify:track:5wIYMYa6syn9xxL3i0mVx9",
+      "name": "Superstar",
+      "artist": "Pretty Sick"
+    },
+    {
+      "uri": "spotify:track:56gG5NdPZB1dyJJaQsgQC5",
+      "name": "Dumb",
+      "artist": "Pretty Sick"
+    },
+    {
+      "uri": "spotify:track:4KDJfug28h0LbZpdJmC73S",
+      "name": "Headliner",
+      "artist": "Pretty Sick"
+    }
+  ],
+  "THE BOBBY LEES": [
+    {
+      "uri": "spotify:track:6zPdWaAHztlPdYl2k6DAmi",
+      "name": "50 Ft",
+      "artist": "THE BOBBY LEES"
+    },
+    {
+      "uri": "spotify:track:3haZ5EU3Byy3l2LXtIYvPZ",
+      "name": "Guttermilk",
+      "artist": "THE BOBBY LEES"
+    },
+    {
+      "uri": "spotify:track:0Ld9eVSkS6qaiul4ZY4ISf",
+      "name": "Bobby Lee",
+      "artist": "THE BOBBY LEES"
+    }
+  ],
+  "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick": [],
+  "Hayden Everett": [
+    {
+      "uri": "spotify:track:78YkNS1kND2oV3qMPxxr3I",
+      "name": "Mt. Shuksan",
+      "artist": "Hayden Everett"
+    },
+    {
+      "uri": "spotify:track:0zZPOorXwW0N4V2W4wF5aQ",
+      "name": "Terra",
+      "artist": "Hayden Everett"
+    },
+    {
+      "uri": "spotify:track:2kuYksbeaWWT6nc7YhWmW1",
+      "name": "Seize The Sun",
+      "artist": "Hayden Everett"
+    }
+  ],
+  "Missio": [],
+  "Ashes At Last/ I Kidnapped The Princess/ A Thousand Pardons/ Sovereign Suicide": [],
+  "Concision/ Kill Or Be Killed/ A Faint Memory/ A November Morning /Let The Eat Horses": []
 }

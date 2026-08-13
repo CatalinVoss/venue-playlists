@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:51:19.451334+00:00",
+  "generated_at": "2026-08-13T07:52:05.042172+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "Greg Mendez",
-              "show_date": "2026-08-12",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Maria BC"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/greg-mendez-the-independent-tickets/14749763"
-            },
             {
               "artist": "FOUR SQUARE VOL. 2 - A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE",
               "show_date": "2026-08-14",
@@ -100,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/tonic-walter-the-independent-tickets/14238254"
+            },
+            {
+              "artist": "The Emo Night Tour",
+              "show_date": "2026-09-05",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14250884"
             }
           ]
         },
@@ -182,7 +180,9 @@
               "artist": "Zolita",
               "show_date": "2026-10-13",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Earth to Emily"
+              ],
               "ticket_url": "https://www.ticketmaster.com/zolita-the-hells-belles-tour-san-francisco-california-10-13-2026/event/1C0064C2069884E3"
             },
             {
@@ -476,7 +476,7 @@
               "show_date": "2026-09-24",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/elder-island-bimbos-365-club-tickets/14874123"
+              "ticket_url": "https://www.ticketweb.com/event/elder-island-glassio-bimbos-365-club-tickets/14874123"
             },
             {
               "artist": "Tokyo Tea Room",
@@ -535,15 +535,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 66,
           "shows": [
-            {
-              "artist": "YELLOW",
-              "show_date": "2026-08-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yellow-brick-and-mortar-music-hall-tickets/14975883"
-            },
             {
               "artist": "Computer + Brahm + Parting Gift",
               "show_date": "2026-08-14",
@@ -564,6 +557,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ejean-meant-love-tour-brick-and-mortar-music-hall-tickets/14179124"
+            },
+            {
+              "artist": "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick",
+              "show_date": "2026-08-19",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/paul-psarras-supporting-franklin-jonas-brick-and-mortar-music-hall-tickets/15033583?REFERRAL_ID=tmfeed"
             },
             {
               "artist": "Franklin Jonas & the Byzantines: First of Many Tour",
@@ -635,20 +635,6 @@
           "show_count": 60,
           "shows": [
             {
-              "artist": "Smooth Alligator/ Primary Care/ Clumsy Tungs/ Yaantras",
-              "show_date": "2026-08-12",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/smooth-alligator-primary-care-clumsy-neck-of-the-woods-tickets/14994283"
-            },
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-08-12",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032884"
-            },
-            {
               "artist": "Parting Gift/ Starzdust/ Street Play/ Bombshell",
               "show_date": "2026-08-13",
               "show_time": "20:30:00",
@@ -717,6 +703,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/faith-zapata-emma-roellig-caroline-neck-of-the-woods-tickets/14266784"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-08-25",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227194"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-08-26",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032974"
             }
           ]
         }
