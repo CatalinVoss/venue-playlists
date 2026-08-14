@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:52:05.042172+00:00",
+  "generated_at": "2026-08-14T07:49:23.575021+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 83,
           "shows": [
             {
               "artist": "FOUR SQUARE VOL. 2 - A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE",
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 11,
           "shows": [
-            {
-              "artist": "Alex Amen",
-              "show_date": "2026-08-13",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Double Helix Peace Treaty"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/alex-amen-san-francisco-california-08-13-2026/event/1C0064A8D643F6B4"
-            },
             {
               "artist": "Alan Vuong",
               "show_date": "2026-09-04",
@@ -535,7 +526,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 68,
           "shows": [
             {
               "artist": "Computer + Brahm + Parting Gift",
@@ -635,18 +626,11 @@
           "show_count": 60,
           "shows": [
             {
-              "artist": "Parting Gift/ Starzdust/ Street Play/ Bombshell",
-              "show_date": "2026-08-13",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/parting-gift-starzdust-street-play-neck-of-the-woods-tickets/14262274"
-            },
-            {
-              "artist": "SnallyGaster/ War Whore/ TBA",
+              "artist": "SnallyGaster/ War Whore/ Lose the Life/ Dissociation/ Keys To The City",
               "show_date": "2026-08-14",
               "show_time": "19:30:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/snallygaster-war-whore-tba-neck-of-the-woods-tickets/15008533"
+              "ticket_url": "https://www.ticketweb.com/event/snallygaster-war-whore-lose-the-neck-of-the-woods-tickets/15008533"
             },
             {
               "artist": "Burnout/ Index/ Maintecen/ Big Green",
@@ -717,6 +701,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032974"
+            },
+            {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-08-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/15020193"
             }
           ]
         }
