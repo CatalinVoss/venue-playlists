@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:49:23.575021+00:00",
+  "generated_at": "2026-08-15T06:56:34.419562+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 83,
+          "show_count": 82,
           "shows": [
-            {
-              "artist": "FOUR SQUARE VOL. 2 - A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE",
-              "show_date": "2026-08-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/four-square-vol-2-the-independent-tickets/14954133"
-            },
             {
               "artist": "Krooked Kings",
               "show_date": "2026-08-15",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14250884"
+            },
+            {
+              "artist": "PawPaw Rod",
+              "show_date": "2026-09-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pawpaw-rod-the-independent-tickets/14176514"
             }
           ]
         },
@@ -210,15 +210,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Man Man",
-              "show_date": "2026-08-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vF"
-            },
             {
               "artist": "Valerie June",
               "show_date": "2026-08-17",
@@ -299,6 +292,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvb"
+            },
+            {
+              "artist": "Acid Tongue",
+              "show_date": "2026-09-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pA"
             }
           ]
         },
@@ -526,15 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 68,
+          "show_count": 69,
           "shows": [
-            {
-              "artist": "Computer + Brahm + Parting Gift",
-              "show_date": "2026-08-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/computer-brahm-parting-brick-and-mortar-music-hall-tickets/14249864"
-            },
             {
               "artist": "EJEAN",
               "show_date": "2026-08-15",
@@ -611,6 +604,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/death-lens-heart-to-brick-and-mortar-music-hall-tickets/14885663"
+            },
+            {
+              "artist": "Strangepride, Big Afternoon, & Collision Brothers",
+              "show_date": "2026-08-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/strangepride-big-afternoon-collision-brick-and-mortar-music-hall-tickets/15021743"
             }
           ]
         },
@@ -623,15 +623,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 59,
           "shows": [
-            {
-              "artist": "SnallyGaster/ War Whore/ Lose the Life/ Dissociation/ Keys To The City",
-              "show_date": "2026-08-14",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/snallygaster-war-whore-lose-the-neck-of-the-woods-tickets/15008533"
-            },
             {
               "artist": "Burnout/ Index/ Maintecen/ Big Green",
               "show_date": "2026-08-15",
@@ -708,6 +701,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/15020193"
+            },
+            {
+              "artist": "Rose Blood Festival",
+              "show_date": "2026-08-29",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/rose-blood-festival-neck-of-the-woods-tickets/14939733"
             }
           ]
         }
