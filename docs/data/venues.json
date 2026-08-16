@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:56:34.419562+00:00",
+  "generated_at": "2026-08-16T06:58:11.475248+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 82,
           "shows": [
-            {
-              "artist": "Krooked Kings",
-              "show_date": "2026-08-15",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/krooked-kings-the-independent-tickets/14902833"
-            },
             {
               "artist": "Angine de Poitrine",
               "show_date": "2026-08-19",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/pawpaw-rod-the-independent-tickets/14176514"
+            },
+            {
+              "artist": "Kevin Atwater",
+              "show_date": "2026-09-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kevin-atwater-the-independent-tickets/14977833"
             }
           ]
         },
@@ -526,22 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 69,
+          "show_count": 66,
           "shows": [
-            {
-              "artist": "EJEAN",
-              "show_date": "2026-08-15",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70v7M"
-            },
-            {
-              "artist": "EJEAN \u2014 meant love tour",
-              "show_date": "2026-08-15",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ejean-meant-love-tour-brick-and-mortar-music-hall-tickets/14179124"
-            },
             {
               "artist": "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick",
               "show_date": "2026-08-19",
@@ -596,7 +582,7 @@
               "show_date": "2026-08-24",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/glu-brick-and-mortar-music-hall-tickets/14952663"
+              "ticket_url": "https://www.ticketweb.com/event/glu-the-crooked-stuff-brick-and-mortar-music-hall-tickets/14952663"
             },
             {
               "artist": "DEATH LENS + HEART TO GOLD + GRAVE SECRETS + GARAGE SPIDERS",
@@ -611,6 +597,22 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/strangepride-big-afternoon-collision-brick-and-mortar-music-hall-tickets/15021743"
+            },
+            {
+              "artist": "GENWUNNER",
+              "show_date": "2026-08-28",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Cam Steady"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/pokemon-rap-concert-genwunner-vs-brick-and-mortar-music-hall-tickets/15016583"
+            },
+            {
+              "artist": "MarQ",
+              "show_date": "2026-08-29",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/marq-brick-and-mortar-music-hall-tickets/14918213"
             }
           ]
         },
@@ -623,15 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 58,
           "shows": [
-            {
-              "artist": "Burnout/ Index/ Maintecen/ Big Green",
-              "show_date": "2026-08-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/burnout-index-maintecen-big-green-neck-of-the-woods-tickets/14269254"
-            },
             {
               "artist": "Lucky Devils",
               "show_date": "2026-08-18",
@@ -708,6 +703,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/rose-blood-festival-neck-of-the-woods-tickets/14939733"
+            },
+            {
+              "artist": "Ingested",
+              "show_date": "2026-09-01",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ingested-embrium-iron-front-ominous-neck-of-the-woods-tickets/14888683"
             }
           ]
         }
