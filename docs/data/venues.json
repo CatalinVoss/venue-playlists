@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:58:11.475248+00:00",
+  "generated_at": "2026-08-17T07:15:19.491492+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 82,
+          "show_count": 83,
           "shows": [
             {
               "artist": "Angine de Poitrine",
@@ -625,7 +625,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 58,
+          "show_count": 59,
           "shows": [
             {
               "artist": "Lucky Devils",
