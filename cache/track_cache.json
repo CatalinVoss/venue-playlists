@@ -5076,5 +5076,128 @@
       "name": "Higher Lonesome",
       "artist": "Willi Carlisle"
     }
-  ]
+  ],
+  "Weston Estate": [
+    {
+      "uri": "spotify:track:06nKF46jG8p1zwyP4ziAyG",
+      "name": "Pears",
+      "artist": "Weston Estate"
+    },
+    {
+      "uri": "spotify:track:0ZpHuEhi1CvOJgrqOSy8mv",
+      "name": "So Good",
+      "artist": "Weston Estate"
+    },
+    {
+      "uri": "spotify:track:0i4ZFSXuCIfjnOGW6UpScm",
+      "name": "Moth to a Flame",
+      "artist": "Weston Estate"
+    }
+  ],
+  "Whitmer Thomas": [
+    {
+      "uri": "spotify:track:4ymUJhziZLrUZJ2uQVL6kf",
+      "name": "Hurts to Be Alive",
+      "artist": "Whitmer Thomas"
+    },
+    {
+      "uri": "spotify:track:6jjDDYZVYvbRsDGKVbVygx",
+      "name": "Candy Corn",
+      "artist": "Whitmer Thomas"
+    },
+    {
+      "uri": "spotify:track:429nF5dNssNaqOQEZhmQGz",
+      "name": "Everything That Feels Good Is Bad",
+      "artist": "Whitmer Thomas"
+    }
+  ],
+  "Q Marsden": [
+    {
+      "uri": "spotify:track:1RJl5cZ8kFpoVFOS2x6scI",
+      "name": "Take Me Where Your Heart Is",
+      "artist": "Q"
+    },
+    {
+      "uri": "spotify:track:65zlOAreDi0nexSq6G33E2",
+      "name": "SOW",
+      "artist": "Q"
+    }
+  ],
+  "The Womack Sisters": [
+    {
+      "uri": "spotify:track:5lyLBXZXjHNX0wi5zy2Wrt",
+      "name": "If I Let You",
+      "artist": "The Womack Sisters"
+    },
+    {
+      "uri": "spotify:track:53XFu5ZXPyldc3MtfxEkDq",
+      "name": "Chauffeur",
+      "artist": "The Womack Sisters"
+    },
+    {
+      "uri": "spotify:track:269DO3q3lVlfkHTsWuLR1B",
+      "name": "My Sisters And Me",
+      "artist": "The Womack Sisters"
+    }
+  ],
+  "Pokey LaFarge": [
+    {
+      "uri": "spotify:track:4fwvuRD9XKyZHdAU1r1K5S",
+      "name": "Fuck Me Up",
+      "artist": "Pokey LaFarge"
+    },
+    {
+      "uri": "spotify:track:0ETHqI5fFbbUuXnCzBgEAx",
+      "name": "Fine to Me",
+      "artist": "Pokey LaFarge"
+    },
+    {
+      "uri": "spotify:track:29BeJBBooXOEQzAueCAOxs",
+      "name": "The Thing",
+      "artist": "Pokey LaFarge"
+    }
+  ],
+  "The Black Heart Procession + The Young Destroyers": [
+    {
+      "uri": "spotify:track:7foVH0Z9S30Wq67EJNvbta",
+      "name": "Destroying the City of Hearts",
+      "artist": "The Black Heart Procession"
+    }
+  ],
+  "BORN AT MIDNITE, Paycheque": [
+    {
+      "uri": "spotify:track:6QDL4ih6r0K63cGn3cvG4i",
+      "name": "Born At Midnite (Every Time)",
+      "artist": "Born At Midnite"
+    },
+    {
+      "uri": "spotify:track:462gfK5qNg0i1y80FzJKYK",
+      "name": "At Midnite",
+      "artist": "Born At Midnite"
+    },
+    {
+      "uri": "spotify:track:2o630PUPBm3pjEdllOiErd",
+      "name": "Y o Y",
+      "artist": "Born At Midnite"
+    }
+  ],
+  "Felukah \u2014 HibisKiss Tour": [],
+  "Thoughts on Bowling": [
+    {
+      "uri": "spotify:track:0QxKUn6URGMgeAnhG7nb5k",
+      "name": "Cavity",
+      "artist": "Thoughts on Bowling"
+    },
+    {
+      "uri": "spotify:track:0GekwEvd8kITSjTWbQcU3p",
+      "name": "dude, benson is gonna be so pissed!",
+      "artist": "Thoughts on Bowling"
+    },
+    {
+      "uri": "spotify:track:6PL6IVZfNpti2uzu0ToGpx",
+      "name": "The Spirit of Jack Daniels",
+      "artist": "Thoughts on Bowling"
+    }
+  ],
+  "Big Ass Truck": []
 }

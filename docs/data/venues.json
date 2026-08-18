@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:15:19.491492+00:00",
+  "generated_at": "2026-08-18T07:03:39.499280+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 83,
+          "show_count": 86,
           "shows": [
             {
               "artist": "Angine de Poitrine",
@@ -210,15 +210,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 39,
           "shows": [
-            {
-              "artist": "Valerie June",
-              "show_date": "2026-08-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3va"
-            },
             {
               "artist": "Valerie June",
               "show_date": "2026-08-18",
@@ -299,6 +292,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pA"
+            },
+            {
+              "artist": "Carla dal Forno",
+              "show_date": "2026-09-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Moa"
             }
           ]
         },
@@ -423,7 +423,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 21,
           "shows": [
             {
               "artist": "Mustache Harbor",
@@ -526,7 +526,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 68,
           "shows": [
             {
               "artist": "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick",
@@ -564,18 +564,18 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PyJk"
             },
             {
-              "artist": "The Black Heart Procession",
+              "artist": "The Black Heart Procession + The Young Destroyers",
               "show_date": "2026-08-22",
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-black-heart-procession-brick-and-mortar-music-hall-tickets/14221194"
             },
             {
-              "artist": "BORN AT MIDNITE",
+              "artist": "BORN AT MIDNITE, Paycheque",
               "show_date": "2026-08-23",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/born-at-midnite-brick-and-mortar-music-hall-tickets/14888923"
+              "ticket_url": "https://www.ticketweb.com/event/born-at-midnite-paycheque-brick-and-mortar-music-hall-tickets/14888923"
             },
             {
               "artist": "GLU",
@@ -625,7 +625,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 61,
           "shows": [
             {
               "artist": "Lucky Devils",
