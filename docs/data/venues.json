@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:03:39.499280+00:00",
+  "generated_at": "2026-08-19T07:04:29.520877+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 86,
+          "show_count": 88,
           "shows": [
             {
               "artist": "Angine de Poitrine",
@@ -210,15 +210,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "Valerie June",
-              "show_date": "2026-08-18",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v8"
-            },
             {
               "artist": "Black Joe Lewis",
               "show_date": "2026-08-20",
@@ -299,6 +292,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Moa"
+            },
+            {
+              "artist": "Magic Sword",
+              "show_date": "2026-09-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pk"
             }
           ]
         },
@@ -526,7 +526,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 68,
+          "show_count": 70,
           "shows": [
             {
               "artist": "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick",
@@ -628,20 +628,6 @@
           "show_count": 61,
           "shows": [
             {
-              "artist": "Lucky Devils",
-              "show_date": "2026-08-18",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lucky-devils-neck-of-the-woods-tickets/14269314"
-            },
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-08-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227184"
-            },
-            {
               "artist": "Open Mic Night",
               "show_date": "2026-08-19",
               "show_time": "19:30:00",
@@ -656,11 +642,11 @@
               "ticket_url": "https://www.ticketweb.com/event/present-day-aches-odder-stranger-neck-of-the-woods-tickets/14197104"
             },
             {
-              "artist": "Smoked909/ TBA/ Humanicide/ Avulsion/ Suffering",
+              "artist": "Smoked909/ Manos De Fierro/ Humanicide/ Avulsion/ Suffering",
               "show_date": "2026-08-21",
               "show_time": "19:30:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/smoked909-tba-humanicide-avulsion-suffering-neck-of-the-woods-tickets/15009713"
+              "ticket_url": "https://www.ticketweb.com/event/smoked909-manos-de-fierro-humanicide-neck-of-the-woods-tickets/15009713"
             },
             {
               "artist": "Whalefall/ Sleepycat/ The Science Team/ Petals for Armor/ Pluie",
@@ -710,6 +696,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ingested-embrium-iron-front-ominous-neck-of-the-woods-tickets/14888683"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-09-01",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227634"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-09-02",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032654"
             }
           ]
         }
