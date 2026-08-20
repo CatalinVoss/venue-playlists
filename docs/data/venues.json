@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:04:29.520877+00:00",
+  "generated_at": "2026-08-20T07:05:02.890663+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 88,
+          "show_count": 87,
           "shows": [
-            {
-              "artist": "Angine de Poitrine",
-              "show_date": "2026-08-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-wfO"
-            },
-            {
-              "artist": "Angine de Poitrine",
-              "show_date": "2026-08-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/angine-de-poitrine-the-independent-tickets/14785623"
-            },
             {
               "artist": "G Flip",
               "show_date": "2026-08-20",
@@ -98,6 +84,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/kevin-atwater-the-independent-tickets/14977833"
+            },
+            {
+              "artist": "Rules",
+              "show_date": "2026-09-10",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/rules-the-independent-tickets/14238244"
+            },
+            {
+              "artist": "Arlo",
+              "show_date": "2026-09-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/arlo-the-independent-tickets/14988673"
             }
           ]
         },
@@ -526,22 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 67,
           "shows": [
-            {
-              "artist": "Paul Psarras Supporting Franklin Jonas & the Byzantines Live At Brick",
-              "show_date": "2026-08-19",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/paul-psarras-supporting-franklin-jonas-brick-and-mortar-music-hall-tickets/15033583?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Franklin Jonas & the Byzantines: First of Many Tour",
-              "show_date": "2026-08-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/franklin-jonas-the-byzantines-brick-and-mortar-music-hall-tickets/14912123?REFERRAL_ID=tmfeed"
-            },
             {
               "artist": "Dustin Dollin's Fine Mess + M.A.T.B + D. Sablu + DJ Corey Duffel",
               "show_date": "2026-08-20",
@@ -613,6 +599,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/marq-brick-and-mortar-music-hall-tickets/14918213"
+            },
+            {
+              "artist": "Ditz",
+              "show_date": "2026-08-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ditz-strange-cities-rabbit-brick-and-mortar-music-hall-tickets/14233674"
+            },
+            {
+              "artist": "Raininglol & 2FacedLon w/ Jay Armani",
+              "show_date": "2026-09-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/raininglol-2facedlon-w-jay-brick-and-mortar-music-hall-tickets/14270274"
             }
           ]
         },
@@ -625,22 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 59,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-08-19",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032904"
-            },
-            {
-              "artist": "Present/ Day Aches/ Odder/ Stranger Than",
-              "show_date": "2026-08-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/present-day-aches-odder-stranger-neck-of-the-woods-tickets/14197104"
-            },
             {
               "artist": "Smoked909/ Manos De Fierro/ Humanicide/ Avulsion/ Suffering",
               "show_date": "2026-08-21",
@@ -710,6 +696,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032654"
+            },
+            {
+              "artist": "Ashes At Last/ I Kidnapped The Princess/ A Thousand Pardons/ Sovereign Suicide",
+              "show_date": "2026-09-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ashes-at-last-i-kidnapped-neck-of-the-woods-tickets/15033573"
+            },
+            {
+              "artist": "EXOPOCALYPSE Tour: Rav/ Cavalier/ Teller Bank$",
+              "show_date": "2026-09-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/exopocalypse-tour-rav-cavalier-teller-neck-of-the-woods-tickets/14226014"
             }
           ]
         }
