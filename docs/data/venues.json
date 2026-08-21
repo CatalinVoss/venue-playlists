@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:05:02.890663+00:00",
+  "generated_at": "2026-08-21T07:06:30.764562+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 87,
+          "show_count": 85,
           "shows": [
-            {
-              "artist": "G Flip",
-              "show_date": "2026-08-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/g-flip-the-independent-tickets/14989453"
-            },
             {
               "artist": "Niina Soleil",
               "show_date": "2026-08-21",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/arlo-the-independent-tickets/14988673"
+            },
+            {
+              "artist": "BL3SS - 360 Set - North American Tour 2026",
+              "show_date": "2026-09-12",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bl3ss-360-set-the-independent-tickets/14972693"
             }
           ]
         },
@@ -210,15 +210,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 37,
           "shows": [
-            {
-              "artist": "Black Joe Lewis",
-              "show_date": "2026-08-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo6"
-            },
             {
               "artist": "Built To Spill",
               "show_date": "2026-08-23",
@@ -299,6 +292,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pk"
+            },
+            {
+              "artist": "Shawn James",
+              "show_date": "2026-09-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PI-O"
             }
           ]
         },
@@ -423,7 +423,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 21,
+          "show_count": 22,
           "shows": [
             {
               "artist": "Mustache Harbor",
@@ -529,13 +529,6 @@
           "show_count": 67,
           "shows": [
             {
-              "artist": "Dustin Dollin's Fine Mess + M.A.T.B + D. Sablu + DJ Corey Duffel",
-              "show_date": "2026-08-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dustin-dollins-fine-mess-brick-and-mortar-music-hall-tickets/15017303"
-            },
-            {
               "artist": "Fully Loaded, San Quinn",
               "show_date": "2026-08-21",
               "show_time": "21:00:00",
@@ -568,7 +561,7 @@
               "show_date": "2026-08-24",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/glu-the-crooked-stuff-brick-and-mortar-music-hall-tickets/14952663"
+              "ticket_url": "https://www.ticketweb.com/event/glu-brick-and-mortar-music-hall-tickets/14952663"
             },
             {
               "artist": "DEATH LENS + HEART TO GOLD + GRAVE SECRETS + GARAGE SPIDERS",
@@ -613,6 +606,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/raininglol-2facedlon-w-jay-brick-and-mortar-music-hall-tickets/14270274"
+            },
+            {
+              "artist": "Fervence, Captive State, Beauty is Betrayal , The Beauty in Death , Swept to Sea",
+              "show_date": "2026-09-06",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/fervence-captive-state-beauty-is-brick-and-mortar-music-hall-tickets/15030003"
             }
           ]
         },
