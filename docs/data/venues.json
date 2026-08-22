@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:06:30.764562+00:00",
+  "generated_at": "2026-08-22T06:58:36.489667+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 84,
           "shows": [
-            {
-              "artist": "Niina Soleil",
-              "show_date": "2026-08-21",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/niina-soleil-the-independent-tickets/14975223"
-            },
             {
               "artist": "Pearl & The Oysters",
               "show_date": "2026-08-22",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bl3ss-360-set-the-independent-tickets/14972693"
+            },
+            {
+              "artist": "Towa Bird",
+              "show_date": "2026-09-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/towa-bird-the-independent-tickets/14978123"
             }
           ]
         },
@@ -368,7 +368,7 @@
               "show_date": "2026-09-02",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lenka-swedish-american-hall-tickets/14212574"
+              "ticket_url": "https://www.ticketweb.com/event/lenka-with-brian-dublin-swedish-american-hall-tickets/14212574"
             },
             {
               "artist": "anaiis",
@@ -423,15 +423,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Mustache Harbor",
-              "show_date": "2026-08-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-tickets/14823673"
-            },
             {
               "artist": "Super Diamond",
               "show_date": "2026-09-11",
@@ -514,6 +507,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/world-famous-pets-bimbos-365-club-tickets/14224414"
+            },
+            {
+              "artist": "Tainted Love",
+              "show_date": "2026-10-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tainted-love-bimbos-365-club-tickets/14997763"
             }
           ]
         },
@@ -526,15 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 67,
+          "show_count": 68,
           "shows": [
-            {
-              "artist": "Fully Loaded, San Quinn",
-              "show_date": "2026-08-21",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/fully-loaded-san-quinn-brick-and-mortar-music-hall-tickets/14273524"
-            },
             {
               "artist": "The Black Heart Procession",
               "show_date": "2026-08-22",
@@ -601,6 +594,13 @@
               "ticket_url": "https://www.ticketweb.com/event/ditz-strange-cities-rabbit-brick-and-mortar-music-hall-tickets/14233674"
             },
             {
+              "artist": "Connor Morrison, Honey Disposition, Ben Thuesen, Libba",
+              "show_date": "2026-09-04",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/connor-morrison-honey-disposition-ben-brick-and-mortar-music-hall-tickets/15048613"
+            },
+            {
               "artist": "Raininglol & 2FacedLon w/ Jay Armani",
               "show_date": "2026-09-05",
               "show_time": "20:00:00",
@@ -625,22 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Smoked909/ Manos De Fierro/ Humanicide/ Avulsion/ Suffering",
-              "show_date": "2026-08-21",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/smoked909-manos-de-fierro-humanicide-neck-of-the-woods-tickets/15009713"
-            },
-            {
-              "artist": "Whalefall/ Sleepycat/ The Science Team/ Petals for Armor/ Pluie",
-              "show_date": "2026-08-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/whalefall-sleepycat-the-science-team-neck-of-the-woods-tickets/14275194"
-            },
             {
               "artist": "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag",
               "show_date": "2026-08-22",
@@ -710,6 +696,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/exopocalypse-tour-rav-cavalier-teller-neck-of-the-woods-tickets/14226014"
+            },
+            {
+              "artist": "Polkadot/ MyVeronica/ Buddy Junior",
+              "show_date": "2026-09-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/polkadot-myveronica-buddy-junior-neck-of-the-woods-tickets/14264874"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-09-08",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227334"
             }
           ]
         }
