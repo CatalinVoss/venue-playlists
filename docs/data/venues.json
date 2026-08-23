@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:58:36.489667+00:00",
+  "generated_at": "2026-08-23T07:00:17.650477+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 84,
+          "show_count": 83,
           "shows": [
-            {
-              "artist": "Pearl & The Oysters",
-              "show_date": "2026-08-22",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/pearl-the-oysters-the-independent-tickets/14878423"
-            },
             {
               "artist": "Son Rompe Pera",
               "show_date": "2026-08-27",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/towa-bird-the-independent-tickets/14978123"
+            },
+            {
+              "artist": "The Tear Garden (The Legendary Pink Dots & cEvin Key)",
+              "show_date": "2026-09-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-tear-garden-the-legendary-the-independent-tickets/14909683"
             }
           ]
         },
@@ -526,22 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 68,
+          "show_count": 66,
           "shows": [
-            {
-              "artist": "The Black Heart Procession",
-              "show_date": "2026-08-22",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PyJk"
-            },
-            {
-              "artist": "The Black Heart Procession + The Young Destroyers",
-              "show_date": "2026-08-22",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-black-heart-procession-brick-and-mortar-music-hall-tickets/14221194"
-            },
             {
               "artist": "BORN AT MIDNITE, Paycheque",
               "show_date": "2026-08-23",
@@ -613,6 +599,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fervence-captive-state-beauty-is-brick-and-mortar-music-hall-tickets/15030003"
+            },
+            {
+              "artist": "CuVa Bim\u00f6",
+              "show_date": "2026-09-11",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cuva-bim-brick-and-mortar-music-hall-tickets/14195524"
+            },
+            {
+              "artist": "Konstancy, Sammy Shiblaq, Hakvm, Katana",
+              "show_date": "2026-09-12",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/konstancy-sammy-shiblaq-hakvm-katana-brick-and-mortar-music-hall-tickets/15021823"
             }
           ]
         },
@@ -625,15 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 61,
           "shows": [
-            {
-              "artist": "Faith Zapata/ Emma Roellig/ Caroline Wolfson/ meag",
-              "show_date": "2026-08-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/faith-zapata-emma-roellig-caroline-neck-of-the-woods-tickets/14266784"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-08-25",
@@ -689,6 +682,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ashes-at-last-i-kidnapped-neck-of-the-woods-tickets/15033573"
+            },
+            {
+              "artist": "Adam's Rib/ Little Oil/ The Online Company",
+              "show_date": "2026-09-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/adams-rib-little-oil-the-neck-of-the-woods-tickets/14281794"
             },
             {
               "artist": "EXOPOCALYPSE Tour: Rav/ Cavalier/ Teller Bank$",
