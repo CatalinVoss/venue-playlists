@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:00:17.650477+00:00",
+  "generated_at": "2026-08-24T07:19:48.605611+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -210,15 +210,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Built To Spill",
-              "show_date": "2026-08-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v3"
-            },
             {
               "artist": "Built To Spill",
               "show_date": "2026-08-24",
@@ -299,6 +292,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PI-O"
+            },
+            {
+              "artist": "Temples",
+              "show_date": "2026-09-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp"
             }
           ]
         },
@@ -526,15 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "BORN AT MIDNITE, Paycheque",
-              "show_date": "2026-08-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/born-at-midnite-paycheque-brick-and-mortar-music-hall-tickets/14888923"
-            },
             {
               "artist": "GLU",
               "show_date": "2026-08-24",
@@ -613,6 +606,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/konstancy-sammy-shiblaq-hakvm-katana-brick-and-mortar-music-hall-tickets/15021823"
+            },
+            {
+              "artist": "Dutch Melrose",
+              "show_date": "2026-09-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-brick-and-mortar-music-hall-tickets/14957173"
             }
           ]
         },
@@ -625,7 +625,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 62,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
