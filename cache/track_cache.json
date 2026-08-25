@@ -5282,5 +5282,40 @@
   "Double XP/ Zapstar/ Ulyssescfm/ Luna Ivy/ Quinkana": [],
   "Medscool/ Wiseacre/ Little Oil": [],
   "Stu & The Kojacks/ Jo/Mo Riders/ Jennifer McKitrick/ Joe Dileo": [],
-  "Locked Shut/ Rust/ Drop Step/ Damnata": []
+  "Locked Shut/ Rust/ Drop Step/ Damnata": [],
+  "Lost Kings": [
+    {
+      "uri": "spotify:track:4mEILaBM7bKZqKAun5tABu",
+      "name": "When We Were Young",
+      "artist": "Lost Kings"
+    },
+    {
+      "uri": "spotify:track:0ZULu6dZl09I6ooCsKyOMg",
+      "name": "NO PRESSURE",
+      "artist": "Lost Kings"
+    },
+    {
+      "uri": "spotify:track:2rehinQVvHSX1TsiHLFzgo",
+      "name": "INSOMNIA",
+      "artist": "Lost Kings"
+    }
+  ],
+  "Icona Pop": [
+    {
+      "uri": "spotify:track:15iosIuxC3C53BgsM5Uggs",
+      "name": "All Night",
+      "artist": "Icona Pop"
+    },
+    {
+      "uri": "spotify:track:6HZ9VeI5IRFCNQLXhpF4bq",
+      "name": "I Love It (feat. Charli XCX)",
+      "artist": "Icona Pop"
+    },
+    {
+      "uri": "spotify:track:4We6KzS94ZJk0a4zSH4b9o",
+      "name": "Hurt",
+      "artist": "Icona Pop"
+    }
+  ],
+  "Stu & The Kojacks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo": []
 }
