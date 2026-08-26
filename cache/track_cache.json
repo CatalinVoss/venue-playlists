@@ -5317,5 +5317,74 @@
       "artist": "Icona Pop"
     }
   ],
-  "Stu & The Kojacks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo": []
+  "Stu & The Kojacks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo": [],
+  "Cut Chemist": [
+    {
+      "uri": "spotify:track:5Tp97LcL45G82uC6vaLvt5",
+      "name": "The Garden",
+      "artist": "Cut Chemist"
+    },
+    {
+      "uri": "spotify:track:3XT7cOVsRYUeD6r75QsO6r",
+      "name": "What's the Altitude (feat. Hymnal)",
+      "artist": "Cut Chemist"
+    },
+    {
+      "uri": "spotify:track:4z5L0qDduw3w1apQ4Qa6KV",
+      "name": "Alphabet Aerobics",
+      "artist": "Cut Chemist"
+    }
+  ],
+  "Dutch Melrose, Benny Mayne, Pretty Havoc": [
+    {
+      "uri": "spotify:track:6kOdk29M8h6ZfHz4byVG0t",
+      "name": "PRETTY PLEASE",
+      "artist": "Dutch Melrose"
+    },
+    {
+      "uri": "spotify:track:3jwQt00cvkN57H6ZR75W2K",
+      "name": "RUNRUNRUN",
+      "artist": "Dutch Melrose"
+    },
+    {
+      "uri": "spotify:track:144JlWqlpgkmLuRU0PvRQt",
+      "name": "MATCH MADE IN HELL",
+      "artist": "Dutch Melrose"
+    }
+  ],
+  "Nightmare of You": [
+    {
+      "uri": "spotify:track:7DHVeq89ZMxkeCW1LYKNRC",
+      "name": "I Want to Be Buried in Your Backyard",
+      "artist": "Nightmare Of You"
+    },
+    {
+      "uri": "spotify:track:3YZUBdCdqP8lL9nH82pWKM",
+      "name": "My Name Is Trouble",
+      "artist": "Nightmare Of You"
+    },
+    {
+      "uri": "spotify:track:3fT4N8H38guk7txBxqMJcX",
+      "name": "You're Very Dear To Me",
+      "artist": "Nightmare Of You"
+    }
+  ],
+  "Stu & The Kojaks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo": [],
+  "Filth is Eternal": [
+    {
+      "uri": "spotify:track:4LSkwKzkhwzqlNi9uyXkEH",
+      "name": "Pressure Me",
+      "artist": "Filth is Eternal"
+    },
+    {
+      "uri": "spotify:track:4oF7fXlrQ3Mh0JQ98y2gfZ",
+      "name": "Filth is Eternal",
+      "artist": "Filth is Eternal"
+    },
+    {
+      "uri": "spotify:track:0pCFy10EFP8Ht609AXU9Ae",
+      "name": "Stay Melted",
+      "artist": "Filth is Eternal"
+    }
+  ]
 }

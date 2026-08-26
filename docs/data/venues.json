@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:07:50.888945+00:00",
+  "generated_at": "2026-08-26T07:08:13.001140+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 86,
           "shows": [
             {
               "artist": "Son Rompe Pera",
@@ -139,7 +139,9 @@
               "artist": "Porch Light",
               "show_date": "2026-09-30",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Common People"
+              ],
               "ticket_url": "https://www.ticketmaster.com/porch-light-san-francisco-california-09-30-2026/event/1C0064EAB3281ACF"
             },
             {
@@ -210,15 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 35,
+          "show_count": 34,
           "shows": [
-            {
-              "artist": "Built To Spill",
-              "show_date": "2026-08-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xk7e"
-            },
             {
               "artist": "Osees",
               "show_date": "2026-08-26",
@@ -299,6 +294,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9"
+            },
+            {
+              "artist": "Sophie Truax",
+              "show_date": "2026-09-29",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pF"
             }
           ]
         },
@@ -423,7 +425,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 21,
+          "show_count": 23,
           "shows": [
             {
               "artist": "Super Diamond",
@@ -529,13 +531,6 @@
           "show_count": 64,
           "shows": [
             {
-              "artist": "DEATH LENS + HEART TO GOLD + GRAVE SECRETS + GARAGE SPIDERS",
-              "show_date": "2026-08-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/death-lens-heart-to-brick-and-mortar-music-hall-tickets/14885663"
-            },
-            {
               "artist": "Strangepride, Big Afternoon, & Collision Brothers",
               "show_date": "2026-08-27",
               "show_time": "20:00:00",
@@ -601,11 +596,11 @@
               "ticket_url": "https://www.ticketweb.com/event/konstancy-sammy-shiblaq-hakvm-katana-brick-and-mortar-music-hall-tickets/15021823"
             },
             {
-              "artist": "Dutch Melrose",
+              "artist": "Dutch Melrose, Benny Mayne, Pretty Havoc",
               "show_date": "2026-09-17",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-brick-and-mortar-music-hall-tickets/14957173"
+              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-benny-mayne-pretty-brick-and-mortar-music-hall-tickets/14957173"
             },
             {
               "artist": "BIIRD (Night 1)",
@@ -613,6 +608,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/biird-night-1-brick-and-mortar-music-hall-tickets/14890683"
+            },
+            {
+              "artist": "Cult Member",
+              "show_date": "2026-09-19",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cult-member-teeth-nurse-body-brick-and-mortar-music-hall-tickets/15008263"
             }
           ]
         },
@@ -625,15 +627,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 61,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-08-25",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227194"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-08-26",
@@ -710,6 +705,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227334"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-09-09",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032914"
             }
           ]
         }
