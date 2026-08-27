@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:08:13.001140+00:00",
+  "generated_at": "2026-08-27T17:37:40.695085+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 86,
+          "show_count": 87,
           "shows": [
             {
               "artist": "Son Rompe Pera",
@@ -212,17 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 34,
+          "show_count": 33,
           "shows": [
-            {
-              "artist": "Osees",
-              "show_date": "2026-08-26",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Traps PS"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kx9"
-            },
             {
               "artist": "Osees",
               "show_date": "2026-08-27",
@@ -301,6 +292,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pF"
+            },
+            {
+              "artist": "Failure",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "quannnic"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpjk"
             }
           ]
         },
@@ -313,8 +313,15 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 5,
+          "show_count": 18,
           "shows": [
+            {
+              "artist": "Necrot",
+              "show_date": "2026-09-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P-Qo"
+            },
             {
               "artist": "Bear McCreary",
               "show_date": "2026-09-13",
@@ -330,11 +337,39 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jbee"
             },
             {
+              "artist": "Six Sex",
+              "show_date": "2026-09-25",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvGJ"
+            },
+            {
+              "artist": "Rusty Chains - Tribute to Chris Cornell",
+              "show_date": "2026-09-26",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PJqS"
+            },
+            {
               "artist": "Beth Orton",
               "show_date": "2026-09-30",
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4jZ"
+            },
+            {
+              "artist": "John Craigie",
+              "show_date": "2026-10-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ3o6"
+            },
+            {
+              "artist": "Groundation",
+              "show_date": "2026-10-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSqa"
             },
             {
               "artist": "The Menzingers",
@@ -351,6 +386,20 @@
                 "Elias Hix"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pte9"
+            },
+            {
+              "artist": "Allah-Las",
+              "show_date": "2026-10-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpqy"
+            },
+            {
+              "artist": "DIIV",
+              "show_date": "2026-10-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvGP"
             }
           ]
         },
@@ -425,7 +474,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 24,
           "shows": [
             {
               "artist": "Super Diamond",
@@ -469,7 +518,7 @@
               "show_date": "2026-09-28",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tokyo-tea-room-bimbos-365-club-tickets/14922413"
+              "ticket_url": "https://www.ticketweb.com/event/tokyo-tea-room-beach-vacation-bimbos-365-club-tickets/14922413"
             },
             {
               "artist": "Emei",
@@ -528,7 +577,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 66,
           "shows": [
             {
               "artist": "Strangepride, Big Afternoon, & Collision Brothers",
@@ -627,15 +676,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-08-26",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032974"
-            },
             {
               "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
               "show_date": "2026-08-28",
@@ -712,6 +754,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032914"
+            },
+            {
+              "artist": "St\u00e4l\u00e4g13/ Straggler/ Hell Bound Pound/ Fatale",
+              "show_date": "2026-09-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stlg13-straggler-hell-bound-pound-neck-of-the-woods-tickets/14289764"
             }
           ]
         }
