@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:37:40.695085+00:00",
+  "generated_at": "2026-08-28T18:41:38.594998+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 87,
+          "show_count": 86,
           "shows": [
-            {
-              "artist": "Son Rompe Pera",
-              "show_date": "2026-08-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/son-rompe-pera-the-independent-tickets/14941743"
-            },
             {
               "artist": "Wax + DJ Hoppa",
               "show_date": "2026-08-28",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-tear-garden-the-legendary-the-independent-tickets/14909683"
+            },
+            {
+              "artist": "Mustard Service",
+              "show_date": "2026-09-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mustard-service-the-independent-tickets/14930913"
             }
           ]
         },
@@ -212,17 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 33,
+          "show_count": 32,
           "shows": [
-            {
-              "artist": "Osees",
-              "show_date": "2026-08-27",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Brigid Dawson"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kxp"
-            },
             {
               "artist": "Osees",
               "show_date": "2026-08-28",
@@ -301,6 +292,13 @@
                 "quannnic"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpjk"
+            },
+            {
+              "artist": "Soda Blonde",
+              "show_date": "2026-10-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vb"
             }
           ]
         },
@@ -426,7 +424,7 @@
               "show_date": "2026-09-11",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/anaiis-swedish-american-hall-tickets/14971003"
+              "ticket_url": "https://www.ticketweb.com/event/anaiis-with-special-guest-elliott-swedish-american-hall-tickets/14971003"
             },
             {
               "artist": "Jacob Alon",
@@ -577,15 +575,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "Strangepride, Big Afternoon, & Collision Brothers",
-              "show_date": "2026-08-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/strangepride-big-afternoon-collision-brick-and-mortar-music-hall-tickets/15021743"
-            },
             {
               "artist": "GENWUNNER",
               "show_date": "2026-08-28",
@@ -664,6 +655,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cult-member-teeth-nurse-body-brick-and-mortar-music-hall-tickets/15008263"
+            },
+            {
+              "artist": "BIIRD (Night 2)",
+              "show_date": "2026-09-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/biird-night-2-brick-and-mortar-music-hall-tickets/15031373"
             }
           ]
         },
