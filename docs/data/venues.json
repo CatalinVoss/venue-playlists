@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:41:38.594998+00:00",
+  "generated_at": "2026-08-29T12:40:46.151509+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 86,
+          "show_count": 85,
           "shows": [
-            {
-              "artist": "Wax + DJ Hoppa",
-              "show_date": "2026-08-28",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wax-dj-hoppa-the-independent-tickets/14823433"
-            },
             {
               "artist": "Brenn!",
               "show_date": "2026-08-29",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mustard-service-the-independent-tickets/14930913"
+            },
+            {
+              "artist": "Daniel Avery",
+              "show_date": "2026-09-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/daniel-avery-live-the-independent-tickets/14989483"
             }
           ]
         },
@@ -212,15 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 32,
+          "show_count": 31,
           "shows": [
-            {
-              "artist": "Osees",
-              "show_date": "2026-08-28",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vf"
-            },
             {
               "artist": "Osees",
               "show_date": "2026-08-29",
@@ -299,6 +292,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vb"
+            },
+            {
+              "artist": "Lyrics Born",
+              "show_date": "2026-10-02",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pa"
             }
           ]
         },
@@ -575,17 +575,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "GENWUNNER",
-              "show_date": "2026-08-28",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Cam Steady"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/pokemon-rap-concert-genwunner-vs-brick-and-mortar-music-hall-tickets/15016583"
-            },
             {
               "artist": "MarQ",
               "show_date": "2026-08-29",
@@ -662,6 +653,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/biird-night-2-brick-and-mortar-music-hall-tickets/15031373"
+            },
+            {
+              "artist": "Seedhe Maut",
+              "show_date": "2026-09-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/seedhe-maut-smx-world-brick-and-mortar-music-hall-tickets/14080984"
             }
           ]
         },
@@ -674,15 +672,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
-              "show_date": "2026-08-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/15020193"
-            },
             {
               "artist": "Rose Blood Festival",
               "show_date": "2026-08-29",
@@ -759,6 +750,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/stlg13-straggler-hell-bound-pound-neck-of-the-woods-tickets/14289764"
+            },
+            {
+              "artist": "Double XP/ Zapstar/ Ulyssescfm/ Luna Ivy/ Quinkana",
+              "show_date": "2026-09-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/double-xp-zapstar-ulyssescfm-luna-neck-of-the-woods-tickets/14281774"
             }
           ]
         }
