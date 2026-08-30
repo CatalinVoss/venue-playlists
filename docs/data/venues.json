@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:40:46.151509+00:00",
+  "generated_at": "2026-08-30T11:53:54.894071+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 84,
           "shows": [
-            {
-              "artist": "Brenn!",
-              "show_date": "2026-08-29",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/brenn-the-independent-tickets/14893903"
-            },
             {
               "artist": "Tonic Walter",
               "show_date": "2026-09-04",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/daniel-avery-live-the-independent-tickets/14989483"
+            },
+            {
+              "artist": "Cut Chemist",
+              "show_date": "2026-09-19",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cut-chemist-the-independent-tickets/14284984"
             }
           ]
         },
@@ -212,15 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 31,
+          "show_count": 30,
           "shows": [
-            {
-              "artist": "Osees",
-              "show_date": "2026-08-29",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v4"
-            },
             {
               "artist": "Drink The Sea",
               "show_date": "2026-09-05",
@@ -299,6 +292,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pa"
+            },
+            {
+              "artist": "Lloyd Cole",
+              "show_date": "2026-10-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo3"
             }
           ]
         },
@@ -575,15 +575,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "MarQ",
-              "show_date": "2026-08-29",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/marq-brick-and-mortar-music-hall-tickets/14918213"
-            },
             {
               "artist": "Ditz",
               "show_date": "2026-08-30",
@@ -660,6 +653,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/seedhe-maut-smx-world-brick-and-mortar-music-hall-tickets/14080984"
+            },
+            {
+              "artist": "Florence Road",
+              "show_date": "2026-09-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/florence-road-brick-and-mortar-music-hall-tickets/14211754"
             }
           ]
         },
@@ -672,15 +672,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Rose Blood Festival",
-              "show_date": "2026-08-29",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rose-blood-festival-neck-of-the-woods-tickets/14939733"
-            },
             {
               "artist": "Ingested",
               "show_date": "2026-09-01",
@@ -757,6 +750,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/double-xp-zapstar-ulyssescfm-luna-neck-of-the-woods-tickets/14281774"
+            },
+            {
+              "artist": "Femcel SZN",
+              "show_date": "2026-09-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/femcel-szn-neck-of-the-woods-tickets/15043933"
             }
           ]
         }
