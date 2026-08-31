@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:53:54.894071+00:00",
+  "generated_at": "2026-08-31T13:48:36.284119+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -575,15 +575,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Ditz",
-              "show_date": "2026-08-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ditz-strange-cities-rabbit-brick-and-mortar-music-hall-tickets/14233674"
-            },
             {
               "artist": "Connor Morrison, Honey Disposition, Ben Thuesen, Libba",
               "show_date": "2026-09-04",
@@ -660,6 +653,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/florence-road-brick-and-mortar-music-hall-tickets/14211754"
+            },
+            {
+              "artist": "Cheo",
+              "show_date": "2026-09-25",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cheo-brick-and-mortar-music-hall-tickets/14833053"
             }
           ]
         },
@@ -672,7 +672,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Ingested",
