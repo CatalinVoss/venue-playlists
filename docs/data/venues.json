@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:48:36.284119+00:00",
+  "generated_at": "2026-09-01T11:38:19.213511+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 84,
+          "show_count": 85,
           "shows": [
             {
               "artist": "Tonic Walter",
@@ -410,7 +410,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 8,
           "shows": [
             {
               "artist": "Lenka",
@@ -453,6 +453,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/spencer-krug-swedish-american-hall-tickets/14994153"
+            },
+            {
+              "artist": "Conspiracy of Beards",
+              "show_date": "2026-11-07",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844"
             },
             {
               "artist": "Why?",
@@ -575,7 +582,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Connor Morrison, Honey Disposition, Ben Thuesen, Libba",
@@ -672,7 +679,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 65,
           "shows": [
             {
               "artist": "Ingested",
