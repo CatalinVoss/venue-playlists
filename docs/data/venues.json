@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:17:29.454183+00:00",
+  "generated_at": "2026-09-03T11:13:32.441277+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -410,15 +410,8 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 8,
           "shows": [
-            {
-              "artist": "Lenka",
-              "show_date": "2026-09-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lenka-with-brian-dublin-swedish-american-hall-tickets/14212574"
-            },
             {
               "artist": "anaiis",
               "show_date": "2026-09-11",
@@ -689,13 +682,6 @@
           "show_count": 63,
           "shows": [
             {
-              "artist": "Open Mic Night",
-              "show_date": "2026-09-02",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032654"
-            },
-            {
               "artist": "Ashes At Last/ I Kidnapped The Princess/ A Thousand Pardons/ Sovereign Suicide",
               "show_date": "2026-09-04",
               "show_time": "20:00:00",
@@ -771,6 +757,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227234"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-09-16",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032694"
             }
           ]
         }
