@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:13:32.441277+00:00",
+  "generated_at": "2026-09-04T11:17:01.193795+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -585,11 +585,11 @@
           "show_count": 65,
           "shows": [
             {
-              "artist": "Connor Morrison, Honey Disposition, Ben Thuesen, Libba",
+              "artist": "Connor Morrison, Ben Thuesen, Libba",
               "show_date": "2026-09-04",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/connor-morrison-honey-disposition-ben-brick-and-mortar-music-hall-tickets/15048613"
+              "ticket_url": "https://www.ticketweb.com/event/connor-morrison-ben-thuesen-libba-brick-and-mortar-music-hall-tickets/15048613"
             },
             {
               "artist": "Raininglol & 2FacedLon w/ Jay Armani",
@@ -659,7 +659,7 @@
               "show_date": "2026-09-22",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/florence-road-brick-and-mortar-music-hall-tickets/14211754"
+              "ticket_url": "https://www.ticketweb.com/event/florence-road-people-ive-met-brick-and-mortar-music-hall-tickets/14211754"
             },
             {
               "artist": "Cheo",
@@ -679,7 +679,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Ashes At Last/ I Kidnapped The Princess/ A Thousand Pardons/ Sovereign Suicide",
