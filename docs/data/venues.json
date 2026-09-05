@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:17:01.193795+00:00",
+  "generated_at": "2026-09-05T10:34:21.259725+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 83,
           "shows": [
-            {
-              "artist": "Tonic Walter",
-              "show_date": "2026-09-04",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tonic-walter-the-independent-tickets/14238254"
-            },
             {
               "artist": "The Emo Night Tour",
               "show_date": "2026-09-05",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cut-chemist-the-independent-tickets/14284984"
+            },
+            {
+              "artist": "deca joins",
+              "show_date": "2026-09-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/deca-joins-the-independent-tickets/14135954"
             }
           ]
         },
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 11,
+          "show_count": 10,
           "shows": [
-            {
-              "artist": "Alan Vuong",
-              "show_date": "2026-09-04",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "ELIAS"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PNuU"
-            },
             {
               "artist": "Be Your Own Pet",
               "show_date": "2026-09-19",
@@ -582,15 +573,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Connor Morrison, Ben Thuesen, Libba",
-              "show_date": "2026-09-04",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/connor-morrison-ben-thuesen-libba-brick-and-mortar-music-hall-tickets/15048613"
-            },
             {
               "artist": "Raininglol & 2FacedLon w/ Jay Armani",
               "show_date": "2026-09-05",
@@ -667,6 +651,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cheo-brick-and-mortar-music-hall-tickets/14833053"
+            },
+            {
+              "artist": "Max Fry",
+              "show_date": "2026-09-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/max-fry-awannabae-brick-and-mortar-music-hall-tickets/14207334"
             }
           ]
         },
@@ -679,22 +670,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "Ashes At Last/ I Kidnapped The Princess/ A Thousand Pardons/ Sovereign Suicide",
-              "show_date": "2026-09-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ashes-at-last-i-kidnapped-neck-of-the-woods-tickets/15033573"
-            },
-            {
-              "artist": "Adam's Rib/ Little Oil/ The Online Company",
-              "show_date": "2026-09-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/adams-rib-little-oil-the-neck-of-the-woods-tickets/14281794"
-            },
             {
               "artist": "EXOPOCALYPSE Tour: Rav/ Cavalier/ Teller Bank$",
               "show_date": "2026-09-05",
@@ -764,6 +741,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032694"
+            },
+            {
+              "artist": "Bombshell/ Nonbinary Girlfriend/ Femme Cell/ starbelliedbug",
+              "show_date": "2026-09-18",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bombshell-nonbinary-girlfriend-femme-cell-neck-of-the-woods-tickets/15020153"
+            },
+            {
+              "artist": "Concision/ Kill Or Be Killed/ A Faint Memory/ A November Morning /Let The Eat Horses",
+              "show_date": "2026-09-19",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/concision-kill-or-be-killed-neck-of-the-woods-tickets/15033403"
             }
           ]
         }
