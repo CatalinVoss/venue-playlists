@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:32:18.594261+00:00",
+  "generated_at": "2026-09-17T11:40:28.497964+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 81,
           "shows": [
             {
               "artist": "Mustard Service",
@@ -112,7 +112,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 11,
+          "show_count": 12,
           "shows": [
             {
               "artist": "Be Your Own Pet",
@@ -127,6 +127,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-S"
+            },
+            {
+              "artist": "Bilal",
+              "show_date": "2026-09-22",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Yaya Bey"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/bilal-san-francisco-california-09-22-2026/event/1C0064ACCDDA79CF"
             },
             {
               "artist": "Porch Light",
@@ -215,13 +224,6 @@
           "show_count": 27,
           "shows": [
             {
-              "artist": "Magic Sword",
-              "show_date": "2026-09-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pk"
-            },
-            {
               "artist": "Shawn James",
               "show_date": "2026-09-18",
               "show_time": "21:00:00",
@@ -303,6 +305,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70MoK"
+            },
+            {
+              "artist": "Justin Nozuka",
+              "show_date": "2026-10-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mof"
             }
           ]
         },
@@ -315,15 +324,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "When Chai Met Toast",
-              "show_date": "2026-09-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jbee"
-            },
             {
               "artist": "Six Sex",
               "show_date": "2026-09-25",
@@ -402,6 +404,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
+            },
+            {
+              "artist": "Cold Cave",
+              "show_date": "2026-10-30",
+              "show_time": "18:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4GV"
             }
           ]
         },
@@ -483,7 +492,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 26,
           "shows": [
             {
               "artist": "Lido Pimienta",
@@ -588,14 +597,14 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 65,
           "shows": [
             {
-              "artist": "Dutch Melrose, Benny Mayne, Pretty Havoc",
+              "artist": "Dutch Melrose + Benny Mayne + Pretty Havoc",
               "show_date": "2026-09-17",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-benny-mayne-pretty-brick-and-mortar-music-hall-tickets/14957173"
+              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-benny-mayne-brick-and-mortar-music-hall-tickets/14957173"
             },
             {
               "artist": "BIIRD (Night 1)",
@@ -630,7 +639,7 @@
               "show_date": "2026-09-22",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/florence-road-people-ive-met-brick-and-mortar-music-hall-tickets/14211754"
+              "ticket_url": "https://www.ticketweb.com/event/florence-road-people-ive-brick-and-mortar-music-hall-tickets/14211754"
             },
             {
               "artist": "Cheo",
@@ -691,15 +700,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-09-16",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032694"
-            },
             {
               "artist": "Bombshell/ Nonbinary Girlfriend/ Femme Cell/ starbelliedbug",
               "show_date": "2026-09-18",
@@ -776,6 +778,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227034"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-09-30",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032794"
             }
           ]
         }
