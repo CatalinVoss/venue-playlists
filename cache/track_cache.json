@@ -6166,5 +6166,23 @@
       "name": "Not Letting Go",
       "artist": "Supertaste"
     }
-  ]
+  ],
+  "Petey USA": [
+    {
+      "uri": "spotify:track:5uGZtSYorCUAqw03hzwvTn",
+      "name": "DON'T TELL THE BOYS",
+      "artist": "Petey USA"
+    },
+    {
+      "uri": "spotify:track:59I8EVpxxsE50dQRPpaBms",
+      "name": "Lean Into Life",
+      "artist": "Petey USA"
+    },
+    {
+      "uri": "spotify:track:4C1vFlHxwtnzj58n7ML8FI",
+      "name": "We Go On Walks",
+      "artist": "Petey USA"
+    }
+  ],
+  "Live on the Stoop": []
 }

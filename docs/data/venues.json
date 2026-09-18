@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:40:28.497964+00:00",
+  "generated_at": "2026-09-18T11:13:21.923902+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 82,
           "shows": [
-            {
-              "artist": "Mustard Service",
-              "show_date": "2026-09-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mustard-service-the-independent-tickets/14930913"
-            },
             {
               "artist": "Daniel Avery",
               "show_date": "2026-09-18",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/chasing-abbey-the-independent-tickets/14771993"
+            },
+            {
+              "artist": "Mari Froes",
+              "show_date": "2026-10-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mari-froes-the-independent-tickets/14960073"
             }
           ]
         },
@@ -221,7 +221,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 28,
           "shows": [
             {
               "artist": "Shawn James",
@@ -597,15 +597,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Dutch Melrose + Benny Mayne + Pretty Havoc",
-              "show_date": "2026-09-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dutch-melrose-benny-mayne-brick-and-mortar-music-hall-tickets/14957173"
-            },
             {
               "artist": "BIIRD (Night 1)",
               "show_date": "2026-09-18",
@@ -688,6 +681,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/phora-brick-and-mortar-music-hall-tickets/14248124"
+            },
+            {
+              "artist": "DOOM GONG + James Wavey",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/doom-gong-james-wavey-brick-and-mortar-music-hall-tickets/14195504"
             }
           ]
         },
