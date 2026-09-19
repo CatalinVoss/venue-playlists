@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:13:21.923902+00:00",
+  "generated_at": "2026-09-19T10:58:10.453393+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 82,
           "shows": [
-            {
-              "artist": "Daniel Avery",
-              "show_date": "2026-09-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/daniel-avery-live-the-independent-tickets/14989483"
-            },
             {
               "artist": "Cut Chemist",
               "show_date": "2026-09-19",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mari-froes-the-independent-tickets/14960073"
+            },
+            {
+              "artist": "Bella Kay",
+              "show_date": "2026-10-02",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bella-kay-the-independent-tickets/15033283"
             }
           ]
         },
@@ -221,15 +221,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Shawn James",
-              "show_date": "2026-09-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PI-O"
-            },
             {
               "artist": "Temples",
               "show_date": "2026-09-22",
@@ -312,6 +305,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mof"
+            },
+            {
+              "artist": "The War And Treaty",
+              "show_date": "2026-10-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt77"
             }
           ]
         },
@@ -492,17 +492,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Lido Pimienta",
-              "show_date": "2026-09-18",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Chancha Via Circuito"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/lido-pimienta-bimbos-365-club-tickets/14928063"
-            },
             {
               "artist": "Nai Palm",
               "show_date": "2026-09-23",
@@ -585,6 +576,13 @@
                 "Grace Enger"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Epk"
+            },
+            {
+              "artist": "Grace Enger",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stella-lefty-grace-enger-bimbos-365-club-tickets/14919433"
             }
           ]
         },
@@ -597,15 +595,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "BIIRD (Night 1)",
-              "show_date": "2026-09-18",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/biird-night-1-brick-and-mortar-music-hall-tickets/14890683"
-            },
             {
               "artist": "Cult Member",
               "show_date": "2026-09-19",
@@ -688,6 +679,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/doom-gong-james-wavey-brick-and-mortar-music-hall-tickets/14195504"
+            },
+            {
+              "artist": "Carbon Leaf",
+              "show_date": "2026-10-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/carbon-leaf-brick-and-mortar-music-hall-tickets/14910553"
             }
           ]
         },
@@ -702,13 +700,6 @@
           "stale": false,
           "show_count": 65,
           "shows": [
-            {
-              "artist": "Bombshell/ Nonbinary Girlfriend/ Femme Cell/ starbelliedbug",
-              "show_date": "2026-09-18",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bombshell-nonbinary-girlfriend-femme-cell-neck-of-the-woods-tickets/15020153"
-            },
             {
               "artist": "Concision/ Kill Or Be Killed/ A Faint Memory/ A November Morning /Let The Eat Horses",
               "show_date": "2026-09-19",
@@ -785,6 +776,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032794"
+            },
+            {
+              "artist": "Author and Punisher",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/author-punisher-guiltless-ex-neck-of-the-woods-tickets/14208324"
             }
           ]
         }

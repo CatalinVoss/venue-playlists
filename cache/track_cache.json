@@ -6184,5 +6184,23 @@
       "artist": "Petey USA"
     }
   ],
-  "Live on the Stoop": []
+  "Live on the Stoop": [],
+  "STS9": [
+    {
+      "uri": "spotify:track:09T3abuNDoCUQhMYIdyLdA",
+      "name": "Golden Gate",
+      "artist": "STS9"
+    },
+    {
+      "uri": "spotify:track:6bTsKeEgOwomWBxMiknMai",
+      "name": "Better Day",
+      "artist": "STS9"
+    },
+    {
+      "uri": "spotify:track:2dLIaCfycKpgsTZlWnFIcX",
+      "name": "When the Dust Settles",
+      "artist": "STS9"
+    }
+  ],
+  "Kaiju Tour: Trizz & Noa James": []
 }
