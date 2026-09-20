@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:58:10.453393+00:00",
+  "generated_at": "2026-09-20T11:22:20.157633+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 82,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "Cut Chemist",
-              "show_date": "2026-09-19",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cut-chemist-the-independent-tickets/14284984"
-            },
             {
               "artist": "deca joins",
               "show_date": "2026-09-20",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bella-kay-the-independent-tickets/15033283"
+            },
+            {
+              "artist": "ROYA",
+              "show_date": "2026-10-03",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/roya-the-independent-tickets/14884773"
             }
           ]
         },
@@ -112,15 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 11,
           "shows": [
-            {
-              "artist": "Be Your Own Pet",
-              "show_date": "2026-09-19",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Pob"
-            },
             {
               "artist": "Friko",
               "show_date": "2026-09-21",
@@ -595,15 +588,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Cult Member",
-              "show_date": "2026-09-19",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cult-member-teeth-nurse-body-brick-and-mortar-music-hall-tickets/15008263"
-            },
             {
               "artist": "BIIRD (Night 2)",
               "show_date": "2026-09-20",
@@ -686,6 +672,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/carbon-leaf-brick-and-mortar-music-hall-tickets/14910553"
+            },
+            {
+              "artist": "Raynes + David Wimbish & The Collection",
+              "show_date": "2026-10-02",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/raynes-david-wimbish-brick-and-mortar-music-hall-tickets/14984923"
             }
           ]
         },
@@ -698,22 +691,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Concision/ Kill Or Be Killed/ A Faint Memory/ A November Morning /Let The Eat Horses",
-              "show_date": "2026-09-19",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/concision-kill-or-be-killed-neck-of-the-woods-tickets/15033403"
-            },
-            {
-              "artist": "Yazz",
-              "show_date": "2026-09-19",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yazz-neck-of-the-woods-tickets/14994303"
-            },
             {
               "artist": "Jesse The Tree/ .tetsuo/ NAHreally/ FRIO",
               "show_date": "2026-09-22",
@@ -783,6 +762,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/author-punisher-guiltless-ex-neck-of-the-woods-tickets/14208324"
+            },
+            {
+              "artist": "Galactic Empire",
+              "show_date": "2026-10-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/galactic-empire-neck-of-the-woods-tickets/14251334"
+            },
+            {
+              "artist": "Kevlar Upper/ Mortuary Assistant/ P.O.S./ Crawl of Time",
+              "show_date": "2026-10-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kevlar-upper-mortuary-assistant-pos-neck-of-the-woods-tickets/15020223"
             }
           ]
         }
