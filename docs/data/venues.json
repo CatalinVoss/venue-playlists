@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:22:20.157633+00:00",
+  "generated_at": "2026-09-21T12:47:01.280977+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 80,
           "shows": [
-            {
-              "artist": "deca joins",
-              "show_date": "2026-09-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/deca-joins-the-independent-tickets/14135954"
-            },
             {
               "artist": "Sondre Lerche",
               "show_date": "2026-09-21",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/roya-the-independent-tickets/14884773"
+            },
+            {
+              "artist": "rusowsky",
+              "show_date": "2026-10-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/rusowsky-the-independent-tickets/14888343"
             }
           ]
         },
@@ -588,22 +588,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "BIIRD (Night 2)",
-              "show_date": "2026-09-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/biird-night-2-brick-and-mortar-music-hall-tickets/15031373"
-            },
-            {
-              "artist": "Seedhe Maut",
-              "show_date": "2026-09-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/seedhe-maut-smx-world-brick-and-mortar-music-hall-tickets/14080984"
-            },
             {
               "artist": "Florence Road",
               "show_date": "2026-09-22",
@@ -679,6 +665,20 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/raynes-david-wimbish-brick-and-mortar-music-hall-tickets/14984923"
+            },
+            {
+              "artist": "MC Abdul",
+              "show_date": "2026-10-03",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mc-abdul-brick-and-mortar-music-hall-tickets/14298344"
+            },
+            {
+              "artist": "RC AVENUE + Ebony Loren",
+              "show_date": "2026-10-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/rc-avenue-ebony-loren-brick-and-mortar-music-hall-tickets/14294014"
             }
           ]
         },
@@ -691,7 +691,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
             {
               "artist": "Jesse The Tree/ .tetsuo/ NAHreally/ FRIO",
