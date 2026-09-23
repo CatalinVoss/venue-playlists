@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:37:14.656746+00:00",
+  "generated_at": "2026-09-23T11:35:18.238104+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 79,
           "shows": [
-            {
-              "artist": "Dana and Alden",
-              "show_date": "2026-09-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dana-and-alden-the-independent-tickets/14964703"
-            },
             {
               "artist": "Ghostly Kisses",
               "show_date": "2026-09-23",
@@ -100,6 +93,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/enter-shikari-the-independent-tickets/14820563"
+            },
+            {
+              "artist": "Cure for Paranoia",
+              "show_date": "2026-10-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cure-for-paranoia-the-independent-tickets/15016273"
             }
           ]
         },
@@ -112,17 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 10,
+          "show_count": 9,
           "shows": [
-            {
-              "artist": "Bilal",
-              "show_date": "2026-09-22",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Yaya Bey"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/bilal-san-francisco-california-09-22-2026/event/1C0064ACCDDA79CF"
-            },
             {
               "artist": "Porch Light",
               "show_date": "2026-09-30",
@@ -207,15 +198,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Temples",
-              "show_date": "2026-09-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vp"
-            },
             {
               "artist": "Temples",
               "show_date": "2026-09-23",
@@ -298,6 +282,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt77"
+            },
+            {
+              "artist": "Theo Katzman",
+              "show_date": "2026-10-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo4"
             }
           ]
         },
@@ -581,15 +572,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Florence Road",
-              "show_date": "2026-09-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/florence-road-people-ive-brick-and-mortar-music-hall-tickets/14211754"
-            },
             {
               "artist": "Cheo",
               "show_date": "2026-09-25",
@@ -672,6 +656,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/rc-avenue-ebony-loren-brick-and-mortar-music-hall-tickets/14294014"
+            },
+            {
+              "artist": "TELESCREENS",
+              "show_date": "2026-10-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/telescreens-brick-and-mortar-music-hall-tickets/14197254"
             }
           ]
         },
@@ -684,22 +675,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Jesse The Tree/ .tetsuo/ NAHreally/ FRIO",
-              "show_date": "2026-09-22",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jesse-the-tree-tetsuo-nahreally-neck-of-the-woods-tickets/14288614"
-            },
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-09-22",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227314"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-09-23",
@@ -769,6 +746,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/kevlar-upper-mortuary-assistant-pos-neck-of-the-woods-tickets/15020223"
+            },
+            {
+              "artist": "Stu & The Kojaks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo",
+              "show_date": "2026-10-03",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stu-the-kojaks-jomo-neck-of-the-woods-tickets/14281804"
+            },
+            {
+              "artist": "Personal Space Man/ Eli Elisco/ Starfari",
+              "show_date": "2026-10-03",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/personal-space-man-eli-elisco-neck-of-the-woods-tickets/14318864"
             }
           ]
         }
