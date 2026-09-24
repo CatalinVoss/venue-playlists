@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:35:18.238104+00:00",
+  "generated_at": "2026-09-24T11:44:48.911688+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,15 +15,6 @@
           "stale": false,
           "show_count": 79,
           "shows": [
-            {
-              "artist": "Ghostly Kisses",
-              "show_date": "2026-09-23",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Rosie Carney"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/ghostly-kisses-the-independent-tickets/14848403"
-            },
             {
               "artist": "Red Leather",
               "show_date": "2026-09-24",
@@ -100,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cure-for-paranoia-the-independent-tickets/15016273"
+            },
+            {
+              "artist": "Deer Tick",
+              "show_date": "2026-10-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/deer-tick-the-independent-tickets/14758773"
             }
           ]
         },
@@ -198,15 +196,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Temples",
-              "show_date": "2026-09-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v9"
-            },
             {
               "artist": "Sophie Truax",
               "show_date": "2026-09-29",
@@ -289,6 +280,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo4"
+            },
+            {
+              "artist": "Katie Pruitt",
+              "show_date": "2026-10-29",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvN"
             }
           ]
         },
@@ -469,15 +467,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Nai Palm",
-              "show_date": "2026-09-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/nai-palm-of-hiatus-kaiyote-bimbos-365-club-tickets/14276654"
-            },
             {
               "artist": "Elder Island",
               "show_date": "2026-09-24",
@@ -560,6 +551,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/stella-lefty-grace-enger-bimbos-365-club-tickets/14919433"
+            },
+            {
+              "artist": "Mystery Skulls",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Fox Stevenson"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/mystery-skulls-fox-stevenson-bimbos-365-club-tickets/14287464"
             }
           ]
         },
@@ -675,15 +675,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 61,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-09-23",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032644"
-            },
             {
               "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
               "show_date": "2026-09-25",
@@ -760,6 +753,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/personal-space-man-eli-elisco-neck-of-the-woods-tickets/14318864"
+            },
+            {
+              "artist": "Gloomhead/ Jenny Haniver(PDX)/ Whine",
+              "show_date": "2026-10-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/gloomhead-jenny-haniverpdx-whine-neck-of-the-woods-tickets/14288594"
             }
           ]
         }

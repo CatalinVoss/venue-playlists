@@ -6237,5 +6237,29 @@
       "artist": "jackzebra"
     }
   ],
-  "Dani Offline \u2014 Lover's Discourse Live w/ Amanda Maga\u00f1a": []
+  "Dani Offline \u2014 Lover's Discourse Live w/ Amanda Maga\u00f1a": [],
+  "Sister Nancy": [
+    {
+      "uri": "spotify:track:1p2ea5Dy0tOnt9q4wfy4aX",
+      "name": "Bam Bam",
+      "artist": "Sister Nancy"
+    },
+    {
+      "uri": "spotify:track:5q3IH8h5ZubdGQaXXlYgH3",
+      "name": "Transport Connection",
+      "artist": "Sister Nancy"
+    },
+    {
+      "uri": "spotify:track:3UkihvHE6jmxRFD3vjwzjt",
+      "name": "Bam Bam - Remix",
+      "artist": "Sister Nancy"
+    }
+  ],
+  "Yung Fazo, Cthrurio, sophmorenoir": [
+    {
+      "uri": "spotify:track:5UEEQRGgaeYUbUpReIJanJ",
+      "name": "GOIN IN",
+      "artist": "Yung Fazo"
+    }
+  ]
 }
