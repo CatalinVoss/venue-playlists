@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:44:48.911688+00:00",
+  "generated_at": "2026-09-25T11:50:09.204325+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 79,
           "shows": [
-            {
-              "artist": "Red Leather",
-              "show_date": "2026-09-24",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wesghost-red-leather-the-independent-tickets/14958013"
-            },
             {
               "artist": "In Color",
               "show_date": "2026-09-25",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/deer-tick-the-independent-tickets/14758773"
+            },
+            {
+              "artist": "The Breaks",
+              "show_date": "2026-10-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-breaks-the-independent-tickets/14996033"
             }
           ]
         },
@@ -467,15 +467,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "Elder Island",
-              "show_date": "2026-09-24",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/elder-island-glassio-bimbos-365-club-tickets/14874123"
-            },
             {
               "artist": "Tokyo Tea Room",
               "show_date": "2026-09-28",
@@ -560,6 +553,13 @@
                 "Fox Stevenson"
               ],
               "ticket_url": "https://www.ticketweb.com/event/mystery-skulls-fox-stevenson-bimbos-365-club-tickets/14287464"
+            },
+            {
+              "artist": "Ezra Collective",
+              "show_date": "2026-11-12",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv0ZO"
             }
           ]
         },
@@ -572,7 +572,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 61,
           "shows": [
             {
               "artist": "Cheo",
