@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:50:09.204325+00:00",
+  "generated_at": "2026-09-26T11:23:57.288607+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 78,
           "shows": [
-            {
-              "artist": "In Color",
-              "show_date": "2026-09-25",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/in-color-the-independent-tickets/14960173"
-            },
             {
               "artist": "West 22nd",
               "show_date": "2026-09-26",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-breaks-the-independent-tickets/14996033"
+            },
+            {
+              "artist": "Devon Gilfillian",
+              "show_date": "2026-10-09",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/devon-gilfillian-the-independent-tickets/14982233"
             }
           ]
         },
@@ -299,15 +299,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "Six Sex",
-              "show_date": "2026-09-25",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvGJ"
-            },
             {
               "artist": "Rusty Chains - Tribute to Chris Cornell",
               "show_date": "2026-09-26",
@@ -386,6 +379,13 @@
               "show_time": "18:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4GV"
+            },
+            {
+              "artist": "Russian Circles",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
             }
           ]
         },
@@ -436,7 +436,7 @@
               "ticket_url": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844"
             },
             {
-              "artist": "Elijah Fox Trio Tour ft Myles Martin and Solo Smith",
+              "artist": "Elijah Fox",
               "show_date": "2026-12-03",
               "show_time": "20:00:00",
               "support_acts": [],
@@ -575,13 +575,6 @@
           "show_count": 61,
           "shows": [
             {
-              "artist": "Cheo",
-              "show_date": "2026-09-25",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cheo-brick-and-mortar-music-hall-tickets/14833053"
-            },
-            {
               "artist": "Max Fry",
               "show_date": "2026-09-26",
               "show_time": "21:00:00",
@@ -663,6 +656,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/telescreens-brick-and-mortar-music-hall-tickets/14197254"
+            },
+            {
+              "artist": "The Animeros",
+              "show_date": "2026-10-07",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-animeros-brick-and-mortar-music-hall-tickets/14264314"
             }
           ]
         },
@@ -675,22 +675,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 59,
           "shows": [
-            {
-              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
-              "show_date": "2026-09-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14311774"
-            },
-            {
-              "artist": "Medscool/ Wiseacre/ Little Oil",
-              "show_date": "2026-09-25",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/medscool-wiseacre-little-oil-neck-of-the-woods-tickets/14281784"
-            },
             {
               "artist": "Amor De Dios/ Forced To Suffer/ exutoire/ A Life Spent/ Off Tops",
               "show_date": "2026-09-27",
@@ -760,6 +746,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/gloomhead-jenny-haniverpdx-whine-neck-of-the-woods-tickets/14288594"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-10-06",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227094"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-10-07",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032764"
             }
           ]
         }
