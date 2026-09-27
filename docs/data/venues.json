@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:23:57.288607+00:00",
+  "generated_at": "2026-09-27T12:00:58.506049+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 78,
+          "show_count": 77,
           "shows": [
-            {
-              "artist": "West 22nd",
-              "show_date": "2026-09-26",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/west-22nd-the-independent-tickets/14918693"
-            },
             {
               "artist": "Hot Chip DJ Set",
               "show_date": "2026-09-27",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/devon-gilfillian-the-independent-tickets/14982233"
+            },
+            {
+              "artist": "Dublon",
+              "show_date": "2026-10-10",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dublon-the-independent-tickets/14949223"
             }
           ]
         },
@@ -299,15 +299,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Rusty Chains - Tribute to Chris Cornell",
-              "show_date": "2026-09-26",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PJqS"
-            },
             {
               "artist": "Beth Orton",
               "show_date": "2026-09-30",
@@ -386,6 +379,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
+            },
+            {
+              "artist": "John Zorn",
+              "show_date": "2026-12-06",
+              "show_time": "16:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pobv"
             }
           ]
         },
@@ -572,15 +572,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 61,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Max Fry",
-              "show_date": "2026-09-26",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/max-fry-awannabe-brick-and-mortar-music-hall-tickets/14207334"
-            },
             {
               "artist": "Guardin",
               "show_date": "2026-09-27",
@@ -663,6 +656,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-animeros-brick-and-mortar-music-hall-tickets/14264314"
+            },
+            {
+              "artist": "L\u00d8L\u00d8, Mylie Taylor",
+              "show_date": "2026-10-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ll-mylie-taylor-brick-and-mortar-music-hall-tickets/14925953"
             }
           ]
         },
