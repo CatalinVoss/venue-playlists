@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:00:58.506049+00:00",
+  "generated_at": "2026-09-28T13:53:14.175867+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 77,
+          "show_count": 76,
           "shows": [
-            {
-              "artist": "Hot Chip DJ Set",
-              "show_date": "2026-09-27",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/hot-chip-dj-set-the-independent-tickets/15041943"
-            },
             {
               "artist": "Chasing Abbey",
               "show_date": "2026-09-30",
@@ -98,6 +91,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dublon-the-independent-tickets/14949223"
+            },
+            {
+              "artist": "Santiago Cruz",
+              "show_date": "2026-10-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/santiago-cruz-the-independent-tickets/14893513"
             }
           ]
         },
@@ -572,35 +572,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Guardin",
-              "show_date": "2026-09-27",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Kennedyxoxo"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/guardin-w-kennedyxoxo-fijimar-brick-and-mortar-music-hall-tickets/14236004?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Guardin",
-              "show_date": "2026-09-27",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Kennedyxoxo"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JZQZ"
-            },
-            {
-              "artist": "Guardin",
-              "show_date": "2026-09-27",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Kennedyxoxo"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/guardin-w-kennedyxoxo-fijimar-brick-and-mortar-music-hall-tickets/14236014"
-            },
             {
               "artist": "Phora",
               "show_date": "2026-09-28",
@@ -663,6 +636,27 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ll-mylie-taylor-brick-and-mortar-music-hall-tickets/14925953"
+            },
+            {
+              "artist": "Yung Fazo, Cthrurio, SophomoreNoir",
+              "show_date": "2026-10-09",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/yung-fazo-cthrurio-sophomorenoir-brick-and-mortar-music-hall-tickets/14320874"
+            },
+            {
+              "artist": "Paige Fish \u2014 The Midnight Crisis Tour",
+              "show_date": "2026-10-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/paige-fish-the-midnight-brick-and-mortar-music-hall-tickets/15002153"
+            },
+            {
+              "artist": "Moneyhillcasino",
+              "show_date": "2026-10-11",
+              "show_time": "14:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/moneyhillcasino-brick-and-mortar-music-hall-tickets/15031233?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -675,15 +669,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 59,
+          "show_count": 62,
           "shows": [
-            {
-              "artist": "Amor De Dios/ Forced To Suffer/ exutoire/ A Life Spent/ Off Tops",
-              "show_date": "2026-09-27",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/amor-de-dios-forced-to-neck-of-the-woods-tickets/14321894"
-            },
             {
               "artist": "Triangle Fire/ Choke/ P.O.S./ Ick",
               "show_date": "2026-09-29",
@@ -760,6 +747,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032764"
+            },
+            {
+              "artist": "Filth is Eternal",
+              "show_date": "2026-10-08",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/drag-talk-filth-is-eternal-neck-of-the-woods-tickets/14999073"
             }
           ]
         }
