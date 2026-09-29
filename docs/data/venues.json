@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:53:14.175867+00:00",
+  "generated_at": "2026-09-29T12:51:30.488390+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -467,15 +467,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "Tokyo Tea Room",
-              "show_date": "2026-09-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tokyo-tea-room-beach-vacation-bimbos-365-club-tickets/14922413"
-            },
             {
               "artist": "Emei",
               "show_date": "2026-09-30",
@@ -560,6 +553,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv0ZO"
+            },
+            {
+              "artist": "Ezra Collective",
+              "show_date": "2026-11-12",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ezra-collective-here-bimbos-365-club-tickets/14205374"
             }
           ]
         },
@@ -572,15 +572,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "Phora",
-              "show_date": "2026-09-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/phora-brick-and-mortar-music-hall-tickets/14248124"
-            },
             {
               "artist": "DOOM GONG + James Wavey",
               "show_date": "2026-09-30",
@@ -657,6 +650,13 @@
               "show_time": "14:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/moneyhillcasino-brick-and-mortar-music-hall-tickets/15031233?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Dani Offline \u2014 Lover's Discourse Live w/ Amanda Maga\u00f1a",
+              "show_date": "2026-10-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dani-offline-lovers-discourse-brick-and-mortar-music-hall-tickets/14294944"
             }
           ]
         },
