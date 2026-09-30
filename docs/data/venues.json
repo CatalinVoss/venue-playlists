@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:51:30.488390+00:00",
+  "generated_at": "2026-09-30T12:33:46.622119+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -32,7 +32,7 @@
             {
               "artist": "Bella Kay",
               "show_date": "2026-10-02",
-              "show_time": "21:00:00",
+              "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bella-kay-the-independent-tickets/15033283"
             },
@@ -196,15 +196,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Sophie Truax",
-              "show_date": "2026-09-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pF"
-            },
             {
               "artist": "Failure",
               "show_date": "2026-09-30",
@@ -287,6 +280,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvN"
+            },
+            {
+              "artist": "The Limi\u00f1anas",
+              "show_date": "2026-11-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vO"
             }
           ]
         },
@@ -398,7 +398,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 8,
+          "show_count": 9,
           "shows": [
             {
               "artist": "Jacob Alon",
@@ -434,6 +434,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844"
+            },
+            {
+              "artist": "Kate Nash",
+              "show_date": "2026-11-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kate-nash-swedish-american-hall-tickets/14313314"
             },
             {
               "artist": "Elijah Fox",
@@ -498,7 +505,9 @@
               "artist": "FIGHTMASTER",
               "show_date": "2026-10-14",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "ill peach"
+              ],
               "ticket_url": "https://www.ticketweb.com/event/fightmaster-bimbos-365-club-tickets/14217874"
             },
             {
@@ -669,22 +678,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 60,
           "shows": [
-            {
-              "artist": "Triangle Fire/ Choke/ P.O.S./ Ick",
-              "show_date": "2026-09-29",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/triangle-fire-choke-pos-ick-neck-of-the-woods-tickets/14300224"
-            },
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-09-29",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227034"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-09-30",
@@ -754,6 +749,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/drag-talk-filth-is-eternal-neck-of-the-woods-tickets/14999073"
+            },
+            {
+              "artist": "Kaiju Tour: Trizz & Noa James",
+              "show_date": "2026-10-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kaiju-tour-trizz-noa-neck-of-the-woods-tickets/14330654"
+            },
+            {
+              "artist": "Swapmeet/ Joyer",
+              "show_date": "2026-10-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/swapmeet-joyer-neck-of-the-woods-tickets/14191544"
             }
           ]
         }

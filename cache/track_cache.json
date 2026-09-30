@@ -6325,5 +6325,22 @@
       "artist": "Clay Street Unit"
     }
   ],
-  "Smush/ Sofia & The Afterglow": []
+  "Smush/ Sofia & The Afterglow": [],
+  "Kate Nash": [
+    {
+      "uri": "spotify:track:43YJuMTeTEV5FyjVfBqwyf",
+      "name": "Nicest Thing",
+      "artist": "Kate Nash"
+    },
+    {
+      "uri": "spotify:track:1wi4ti9BYUbwoGJ1EBUVtv",
+      "name": "Foundations",
+      "artist": "Kate Nash"
+    },
+    {
+      "uri": "spotify:track:4xEDawqLVwsC331aF6Z33x",
+      "name": "Merry Happy",
+      "artist": "Kate Nash"
+    }
+  ]
 }
