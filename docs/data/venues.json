@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:33:46.622119+00:00",
+  "generated_at": "2026-10-01T13:13:03.537444+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 76,
+          "show_count": 75,
           "shows": [
-            {
-              "artist": "Chasing Abbey",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/chasing-abbey-the-independent-tickets/14771993"
-            },
             {
               "artist": "Mari Froes",
               "show_date": "2026-10-01",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/santiago-cruz-the-independent-tickets/14893513"
+            },
+            {
+              "artist": "KiNG MALA",
+              "show_date": "2026-10-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J74o"
             }
           ]
         },
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 8,
           "shows": [
-            {
-              "artist": "Porch Light",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Common People"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/porch-light-san-francisco-california-09-30-2026/event/1C0064EAB3281ACF"
-            },
             {
               "artist": "Ecca Vandal",
               "show_date": "2026-10-03",
@@ -196,17 +187,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "Failure",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "quannnic"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpjk"
-            },
             {
               "artist": "Soda Blonde",
               "show_date": "2026-10-01",
@@ -287,6 +269,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vO"
+            },
+            {
+              "artist": "Squirrel Flower",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mop"
             }
           ]
         },
@@ -299,15 +288,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 14,
           "shows": [
-            {
-              "artist": "Beth Orton",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4jZ"
-            },
             {
               "artist": "John Craigie",
               "show_date": "2026-10-02",
@@ -386,6 +368,13 @@
               "show_time": "16:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pobv"
+            },
+            {
+              "artist": "The Strike",
+              "show_date": "2026-12-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9fU"
             }
           ]
         },
@@ -405,7 +394,7 @@
               "show_date": "2026-10-07",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jacob-alon-swedish-american-hall-tickets/14956393"
+              "ticket_url": "https://www.ticketweb.com/event/jacob-alon-with-dogpatch-swedish-american-hall-tickets/14956393"
             },
             {
               "artist": "Allan Rayman",
@@ -474,15 +463,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Emei",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/emei-madelline-bimbos-365-club-tickets/14871093"
-            },
             {
               "artist": "DOMi + JD Beck",
               "show_date": "2026-10-09",
@@ -569,6 +551,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ezra-collective-here-bimbos-365-club-tickets/14205374"
+            },
+            {
+              "artist": "Mustache Harbor",
+              "show_date": "2026-11-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-tickets/14312824"
             }
           ]
         },
@@ -583,13 +572,6 @@
           "stale": false,
           "show_count": 56,
           "shows": [
-            {
-              "artist": "DOOM GONG + James Wavey",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/doom-gong-james-wavey-brick-and-mortar-music-hall-tickets/14195504"
-            },
             {
               "artist": "Carbon Leaf",
               "show_date": "2026-10-01",
@@ -640,11 +622,11 @@
               "ticket_url": "https://www.ticketweb.com/event/ll-mylie-taylor-brick-and-mortar-music-hall-tickets/14925953"
             },
             {
-              "artist": "Yung Fazo, Cthrurio, SophomoreNoir",
+              "artist": "Yung Fazo, Cthrurio, SophomoreNoir, Jsprings",
               "show_date": "2026-10-09",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yung-fazo-cthrurio-sophomorenoir-brick-and-mortar-music-hall-tickets/14320874"
+              "ticket_url": "https://www.ticketweb.com/event/yung-fazo-cthrurio-jsprings-sophomorenoir-brick-and-mortar-music-hall-tickets/14320874"
             },
             {
               "artist": "Paige Fish \u2014 The Midnight Crisis Tour",
@@ -666,6 +648,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dani-offline-lovers-discourse-brick-and-mortar-music-hall-tickets/14294944"
+            },
+            {
+              "artist": "Edgehill",
+              "show_date": "2026-10-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/edgehill-brick-and-mortar-music-hall-tickets/14920433"
             }
           ]
         },
@@ -678,22 +667,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 60,
+          "show_count": 58,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-09-30",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032794"
-            },
-            {
-              "artist": "Author and Punisher",
-              "show_date": "2026-09-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/author-punisher-guiltless-ex-neck-of-the-woods-tickets/14208324"
-            },
             {
               "artist": "Galactic Empire",
               "show_date": "2026-10-01",
@@ -763,6 +738,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/swapmeet-joyer-neck-of-the-woods-tickets/14191544"
+            },
+            {
+              "artist": "Dri",
+              "show_date": "2026-10-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dri-scattered-guts-tba-neck-of-the-woods-tickets/14262244"
+            },
+            {
+              "artist": "D\u00e4lek",
+              "show_date": "2026-10-10",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dlek-mars-kumari-neck-of-the-woods-tickets/15042763"
             }
           ]
         }
