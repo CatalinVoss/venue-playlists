@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:13:03.537444+00:00",
+  "generated_at": "2026-10-02T12:33:30.307930+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 75,
+          "show_count": 74,
           "shows": [
-            {
-              "artist": "Mari Froes",
-              "show_date": "2026-10-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mari-froes-the-independent-tickets/14960073"
-            },
             {
               "artist": "Bella Kay",
               "show_date": "2026-10-02",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J74o"
+            },
+            {
+              "artist": "KiNG MALA",
+              "show_date": "2026-10-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/king-mala-the-independent-tickets/14234674"
             }
           ]
         },
@@ -187,15 +187,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "Soda Blonde",
-              "show_date": "2026-10-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vb"
-            },
             {
               "artist": "Lyrics Born",
               "show_date": "2026-10-02",
@@ -276,6 +269,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mop"
+            },
+            {
+              "artist": "Alex Cameron",
+              "show_date": "2026-11-07",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo9"
             }
           ]
         },
@@ -288,7 +288,7 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 14,
+          "show_count": 15,
           "shows": [
             {
               "artist": "John Craigie",
@@ -570,15 +570,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 56,
+          "show_count": 55,
           "shows": [
-            {
-              "artist": "Carbon Leaf",
-              "show_date": "2026-10-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/carbon-leaf-brick-and-mortar-music-hall-tickets/14910553"
-            },
             {
               "artist": "Raynes + David Wimbish & The Collection",
               "show_date": "2026-10-02",
@@ -655,6 +648,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/edgehill-brick-and-mortar-music-hall-tickets/14920433"
+            },
+            {
+              "artist": "Olive Klug + Frail Talk",
+              "show_date": "2026-10-16",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/olive-klug-frail-talk-brick-and-mortar-music-hall-tickets/15001723"
             }
           ]
         },
@@ -667,15 +667,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 58,
+          "show_count": 57,
           "shows": [
-            {
-              "artist": "Galactic Empire",
-              "show_date": "2026-10-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/galactic-empire-neck-of-the-woods-tickets/14251334"
-            },
             {
               "artist": "Kevlar Upper/ Mortuary Assistant/ P.O.S./ Crawl of Time",
               "show_date": "2026-10-02",
@@ -752,6 +745,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dlek-mars-kumari-neck-of-the-woods-tickets/15042763"
+            },
+            {
+              "artist": "Cross Stich/ Let Them Eat Horses/ Luna Ivy/ Splendor",
+              "show_date": "2026-10-11",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cross-stich-let-them-eat-neck-of-the-woods-tickets/14304234"
             }
           ]
         }

@@ -6360,5 +6360,34 @@
       "artist": "Yung Fazo"
     }
   ],
-  "Fin/ Varulf/ Piss Baptism/ Hellhunter": []
+  "Fin/ Varulf/ Piss Baptism/ Hellhunter": [],
+  "82MAJOR": [
+    {
+      "uri": "spotify:track:0V3iJWPutcLhPId4q2LjxZ",
+      "name": "Like Fire",
+      "artist": "82MAJOR"
+    },
+    {
+      "uri": "spotify:track:29WdT0CvbaVoN5pbke3hXX",
+      "name": "Sign",
+      "artist": "82MAJOR"
+    },
+    {
+      "uri": "spotify:track:0qUNECAeOUyddnM3PiE9Sv",
+      "name": "wyd?",
+      "artist": "82MAJOR"
+    }
+  ],
+  "Coral 9": [
+    {
+      "uri": "spotify:track:2da1Nhz75hUuAH9ssQYI7J",
+      "name": "Crazy Eyes",
+      "artist": "Coral 9"
+    },
+    {
+      "uri": "spotify:track:58D5hD2OXKx5gMHhCNkXR3",
+      "name": "711",
+      "artist": "Coral 9"
+    }
+  ]
 }
