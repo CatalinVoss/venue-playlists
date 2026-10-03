@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:33:30.307930+00:00",
+  "generated_at": "2026-10-03T11:38:45.306104+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 74,
+          "show_count": 73,
           "shows": [
-            {
-              "artist": "Bella Kay",
-              "show_date": "2026-10-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bella-kay-the-independent-tickets/15033283"
-            },
             {
               "artist": "ROYA",
               "show_date": "2026-10-03",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/king-mala-the-independent-tickets/14234674"
+            },
+            {
+              "artist": "Automatic",
+              "show_date": "2026-10-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/automatic-the-independent-tickets/14206394"
             }
           ]
         },
@@ -187,15 +187,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Lyrics Born",
-              "show_date": "2026-10-02",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pa"
-            },
             {
               "artist": "Lloyd Cole",
               "show_date": "2026-10-07",
@@ -276,6 +269,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo9"
+            },
+            {
+              "artist": "Buzzcocks",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3p3"
             }
           ]
         },
@@ -288,14 +288,16 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 45,
           "shows": [
             {
-              "artist": "John Craigie",
-              "show_date": "2026-10-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ3o6"
+              "artist": "Igorrr",
+              "show_date": "2026-10-03",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Secret Chiefs 3"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_3"
             },
             {
               "artist": "Groundation",
@@ -312,6 +314,13 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7038K"
             },
             {
+              "artist": "Dresden Dolls",
+              "show_date": "2026-10-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_K"
+            },
+            {
               "artist": "Phillip Phillips",
               "show_date": "2026-10-09",
               "show_time": "20:00:00",
@@ -319,6 +328,40 @@
                 "Elias Hix"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pte9"
+            },
+            {
+              "artist": "Provoker",
+              "show_date": "2026-10-13",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Topographies"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_9"
+            },
+            {
+              "artist": "Kelsey Lu",
+              "show_date": "2026-10-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4__"
+            },
+            {
+              "artist": "The Jungle Giants",
+              "show_date": "2026-10-16",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Morning Silk"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_O"
+            },
+            {
+              "artist": "Peaches",
+              "show_date": "2026-10-18",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Soltera"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_-"
             },
             {
               "artist": "Allah-Las",
@@ -335,46 +378,13 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvGP"
             },
             {
-              "artist": "TR/ST",
-              "show_date": "2026-10-23",
+              "artist": "A Split Second",
+              "show_date": "2026-10-22",
               "show_time": "18:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZvQp"
-            },
-            {
-              "artist": "illuminati hotties",
-              "show_date": "2026-10-24",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
-            },
-            {
-              "artist": "Cold Cave",
-              "show_date": "2026-10-30",
-              "show_time": "18:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4GV"
-            },
-            {
-              "artist": "Russian Circles",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
-            },
-            {
-              "artist": "John Zorn",
-              "show_date": "2026-12-06",
-              "show_time": "16:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pobv"
-            },
-            {
-              "artist": "The Strike",
-              "show_date": "2026-12-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9fU"
+              "support_acts": [
+                "Automelodi"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_N"
             }
           ]
         },
@@ -573,13 +583,6 @@
           "show_count": 55,
           "shows": [
             {
-              "artist": "Raynes + David Wimbish & The Collection",
-              "show_date": "2026-10-02",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/raynes-david-wimbish-brick-and-mortar-music-hall-tickets/14984923"
-            },
-            {
               "artist": "MC Abdul",
               "show_date": "2026-10-03",
               "show_time": "21:00:00",
@@ -601,11 +604,11 @@
               "ticket_url": "https://www.ticketweb.com/event/telescreens-brick-and-mortar-music-hall-tickets/14197254"
             },
             {
-              "artist": "The Animeros",
+              "artist": "The Animeros + Edgar",
               "show_date": "2026-10-07",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-animeros-brick-and-mortar-music-hall-tickets/14264314"
+              "ticket_url": "https://www.ticketweb.com/event/the-animeros-edgar-brick-and-mortar-music-hall-tickets/14264314"
             },
             {
               "artist": "L\u00d8L\u00d8, Mylie Taylor",
@@ -655,6 +658,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/olive-klug-frail-talk-brick-and-mortar-music-hall-tickets/15001723"
+            },
+            {
+              "artist": "Ella Boh  \u2014 Blurry Tour",
+              "show_date": "2026-10-17",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ella-boh-blurry-brick-and-mortar-music-hall-tickets/14996023"
             }
           ]
         },
@@ -669,13 +679,6 @@
           "stale": false,
           "show_count": 57,
           "shows": [
-            {
-              "artist": "Kevlar Upper/ Mortuary Assistant/ P.O.S./ Crawl of Time",
-              "show_date": "2026-10-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kevlar-upper-mortuary-assistant-pos-neck-of-the-woods-tickets/15020223"
-            },
             {
               "artist": "Stu & The Kojaks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo",
               "show_date": "2026-10-03",
@@ -752,6 +755,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cross-stich-let-them-eat-neck-of-the-woods-tickets/14304234"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-10-13",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227454"
             }
           ]
         }
