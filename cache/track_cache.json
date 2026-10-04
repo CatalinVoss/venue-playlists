@@ -6772,5 +6772,22 @@
     }
   ],
   "The Animeros + Edgar": [],
-  "Danny Ali/ Pyro KP/ Quincy ISO/ Griffen": []
+  "Danny Ali/ Pyro KP/ Quincy ISO/ Griffen": [],
+  "Vansire": [
+    {
+      "uri": "spotify:track:6qr6qpP9J9YBBYsVmJFd5c",
+      "name": "The Latter Teens",
+      "artist": "Vansire"
+    },
+    {
+      "uri": "spotify:track:4RGWHfQeJftd5XrP8JUgFj",
+      "name": "Metamodernity",
+      "artist": "Vansire"
+    },
+    {
+      "uri": "spotify:track:7szBZqBJuj9eAC8HJ4CyTM",
+      "name": "That I Miss You",
+      "artist": "Vansire"
+    }
+  ]
 }

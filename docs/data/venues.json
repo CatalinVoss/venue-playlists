@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:38:45.306104+00:00",
+  "generated_at": "2026-10-04T12:20:39.043542+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 73,
+          "show_count": 72,
           "shows": [
-            {
-              "artist": "ROYA",
-              "show_date": "2026-10-03",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/roya-the-independent-tickets/14884773"
-            },
             {
               "artist": "rusowsky",
               "show_date": "2026-10-04",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/automatic-the-independent-tickets/14206394"
+            },
+            {
+              "artist": "Juice",
+              "show_date": "2026-10-14",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/juice-the-independent-tickets/14249674"
             }
           ]
         },
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 8,
+          "show_count": 7,
           "shows": [
-            {
-              "artist": "Ecca Vandal",
-              "show_date": "2026-10-03",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Speed of Light"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-103-san-francisco-california-10-03-2026/event/1C0064B4F434F589"
-            },
             {
               "artist": "Ecca Vandal",
               "show_date": "2026-10-04",
@@ -288,17 +279,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 45,
+          "show_count": 44,
           "shows": [
-            {
-              "artist": "Igorrr",
-              "show_date": "2026-10-03",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Secret Chiefs 3"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_3"
-            },
             {
               "artist": "Groundation",
               "show_date": "2026-10-04",
@@ -385,6 +367,13 @@
                 "Automelodi"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_N"
+            },
+            {
+              "artist": "TR/ST",
+              "show_date": "2026-10-23",
+              "show_time": "18:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZvQp"
             }
           ]
         },
@@ -473,7 +462,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 21,
+          "show_count": 22,
           "shows": [
             {
               "artist": "DOMi + JD Beck",
@@ -580,15 +569,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 55,
+          "show_count": 54,
           "shows": [
-            {
-              "artist": "MC Abdul",
-              "show_date": "2026-10-03",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mc-abdul-brick-and-mortar-music-hall-tickets/14298344"
-            },
             {
               "artist": "RC AVENUE + Ebony Loren",
               "show_date": "2026-10-04",
@@ -665,6 +647,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ella-boh-blurry-brick-and-mortar-music-hall-tickets/14996023"
+            },
+            {
+              "artist": "Jenna Raine",
+              "show_date": "2026-10-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe03"
             }
           ]
         },
@@ -677,22 +666,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 57,
+          "show_count": 55,
           "shows": [
-            {
-              "artist": "Stu & The Kojaks/ Jo/Mo Riders/ Jenifer McKitrick Band/ Joe Dileo",
-              "show_date": "2026-10-03",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stu-the-kojaks-jomo-neck-of-the-woods-tickets/14281804"
-            },
-            {
-              "artist": "Personal Space Man/ Eli Elisco/ Starfari",
-              "show_date": "2026-10-03",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/personal-space-man-eli-elisco-neck-of-the-woods-tickets/14318864"
-            },
             {
               "artist": "Gloomhead/ Jenny Haniver(PDX)/ Whine",
               "show_date": "2026-10-04",
@@ -762,6 +737,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227454"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-10-14",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032634"
+            },
+            {
+              "artist": "\u200b\u200b\u200b\u200b\u200b\u200b\u200bMoral Law/ A Year Ago Today/ A Life Spent/ altar/ xMagdalenex",
+              "show_date": "2026-10-15",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/moral-law-a-year-ago-neck-of-the-woods-tickets/14296374"
             }
           ]
         }
