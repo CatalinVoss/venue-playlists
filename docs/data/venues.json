@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:20:39.043542+00:00",
+  "generated_at": "2026-10-05T14:36:25.619274+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 72,
+          "show_count": 71,
           "shows": [
-            {
-              "artist": "rusowsky",
-              "show_date": "2026-10-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rusowsky-the-independent-tickets/14888343"
-            },
             {
               "artist": "Enter Shikari",
               "show_date": "2026-10-06",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/juice-the-independent-tickets/14249674"
+            },
+            {
+              "artist": "Lost Kings",
+              "show_date": "2026-10-15",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lost-kings-the-independent-tickets/14279214"
             }
           ]
         },
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 6,
           "shows": [
-            {
-              "artist": "Ecca Vandal",
-              "show_date": "2026-10-04",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Speed of Light"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/ecca-vandal-104-san-francisco-california-10-04-2026/event/1C0064F5C943FC84"
-            },
             {
               "artist": "Dua Saleh",
               "show_date": "2026-10-06",
@@ -279,15 +270,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 44,
+          "show_count": 43,
           "shows": [
-            {
-              "artist": "Groundation",
-              "show_date": "2026-10-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSqa"
-            },
             {
               "artist": "The Menzingers",
               "show_date": "2026-10-06",
@@ -374,6 +358,13 @@
               "show_time": "18:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZvQp"
+            },
+            {
+              "artist": "illuminati hotties",
+              "show_date": "2026-10-24",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
             }
           ]
         },
@@ -569,15 +560,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 54,
+          "show_count": 52,
           "shows": [
-            {
-              "artist": "RC AVENUE + Ebony Loren",
-              "show_date": "2026-10-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rc-avenue-ebony-loren-brick-and-mortar-music-hall-tickets/14294014"
-            },
             {
               "artist": "TELESCREENS",
               "show_date": "2026-10-06",
@@ -602,7 +586,7 @@
             {
               "artist": "Yung Fazo, Cthrurio, SophomoreNoir, Jsprings",
               "show_date": "2026-10-09",
-              "show_time": "21:00:00",
+              "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yung-fazo-cthrurio-jsprings-sophomorenoir-brick-and-mortar-music-hall-tickets/14320874"
             },
@@ -654,6 +638,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe03"
+            },
+            {
+              "artist": "Jenna Raine",
+              "show_date": "2026-10-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jenna-raine-zoe-levert-brick-and-mortar-music-hall-tickets/14954473"
             }
           ]
         },
@@ -668,13 +659,6 @@
           "stale": false,
           "show_count": 55,
           "shows": [
-            {
-              "artist": "Gloomhead/ Jenny Haniver(PDX)/ Whine",
-              "show_date": "2026-10-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/gloomhead-jenny-haniverpdx-whine-neck-of-the-woods-tickets/14288594"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-10-06",
@@ -722,7 +706,7 @@
               "show_date": "2026-10-10",
               "show_time": "20:30:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dlek-mars-kumari-neck-of-the-woods-tickets/15042763"
+              "ticket_url": "https://www.ticketweb.com/event/dlek-anthroponeural-mars-kumari-neck-of-the-woods-tickets/15042763"
             },
             {
               "artist": "Cross Stich/ Let Them Eat Horses/ Luna Ivy/ Splendor",
@@ -751,6 +735,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/moral-law-a-year-ago-neck-of-the-woods-tickets/14296374"
+            },
+            {
+              "artist": "Parabellum",
+              "show_date": "2026-10-16",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/blind-illusion-hemotoxin-parabellum-neck-of-the-woods-tickets/14303934"
             }
           ]
         }
