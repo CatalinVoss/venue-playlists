@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:36:25.619274+00:00",
+  "generated_at": "2026-10-06T13:17:23.435652+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -110,7 +110,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 7,
           "shows": [
             {
               "artist": "Dua Saleh",
@@ -136,6 +136,13 @@
                 "Khatumu"
               ],
               "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
+            },
+            {
+              "artist": "Forrest Nolan",
+              "show_date": "2026-11-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/forrest-nolan-san-francisco-california-11-08-2026/event/1C006539DDBBE763"
             },
             {
               "artist": "Francisca Valenzuela",
@@ -405,7 +412,7 @@
               "show_date": "2026-10-19",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/spencer-krug-swedish-american-hall-tickets/14994153"
+              "ticket_url": "https://www.ticketweb.com/event/spencer-krug-with-emory-duncan-swedish-american-hall-tickets/14994153"
             },
             {
               "artist": "Conspiracy of Beards",
@@ -560,14 +567,14 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 52,
+          "show_count": 53,
           "shows": [
             {
-              "artist": "TELESCREENS",
+              "artist": "TELESCREENS + DETHCAPS",
               "show_date": "2026-10-06",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/telescreens-brick-and-mortar-music-hall-tickets/14197254"
+              "ticket_url": "https://www.ticketweb.com/event/telescreens-dethcaps-brick-and-mortar-music-hall-tickets/14197254"
             },
             {
               "artist": "The Animeros + Edgar",
