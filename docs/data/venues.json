@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:17:23.435652+00:00",
+  "generated_at": "2026-10-07T13:21:58.655193+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 71,
+          "show_count": 69,
           "shows": [
-            {
-              "artist": "Enter Shikari",
-              "show_date": "2026-10-06",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/enter-shikari-the-independent-tickets/14820563"
-            },
-            {
-              "artist": "Cure for Paranoia",
-              "show_date": "2026-10-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cure-for-paranoia-the-independent-tickets/15016273"
-            },
             {
               "artist": "Deer Tick",
               "show_date": "2026-10-07",
@@ -98,6 +84,22 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lost-kings-the-independent-tickets/14279214"
+            },
+            {
+              "artist": "This Is Lorelei",
+              "show_date": "2026-10-16",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/this-is-lorelei-the-independent-tickets/14908303"
+            },
+            {
+              "artist": "Asha Banks",
+              "show_date": "2026-10-17",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Alfie Jukes"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/asha-banks-the-independent-tickets/14202424"
             }
           ]
         },
@@ -110,15 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 6,
           "shows": [
-            {
-              "artist": "Dua Saleh",
-              "show_date": "2026-10-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x7-V"
-            },
             {
               "artist": "Zolita",
               "show_date": "2026-10-13",
@@ -142,7 +137,7 @@
               "show_date": "2026-11-08",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/forrest-nolan-san-francisco-california-11-08-2026/event/1C006539DDBBE763"
+              "ticket_url": "https://www.ticketmaster.com/forrest-nolan-indie-movie-soundtrack-album-san-francisco-california-11-08-2026/event/1C006539DDBBE763"
             },
             {
               "artist": "Francisca Valenzuela",
@@ -280,18 +275,11 @@
           "show_count": 43,
           "shows": [
             {
-              "artist": "The Menzingers",
-              "show_date": "2026-10-06",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7038K"
-            },
-            {
               "artist": "Dresden Dolls",
               "show_date": "2026-10-07",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_K"
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xv9"
             },
             {
               "artist": "Phillip Phillips",
@@ -372,6 +360,16 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
+            },
+            {
+              "artist": "Inner Wave",
+              "show_date": "2026-10-26",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Heathers the Musical",
+                "The Fazes"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_P"
             }
           ]
         },
@@ -384,7 +382,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 10,
           "shows": [
             {
               "artist": "Jacob Alon",
@@ -448,6 +446,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/taba-chake-postponed-swedish-american-hall-tickets/13947574"
+            },
+            {
+              "artist": "The Arcadian Wild",
+              "show_date": "2027-01-30",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-arcadian-wild-swedish-american-hall-tickets/14348954"
             }
           ]
         },
@@ -460,7 +465,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 23,
           "shows": [
             {
               "artist": "DOMi + JD Beck",
@@ -508,7 +513,7 @@
               "show_date": "2026-10-17",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14933603"
+              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365-club-tickets/14933603"
             },
             {
               "artist": "Stella Lefty",
@@ -569,13 +574,6 @@
           "stale": false,
           "show_count": 53,
           "shows": [
-            {
-              "artist": "TELESCREENS + DETHCAPS",
-              "show_date": "2026-10-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/telescreens-dethcaps-brick-and-mortar-music-hall-tickets/14197254"
-            },
             {
               "artist": "The Animeros + Edgar",
               "show_date": "2026-10-07",
@@ -652,6 +650,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/jenna-raine-zoe-levert-brick-and-mortar-music-hall-tickets/14954473"
+            },
+            {
+              "artist": "T\u014dth",
+              "show_date": "2026-10-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tth-brick-and-mortar-music-hall-tickets/14964683"
             }
           ]
         },
@@ -664,15 +669,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 55,
+          "show_count": 56,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-10-06",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227094"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-10-07",
@@ -749,6 +747,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/blind-illusion-hemotoxin-parabellum-neck-of-the-woods-tickets/14303934"
+            },
+            {
+              "artist": "Lil Darkie (album release show)",
+              "show_date": "2026-10-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lil-darkie-album-release-show-neck-of-the-woods-tickets/14322794"
             }
           ]
         }

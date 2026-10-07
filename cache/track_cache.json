@@ -6808,5 +6808,70 @@
     }
   ],
   "TELESCREENS + DETHCAPS": [],
-  "Coral 9, Bazooka, Dogwater": []
+  "Coral 9, Bazooka, Dogwater": [],
+  "AJJ": [
+    {
+      "uri": "spotify:track:4epSzmo6Xw01vTgGoYb2KR",
+      "name": "Brave as a Noun",
+      "artist": "AJJ"
+    },
+    {
+      "uri": "spotify:track:0KnqMZwoZC2uLrdRV1MlsJ",
+      "name": "People II: The Reckoning",
+      "artist": "AJJ"
+    },
+    {
+      "uri": "spotify:track:2E4v4XuZFuYatR565Xy1ze",
+      "name": "People",
+      "artist": "AJJ"
+    }
+  ],
+  "The Arcadian Wild": [
+    {
+      "uri": "spotify:track:1wnzObJCAy4gUkrOopnoYh",
+      "name": "Rain Clouds",
+      "artist": "The Arcadian Wild"
+    },
+    {
+      "uri": "spotify:track:0zxnL9bFmjunHORMq9q7Uk",
+      "name": "Wolves of the Revolution",
+      "artist": "The Arcadian Wild"
+    },
+    {
+      "uri": "spotify:track:3LwXu2lo0756y3aK7gLqY5",
+      "name": "Welcome",
+      "artist": "The Arcadian Wild"
+    }
+  ],
+  "Sasha Alex Sloan": [
+    {
+      "uri": "spotify:track:4aSfgWmRa9KsISD4Jmx7QB",
+      "name": "This Town (feat. Sasha Alex Sloan)",
+      "artist": "Sasha Alex Sloan"
+    },
+    {
+      "uri": "spotify:track:1TQXIltqoZ5XXyfCbAeSQQ",
+      "name": "Dancing With Your Ghost",
+      "artist": "Sasha Alex Sloan"
+    },
+    {
+      "uri": "spotify:track:33QVqfl5dHDNqNCLcJWp0M",
+      "name": "Fun",
+      "artist": "Sasha Alex Sloan"
+    }
+  ],
+  "Brothel In Belize \u2014 Machine Machine Fall 2026": [],
+  "Sutekh Hexen/ Sin Pavilion/ Home Is The Void/ Silakbo": [],
+  "Dead Butterflies": [
+    {
+      "uri": "spotify:track:5liZ62WdEKb2oLHjKCv2Hs",
+      "name": "embers",
+      "artist": "Dead Butterflies"
+    },
+    {
+      "uri": "spotify:track:75UhzxmalfS1czw7AJ4jkO",
+      "name": "Constellations",
+      "artist": "Dead Butterflies"
+    }
+  ]
 }
