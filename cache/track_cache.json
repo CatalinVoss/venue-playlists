@@ -6873,5 +6873,24 @@
       "name": "Constellations",
       "artist": "Dead Butterflies"
     }
-  ]
+  ],
+  "Odezenne": [
+    {
+      "uri": "spotify:track:51pCXIv46lQcfwtWXotX0p",
+      "name": "Bleu fuchsia",
+      "artist": "Odezenne"
+    },
+    {
+      "uri": "spotify:track:1eJtcxHR2jiDgG1EtYT9Km",
+      "name": "Souffle le vent",
+      "artist": "Odezenne"
+    },
+    {
+      "uri": "spotify:track:2hmXZfnD3GhB18MdT2aL9x",
+      "name": "Sot-l'y-laisse",
+      "artist": "Odezenne"
+    }
+  ],
+  "Coral 9, Bazooka, Dogwater, DJ Kalamansi": [],
+  "Mikey Vee, Lyka B, Solus The Happy Human": []
 }

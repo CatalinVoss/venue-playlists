@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:21:58.655193+00:00",
+  "generated_at": "2026-10-08T13:27:53.462690+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 69,
           "shows": [
-            {
-              "artist": "Deer Tick",
-              "show_date": "2026-10-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/deer-tick-the-independent-tickets/14758773"
-            },
             {
               "artist": "The Breaks",
               "show_date": "2026-10-08",
@@ -100,6 +93,13 @@
                 "Alfie Jukes"
               ],
               "ticket_url": "https://www.ticketweb.com/event/asha-banks-the-independent-tickets/14202424"
+            },
+            {
+              "artist": "Raaginder",
+              "show_date": "2026-10-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/raaginder-the-independent-tickets/14264794"
             }
           ]
         },
@@ -171,15 +171,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 21,
+          "show_count": 20,
           "shows": [
-            {
-              "artist": "Lloyd Cole",
-              "show_date": "2026-10-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo3"
-            },
             {
               "artist": "Militarie Gun",
               "show_date": "2026-10-13",
@@ -260,6 +253,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3p3"
+            },
+            {
+              "artist": "Marc Broussard",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pK"
             }
           ]
         },
@@ -272,15 +272,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 43,
+          "show_count": 42,
           "shows": [
-            {
-              "artist": "Dresden Dolls",
-              "show_date": "2026-10-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xv9"
-            },
             {
               "artist": "Phillip Phillips",
               "show_date": "2026-10-09",
@@ -370,6 +363,13 @@
                 "The Fazes"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_P"
+            },
+            {
+              "artist": "Wand",
+              "show_date": "2026-10-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_J"
             }
           ]
         },
@@ -382,15 +382,8 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 10,
+          "show_count": 9,
           "shows": [
-            {
-              "artist": "Jacob Alon",
-              "show_date": "2026-10-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jacob-alon-with-dogpatch-swedish-american-hall-tickets/14956393"
-            },
             {
               "artist": "Allan Rayman",
               "show_date": "2026-10-16",
@@ -575,13 +568,6 @@
           "show_count": 53,
           "shows": [
             {
-              "artist": "The Animeros + Edgar",
-              "show_date": "2026-10-07",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-animeros-edgar-brick-and-mortar-music-hall-tickets/14264314"
-            },
-            {
               "artist": "L\u00d8L\u00d8, Mylie Taylor",
               "show_date": "2026-10-08",
               "show_time": "20:00:00",
@@ -657,6 +643,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/tth-brick-and-mortar-music-hall-tickets/14964683"
+            },
+            {
+              "artist": "Yana",
+              "show_date": "2026-10-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/yana-the-feelings-are-brick-and-mortar-music-hall-tickets/14269664"
             }
           ]
         },
@@ -669,15 +662,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 56,
+          "show_count": 55,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-10-07",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032764"
-            },
             {
               "artist": "Filth is Eternal",
               "show_date": "2026-10-08",
@@ -754,6 +740,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lil-darkie-album-release-show-neck-of-the-woods-tickets/14322794"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-10-20",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227144"
             }
           ]
         }
