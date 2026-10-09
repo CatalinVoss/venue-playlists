@@ -6892,5 +6892,58 @@
     }
   ],
   "Coral 9, Bazooka, Dogwater, DJ Kalamansi": [],
-  "Mikey Vee, Lyka B, Solus The Happy Human": []
+  "Mikey Vee, Lyka B, Solus The Happy Human": [],
+  "The Polish Ambassador": [
+    {
+      "uri": "spotify:track:68MsVSVZO8eSPdqPfhG83A",
+      "name": "Let the Rhythm Just",
+      "artist": "The Polish Ambassador"
+    },
+    {
+      "uri": "spotify:track:546CDzOmQMSMCCKZ86BbZK",
+      "name": "Take Wing",
+      "artist": "The Polish Ambassador"
+    },
+    {
+      "uri": "spotify:track:4Fi9Z7pIEtJA2JA2ahtcrl",
+      "name": "Bebe",
+      "artist": "The Polish Ambassador"
+    }
+  ],
+  "Romare": [
+    {
+      "uri": "spotify:track:04jqhpf3oV06HtlmthfcZZ",
+      "name": "All Night",
+      "artist": "Romare"
+    },
+    {
+      "uri": "spotify:track:4CjEkkRMMKY2ROy21bFNrc",
+      "name": "Down the Line - It Takes a Number",
+      "artist": "Romare"
+    },
+    {
+      "uri": "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+      "name": "Hey Now - When I Give You All My Lovin'",
+      "artist": "Romare"
+    }
+  ],
+  "Ignite": [],
+  "PRATT & MOODY": [
+    {
+      "uri": "spotify:track:6HkvqrNYLohl2F7Ei07p5d",
+      "name": "Lost Lost Lost",
+      "artist": "Pratt & Moody"
+    },
+    {
+      "uri": "spotify:track:5UndCSjS9gJQhNh9wdLKJd",
+      "name": "Wheels Turning",
+      "artist": "Pratt & Moody"
+    },
+    {
+      "uri": "spotify:track:0VZDZSyOVFp8K8onMGA7f4",
+      "name": "Lost Lost Lost - Instrumental",
+      "artist": "Pratt & Moody"
+    }
+  ],
+  "Modern Monsters": []
 }

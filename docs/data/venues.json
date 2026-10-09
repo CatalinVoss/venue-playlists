@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:27:53.462690+00:00",
+  "generated_at": "2026-10-09T13:15:45.549870+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 69,
+          "show_count": 70,
           "shows": [
-            {
-              "artist": "The Breaks",
-              "show_date": "2026-10-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-breaks-the-independent-tickets/14996033"
-            },
             {
               "artist": "Devon Gilfillian",
               "show_date": "2026-10-09",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/raaginder-the-independent-tickets/14264794"
+            },
+            {
+              "artist": "Vox Rea",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/new-constellations-the-independent-tickets/14228524"
             }
           ]
         },
@@ -565,15 +565,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 53,
+          "show_count": 54,
           "shows": [
-            {
-              "artist": "L\u00d8L\u00d8, Mylie Taylor",
-              "show_date": "2026-10-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ll-mylie-taylor-brick-and-mortar-music-hall-tickets/14925953"
-            },
             {
               "artist": "Yung Fazo, Cthrurio, SophomoreNoir, Jsprings",
               "show_date": "2026-10-09",
@@ -650,6 +643,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yana-the-feelings-are-brick-and-mortar-music-hall-tickets/14269664"
+            },
+            {
+              "artist": "WESLEY JOSEPH",
+              "show_date": "2026-10-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wesley-joseph-brick-and-mortar-music-hall-tickets/14852273"
             }
           ]
         },
@@ -664,13 +664,6 @@
           "stale": false,
           "show_count": 55,
           "shows": [
-            {
-              "artist": "Filth is Eternal",
-              "show_date": "2026-10-08",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/drag-talk-filth-is-eternal-neck-of-the-woods-tickets/14999073"
-            },
             {
               "artist": "Kaiju Tour: Trizz & Noa James",
               "show_date": "2026-10-09",
@@ -747,6 +740,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227144"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-10-21",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032824"
             }
           ]
         }
