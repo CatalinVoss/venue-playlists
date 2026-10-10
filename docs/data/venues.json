@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:15:45.549870+00:00",
+  "generated_at": "2026-10-10T12:30:38.197841+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 69,
           "shows": [
-            {
-              "artist": "Devon Gilfillian",
-              "show_date": "2026-10-09",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/devon-gilfillian-the-independent-tickets/14982233"
-            },
             {
               "artist": "Dublon",
               "show_date": "2026-10-10",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/new-constellations-the-independent-tickets/14228524"
+            },
+            {
+              "artist": "Sawyer Hill",
+              "show_date": "2026-10-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sawyer-hill-the-independent-tickets/14972813"
             }
           ]
         },
@@ -171,8 +171,15 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 32,
           "shows": [
+            {
+              "artist": "Derya Yildirim",
+              "show_date": "2026-10-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv0_v"
+            },
             {
               "artist": "Militarie Gun",
               "show_date": "2026-10-13",
@@ -192,6 +199,13 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvO"
             },
             {
+              "artist": "Miko Marks",
+              "show_date": "2026-10-18",
+              "show_time": "18:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77_E"
+            },
+            {
               "artist": "Hovvdy",
               "show_date": "2026-10-19",
               "show_time": "20:00:00",
@@ -204,6 +218,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mof"
+            },
+            {
+              "artist": "Frightwig",
+              "show_date": "2026-10-23",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77QA"
             },
             {
               "artist": "The War And Treaty",
@@ -227,39 +248,20 @@
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvN"
             },
             {
+              "artist": "Lebo",
+              "show_date": "2026-10-30",
+              "show_time": "20:30:00",
+              "support_acts": [
+                "Holly Bowling"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77Qa"
+            },
+            {
               "artist": "The Limi\u00f1anas",
               "show_date": "2026-11-04",
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vO"
-            },
-            {
-              "artist": "Squirrel Flower",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mop"
-            },
-            {
-              "artist": "Alex Cameron",
-              "show_date": "2026-11-07",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo9"
-            },
-            {
-              "artist": "Buzzcocks",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3p3"
-            },
-            {
-              "artist": "Marc Broussard",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pK"
             }
           ]
         },
@@ -272,17 +274,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 42,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Phillip Phillips",
-              "show_date": "2026-10-09",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Elias Hix"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pte9"
-            },
             {
               "artist": "Provoker",
               "show_date": "2026-10-13",
@@ -370,6 +363,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_J"
+            },
+            {
+              "artist": "Pixel Grip",
+              "show_date": "2026-10-28",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Dark Chisme"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_E"
             }
           ]
         },
@@ -458,15 +460,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "DOMi + JD Beck",
-              "show_date": "2026-10-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/domijdbeck-who-asked-tour-bimbos-365-club-tickets/14257304"
-            },
             {
               "artist": "MARO",
               "show_date": "2026-10-12",
@@ -553,6 +548,16 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-tickets/14312824"
+            },
+            {
+              "artist": "Hug",
+              "show_date": "2026-11-20",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Gyan Riley",
+                "Devendra Banhart"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-365-club-tickets/14234634"
             }
           ]
         },
@@ -567,13 +572,6 @@
           "stale": false,
           "show_count": 54,
           "shows": [
-            {
-              "artist": "Yung Fazo, Cthrurio, SophomoreNoir, Jsprings",
-              "show_date": "2026-10-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yung-fazo-cthrurio-jsprings-sophomorenoir-brick-and-mortar-music-hall-tickets/14320874"
-            },
             {
               "artist": "Paige Fish \u2014 The Midnight Crisis Tour",
               "show_date": "2026-10-10",
@@ -650,6 +648,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/wesley-joseph-brick-and-mortar-music-hall-tickets/14852273"
+            },
+            {
+              "artist": "REZN",
+              "show_date": "2026-10-23",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70bf_"
             }
           ]
         },
@@ -665,25 +670,11 @@
           "show_count": 55,
           "shows": [
             {
-              "artist": "Kaiju Tour: Trizz & Noa James",
-              "show_date": "2026-10-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kaiju-tour-trizz-noa-neck-of-the-woods-tickets/14330654"
-            },
-            {
-              "artist": "Swapmeet/ Joyer",
-              "show_date": "2026-10-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/swapmeet-joyer-neck-of-the-woods-tickets/14191544"
-            },
-            {
               "artist": "Dri",
               "show_date": "2026-10-10",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dri-scattered-guts-tba-neck-of-the-woods-tickets/14262244"
+              "ticket_url": "https://www.ticketweb.com/event/dri-scattered-guts-fatale-neck-of-the-woods-tickets/14262244"
             },
             {
               "artist": "D\u00e4lek",
@@ -747,6 +738,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032824"
+            },
+            {
+              "artist": "Big Ass Truck",
+              "show_date": "2026-10-21",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/big-ass-truck-chamber-mugshot-neck-of-the-woods-tickets/15041143"
+            },
+            {
+              "artist": "Stratejacket/ 100% Jennifer/ The Shirley's",
+              "show_date": "2026-10-22",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stratejacket-100-jennifer-the-shirleys-neck-of-the-woods-tickets/14373094"
             }
           ]
         }

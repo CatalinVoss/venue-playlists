@@ -6945,5 +6945,157 @@
       "artist": "Pratt & Moody"
     }
   ],
-  "Modern Monsters": []
+  "Modern Monsters": [],
+  "Derya Yildirim": [
+    {
+      "uri": "spotify:track:6k5V1UHTZoaQ5ULkIEYACx",
+      "name": "Bal",
+      "artist": "Derya Yildirim"
+    }
+  ],
+  "Miko Marks": [
+    {
+      "uri": "spotify:track:210Y0oxLqNI4Mnq9M84xGV",
+      "name": "Feel Like Going Home",
+      "artist": "Miko Marks"
+    },
+    {
+      "uri": "spotify:track:2p0tjd5csHGSpgY3ZNlV65",
+      "name": "Long as I Can See the Light",
+      "artist": "Miko Marks"
+    },
+    {
+      "uri": "spotify:track:0fP0OD5LHgrn6KjsacwGVs",
+      "name": "Ancestors",
+      "artist": "Miko Marks"
+    }
+  ],
+  "Frightwig": [
+    {
+      "uri": "spotify:track:49kXmTG1dLNm4aI8IaYg30",
+      "name": "My Crotch Does Not Say Go",
+      "artist": "Frightwig"
+    },
+    {
+      "uri": "spotify:track:7H1Kp9JSMEMRd7qV3avAcX",
+      "name": "Hot Air Rising",
+      "artist": "Frightwig"
+    },
+    {
+      "uri": "spotify:track:3ixHraNosuQd3rMowpiSfT",
+      "name": "I Want To Live",
+      "artist": "Frightwig"
+    }
+  ],
+  "Lebo": [],
+  "Poi Dog Pondering": [
+    {
+      "uri": "spotify:track:2mdUkIgM2en0pEU6n4qtC8",
+      "name": "Complicated",
+      "artist": "Poi Dog Pondering"
+    },
+    {
+      "uri": "spotify:track:7qQsX9g7QYihsJC82gYdED",
+      "name": "Everybody's Trying",
+      "artist": "Poi Dog Pondering"
+    },
+    {
+      "uri": "spotify:track:3IMrhjWzdUyvoyOiAxHqsJ",
+      "name": "Be The One",
+      "artist": "Poi Dog Pondering"
+    }
+  ],
+  "Chuck Prophet": [
+    {
+      "uri": "spotify:track:1cip9sLyXtKxDoUonU3uAP",
+      "name": "Summertime Thing",
+      "artist": "Chuck Prophet"
+    },
+    {
+      "uri": "spotify:track:281CgwIOwd0fpGmqlLoARD",
+      "name": "No Other Love",
+      "artist": "Chuck Prophet"
+    },
+    {
+      "uri": "spotify:track:3xJThhFdOnME2pLdxmXw3b",
+      "name": "You Did (Bomp Shooby Dooby Bomp)",
+      "artist": "Chuck Prophet"
+    }
+  ],
+  "The Loved Ones": [
+    {
+      "uri": "spotify:track:6XzFNFLjh0SJ2gS00mkScQ",
+      "name": "Jane",
+      "artist": "The Loved Ones"
+    }
+  ],
+  "Western Standard Time Ska Orchestra": [
+    {
+      "uri": "spotify:track:6m0UuS1Ahypqe5JxKdzLKJ",
+      "name": "Fortified",
+      "artist": "Western Standard Time Ska Orchestra"
+    },
+    {
+      "uri": "spotify:track:2mQhjKTCuz12wo4giZL4AT",
+      "name": "Bedouin Ska",
+      "artist": "Western Standard Time Ska Orchestra"
+    },
+    {
+      "uri": "spotify:track:6GTDIKsxYWJcIeFMuomM2P",
+      "name": "Ska in Vienna Woods",
+      "artist": "Western Standard Time Ska Orchestra"
+    }
+  ],
+  "Swirlies": [
+    {
+      "uri": "spotify:track:00YCRrySf0dJ6nRCKYSAkA",
+      "name": "Pancake",
+      "artist": "Swirlies"
+    },
+    {
+      "uri": "spotify:track:738TbvFzrI2w1dd1j092wm",
+      "name": "Two Girls Kissing",
+      "artist": "Swirlies"
+    },
+    {
+      "uri": "spotify:track:2XPa3XYueFqiQhgW3fexkD",
+      "name": "Sunn",
+      "artist": "Swirlies"
+    }
+  ],
+  "Fruition": [
+    {
+      "uri": "spotify:track:1dgRDbz8ozbYYdXkAKJpSj",
+      "name": "The Meaning",
+      "artist": "Fruition"
+    },
+    {
+      "uri": "spotify:track:4SFGLvwmkUukUezIJIKFEL",
+      "name": "Mountain Annie",
+      "artist": "Fruition"
+    },
+    {
+      "uri": "spotify:track:0kQ8IXa4K3BiPnvecqqO78",
+      "name": "'Til You Come By Here",
+      "artist": "Fruition"
+    }
+  ],
+  "Stratejacket/ 100% Jennifer/ The Shirley's": [],
+  "Roman Candle/ Postdrome/ TBA": [
+    {
+      "uri": "spotify:track:29vdtH081hEDMhZQdUelzn",
+      "name": "Can We Watch Something Happy?",
+      "artist": "Roman Candle"
+    },
+    {
+      "uri": "spotify:track:7u0N5AYf7ev2hUfiSRj4g7",
+      "name": "Blasphemous Act",
+      "artist": "Roman Candle"
+    },
+    {
+      "uri": "spotify:track:3rEBBBnFkNfedOoR54NwUl",
+      "name": "This Band Has Led Me To Places I Wouldn't Go With A Gun",
+      "artist": "Roman Candle"
+    }
+  ]
 }
