@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:48:36.339250+00:00",
+  "generated_at": "2026-10-12T15:23:22.648443+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 68,
+          "show_count": 67,
           "shows": [
-            {
-              "artist": "Santiago Cruz",
-              "show_date": "2026-10-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/santiago-cruz-the-independent-tickets/14893513"
-            },
             {
               "artist": "KiNG MALA",
               "show_date": "2026-10-12",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/city-of-the-sun-the-independent-tickets/14249664"
+            },
+            {
+              "artist": "Frankie Cosmos",
+              "show_date": "2026-10-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/frankie-cosmos-celebrating-the-independent-tickets/14919283"
             }
           ]
         },
@@ -173,13 +173,6 @@
           "stale": false,
           "show_count": 32,
           "shows": [
-            {
-              "artist": "Derya Yildirim",
-              "show_date": "2026-10-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv0_v"
-            },
             {
               "artist": "Militarie Gun",
               "show_date": "2026-10-13",
@@ -262,6 +255,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vO"
+            },
+            {
+              "artist": "Squirrel Flower",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mop"
             }
           ]
         },
@@ -573,13 +573,6 @@
           "show_count": 53,
           "shows": [
             {
-              "artist": "Moneyhillcasino",
-              "show_date": "2026-10-11",
-              "show_time": "14:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/moneyhillcasino-brick-and-mortar-music-hall-tickets/15031233?REFERRAL_ID=tmfeed"
-            },
-            {
               "artist": "Dani Offline \u2014 Lover's Discourse Live w/ Amanda Maga\u00f1a",
               "show_date": "2026-10-13",
               "show_time": "20:00:00",
@@ -655,6 +648,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/rezn-lowheaven-mountaineer-brick-and-mortar-music-hall-tickets/14907393"
+            },
+            {
+              "artist": "she's green",
+              "show_date": "2026-10-24",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/shes-green-brick-and-mortar-music-hall-tickets/14250864"
             }
           ]
         },
@@ -669,13 +669,6 @@
           "stale": false,
           "show_count": 53,
           "shows": [
-            {
-              "artist": "Cross Stich/ Let Them Eat Horses/ Luna Ivy/ Splendor",
-              "show_date": "2026-10-11",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cross-stich-let-them-eat-neck-of-the-woods-tickets/14304234"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-10-13",
@@ -752,6 +745,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/till-im-dead-fest-2-neck-of-the-woods-tickets/14270064"
+            },
+            {
+              "artist": "Smush/ Sofia & The Afterglow",
+              "show_date": "2026-10-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/smush-sofia-the-afterglow-neck-of-the-woods-tickets/14303574"
             }
           ]
         }

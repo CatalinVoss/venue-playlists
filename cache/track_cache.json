@@ -7097,5 +7097,34 @@
       "name": "This Band Has Led Me To Places I Wouldn't Go With A Gun",
       "artist": "Roman Candle"
     }
+  ],
+  "Rebirth Brass Band": [
+    {
+      "uri": "spotify:track:5UqzRN9qi2oxmKWff9oIRC",
+      "name": "Do Whatcha Wanna",
+      "artist": "Rebirth Brass Band"
+    },
+    {
+      "uri": "spotify:track:45wVHx4mkMrIWUjbELiuqG",
+      "name": "Feel Like Funkin' It Up",
+      "artist": "Rebirth Brass Band"
+    },
+    {
+      "uri": "spotify:track:6ejv6MUEHrh0WetjCuB4K1",
+      "name": "Cassanova",
+      "artist": "Rebirth Brass Band"
+    }
+  ],
+  "Sunshine Benzie": [
+    {
+      "uri": "spotify:track:3BxLswSYNlXq7ns1xbIwWE",
+      "name": "EASTSIDE",
+      "artist": "SUNSHINE BENZI"
+    },
+    {
+      "uri": "spotify:track:005AxnprSNhhqOfSaXASXy",
+      "name": "WAKO",
+      "artist": "SUNSHINE BENZI"
+    }
   ]
 }
