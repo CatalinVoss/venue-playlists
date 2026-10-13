@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:23:22.648443+00:00",
+  "generated_at": "2026-10-13T14:10:22.920358+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 67,
+          "show_count": 65,
           "shows": [
-            {
-              "artist": "KiNG MALA",
-              "show_date": "2026-10-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J74o"
-            },
-            {
-              "artist": "KiNG MALA",
-              "show_date": "2026-10-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/king-mala-the-independent-tickets/14234674"
-            },
             {
               "artist": "Automatic",
               "show_date": "2026-10-13",
@@ -100,6 +86,22 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/frankie-cosmos-celebrating-the-independent-tickets/14919283"
+            },
+            {
+              "artist": "Frog",
+              "show_date": "2026-10-23",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/frog-the-independent-tickets/14212974"
+            },
+            {
+              "artist": "Everclear",
+              "show_date": "2026-10-24",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "American Hi-Fi"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/everclear-with-american-hi-fi-the-independent-tickets/14924703"
             }
           ]
         },
@@ -168,7 +170,7 @@
           "city": "San Francisco",
           "playlist_id": "0KU33vGbpd76oXLdLJ9b82",
           "playlist_url": "https://open.spotify.com/playlist/0KU33vGbpd76oXLdLJ9b82",
-          "cover": "assets/covers/the-chapel-sf.jpg",
+          "cover": null,
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
           "show_count": 32,
@@ -381,7 +383,7 @@
           "city": "San Francisco",
           "playlist_id": "1Iu3Bq39lNvyH0sh9BPfVn",
           "playlist_url": "https://open.spotify.com/playlist/1Iu3Bq39lNvyH0sh9BPfVn",
-          "cover": "assets/covers/swedish-american-hall-sf.jpg",
+          "cover": null,
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
           "show_count": 9,
@@ -460,19 +462,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "MARO",
-              "show_date": "2026-10-12",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Manuel Rocha",
-                "Pedro Alterio",
-                "Carbeau"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/maro-so-much-has-changed-moved-san-francisco-california-10-12-2026/event/1C00635B15F4D47F"
-            },
             {
               "artist": "FIGHTMASTER",
               "show_date": "2026-10-14",
@@ -558,6 +549,13 @@
                 "Devendra Banhart"
               ],
               "ticket_url": "https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-365-club-tickets/14234634"
+            },
+            {
+              "artist": "Wonderbread 5",
+              "show_date": "2026-11-27",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/firefighters-holiday-ball-bimbos-365-club-tickets/14325774"
             }
           ]
         },
@@ -615,11 +613,11 @@
               "ticket_url": "https://www.ticketweb.com/event/jenna-raine-zoe-levert-brick-and-mortar-music-hall-tickets/14954473"
             },
             {
-              "artist": "T\u014dth",
+              "artist": "Sean Nicholas Savage",
               "show_date": "2026-10-20",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tth-brick-and-mortar-music-hall-tickets/14964683"
+              "ticket_url": "https://www.ticketweb.com/event/tth-sean-nicholas-savage-brick-and-mortar-music-hall-tickets/14964683"
             },
             {
               "artist": "Yana",
@@ -667,7 +665,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 53,
+          "show_count": 54,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
@@ -740,18 +738,18 @@
               "ticket_url": "https://www.ticketweb.com/event/etch-vicious-cycle-wink-here-neck-of-the-woods-tickets/14346704"
             },
             {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-10-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14375924"
+            },
+            {
               "artist": "Camp Blu",
               "show_date": "2026-10-24",
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/till-im-dead-fest-2-neck-of-the-woods-tickets/14270064"
-            },
-            {
-              "artist": "Smush/ Sofia & The Afterglow",
-              "show_date": "2026-10-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/smush-sofia-the-afterglow-neck-of-the-woods-tickets/14303574"
             }
           ]
         }
