@@ -7144,5 +7144,110 @@
       "artist": "Eliza McLamb"
     }
   ],
-  "Sean Nicholas Savage": []
+  "Sean Nicholas Savage": [],
+  "Nirosta Steel": [
+    {
+      "uri": "spotify:track:2P8CNrkpifFsc1LYjGXE3w",
+      "name": "BOSS TRIX (BENNY'S SONG)",
+      "artist": "Nirosta Steel"
+    },
+    {
+      "uri": "spotify:track:3hFEK5zfSSezpZcP2pBYAL",
+      "name": "MY NAME IS NIGHT",
+      "artist": "Nirosta Steel"
+    },
+    {
+      "uri": "spotify:track:70hWEnSlRAI5ibDlB8LI8Q",
+      "name": "ENGLISH PARTY",
+      "artist": "Nirosta Steel"
+    }
+  ],
+  "Scott Pemberton + The Westones + Boot Juice": [
+    {
+      "uri": "spotify:track:0KSpJIhmFcuVjNDFaP9ZaK",
+      "name": "Awfully Nice Day",
+      "artist": "Scott Pemberton"
+    },
+    {
+      "uri": "spotify:track:2yW7NClprXiTX0kBDXHCWV",
+      "name": "Let's do it",
+      "artist": "Scott Pemberton"
+    }
+  ],
+  "Brokencyde": [
+    {
+      "uri": "spotify:track:25C5cW7ZNems15l2zcqfL3",
+      "name": "Get Crunk",
+      "artist": "Brokencyde"
+    },
+    {
+      "uri": "spotify:track:7rNwCrWh4mUl6XA2nxjV0T",
+      "name": "Freaxxx",
+      "artist": "Brokencyde"
+    },
+    {
+      "uri": "spotify:track:5wNidkcvkw0M3arwdJsmWW",
+      "name": "Scene Girlz",
+      "artist": "Brokencyde"
+    }
+  ],
+  "44phantom": [
+    {
+      "uri": "spotify:track:2qtqIinDwJQzsUofMtkH0D",
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "artist": "44phantom"
+    },
+    {
+      "uri": "spotify:track:0ka1Fs2JGwd0u38J5NWMpZ",
+      "name": "Poison",
+      "artist": "44phantom"
+    },
+    {
+      "uri": "spotify:track:7o6FydJ4BiJCVfEQvjFvKG",
+      "name": "freak",
+      "artist": "44phantom"
+    }
+  ],
+  "Smush/ Sofia & The Afterglow/ Brother M": [
+    {
+      "uri": "spotify:track:21NzjKNEzy2k8hCP9N79NC",
+      "name": "milkweed butterfly",
+      "artist": "smush"
+    },
+    {
+      "uri": "spotify:track:5g8xQIk3iluBf6Ee9GOfe0",
+      "name": "loafofyarn",
+      "artist": "smush"
+    }
+  ],
+  "Deathtape/ Salt+/ TBA": [
+    {
+      "uri": "spotify:track:1C36iBvOkdOtnUs0Hd0NKS",
+      "name": "Tramp Stamp",
+      "artist": "Deathtape"
+    },
+    {
+      "uri": "spotify:track:2kJa2SWsx68fRn2Eajnz6G",
+      "name": "Indifferent",
+      "artist": "Deathtape"
+    }
+  ],
+  "Meadow/ Hoarse/ Skiptrace/ Traceback": [],
+  "Thus Spoke Zarathustra/ Destroy All! Humans/ What I Bleed Is Yours/ Fall of the King": [
+    {
+      "uri": "spotify:track:7m0RVxoyR46mEXVCMSMnGJ",
+      "name": "Artery Records Could Never",
+      "artist": "Thus Spoke Zarathustra"
+    },
+    {
+      "uri": "spotify:track:3i24KSJqu5U32JlpE7bDGb",
+      "name": "G.G.O.",
+      "artist": "Thus Spoke Zarathustra"
+    },
+    {
+      "uri": "spotify:track:6XA9KGC0GiAOsHlBeRKdvP",
+      "name": "Aspongob",
+      "artist": "Thus Spoke Zarathustra"
+    }
+  ]
 }
