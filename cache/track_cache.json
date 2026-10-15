@@ -7249,5 +7249,109 @@
       "name": "Aspongob",
       "artist": "Thus Spoke Zarathustra"
     }
+  ],
+  "Ray and Paul": [
+    {
+      "uri": "spotify:track:2hT6UsbP5kr5RU0SddilIL",
+      "name": "Butterflies",
+      "artist": "Ray and Paul"
+    },
+    {
+      "uri": "spotify:track:5wUH5P8mhsdlXb0Xb0Fxdc",
+      "name": "Get It Right",
+      "artist": "Ray and Paul"
+    },
+    {
+      "uri": "spotify:track:3gOgRYHOwQEBghC33j47YE",
+      "name": "Hearts Don't Stand A Chance",
+      "artist": "Ray and Paul"
+    }
+  ],
+  "Taper's Choice": [
+    {
+      "uri": "spotify:track:39A2PNM20FCz6IEaPOiB8R",
+      "name": "Doner Wrap",
+      "artist": "Taper's Choice"
+    },
+    {
+      "uri": "spotify:track:5cZ92uKENybvyokUbE4OuQ",
+      "name": "Darkness on the Edge of Midtown",
+      "artist": "Taper's Choice"
+    },
+    {
+      "uri": "spotify:track:4kqQWfwDddAiTmUHQpOeDW",
+      "name": "Pino Botticelli",
+      "artist": "Taper's Choice"
+    }
+  ],
+  "The Flatliners": [
+    {
+      "uri": "spotify:track:4cy4EzDUn43Of160ofRAAh",
+      "name": "Eulogy",
+      "artist": "The Flatliners"
+    },
+    {
+      "uri": "spotify:track:5KWUwHg8sTOL0Mtynk6YjN",
+      "name": "Chameleon Skin",
+      "artist": "The Flatliners"
+    },
+    {
+      "uri": "spotify:track:0Zm3dibOquzFAyrqmD4vUM",
+      "name": "This Respirator",
+      "artist": "The Flatliners"
+    }
+  ],
+  "Winona Fighter": [
+    {
+      "uri": "spotify:track:3yOfqcmYBcRZwOhApqfYr5",
+      "name": "HAMMS IN A GLASS",
+      "artist": "Winona Fighter"
+    },
+    {
+      "uri": "spotify:track:6b1ZdCwHInrosE6YSXsvXz",
+      "name": "LEECH",
+      "artist": "Winona Fighter"
+    },
+    {
+      "uri": "spotify:track:3CnYs8UlO8J44WsGBYeMhp",
+      "name": "Swear To God That I'm (FINE)",
+      "artist": "Winona Fighter"
+    }
+  ],
+  "Lotus": [],
+  "Ely Oaks": [
+    {
+      "uri": "spotify:track:5KBM1vB9oIFyw95YgAfRbN",
+      "name": "Babydoll",
+      "artist": "Ely Oaks"
+    },
+    {
+      "uri": "spotify:track:7yNQ5oPcuCC4wTqTcMRIrE",
+      "name": "Running Around",
+      "artist": "Ely Oaks"
+    },
+    {
+      "uri": "spotify:track:0i6IwA0yEGjxHaY7O2PKMH",
+      "name": "Self Aware",
+      "artist": "Ely Oaks"
+    }
+  ],
+  "Fin/ Hellhunter/ Varulf/ Piss Baptism": [],
+  "The Templars": [
+    {
+      "uri": "spotify:track:5klDMw4jb53oo923PcrJDO",
+      "name": "The Sixties Are Over",
+      "artist": "The Templars"
+    },
+    {
+      "uri": "spotify:track:7AePvCNaBg8DQcmRyimN2u",
+      "name": "The Templars",
+      "artist": "The Templars"
+    },
+    {
+      "uri": "spotify:track:4E4vXCo7L8CPisFKJHx9ke",
+      "name": "New York",
+      "artist": "The Templars"
+    }
   ]
 }
