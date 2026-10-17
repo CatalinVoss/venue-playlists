@@ -7360,5 +7360,56 @@
       "name": "Tethered",
       "artist": "Eilish Constance"
     }
+  ],
+  "Ikkimel": [
+    {
+      "uri": "spotify:track:4H0ly29pj5g6vMKum5kkhu",
+      "name": "WHO'S THAT",
+      "artist": "Ikkimel"
+    },
+    {
+      "uri": "spotify:track:2j5jkTuP2gmqN7hDPkfDDd",
+      "name": "Kein Kokain",
+      "artist": "Ikkimel"
+    },
+    {
+      "uri": "spotify:track:6zP4Utvok4QRXlNYBZkpGa",
+      "name": "KETA UND KRAWALL",
+      "artist": "Ikkimel"
+    }
+  ],
+  "James Ivy/ Harry Teardrop": [
+    {
+      "uri": "spotify:track:53Skq6upDsyciherW8ghKD",
+      "name": "Yearbook",
+      "artist": "James Ivy"
+    },
+    {
+      "uri": "spotify:track:6X3z4vJ17GABsHjAotOjap",
+      "name": "Tear",
+      "artist": "James Ivy"
+    },
+    {
+      "uri": "spotify:track:2du5ovPaVjqk1RZSICtflv",
+      "name": "Lima",
+      "artist": "James Ivy"
+    }
+  ],
+  "Deathtape/ Salt+/ A Block/  Secrey Society/ Futile Destiny": [
+    {
+      "uri": "spotify:track:5GF2RMezSBSbLl6Ou5uU79",
+      "name": "Futile",
+      "artist": "Deathtape"
+    },
+    {
+      "uri": "spotify:track:2kJa2SWsx68fRn2Eajnz6G",
+      "name": "Indifferent",
+      "artist": "Deathtape"
+    },
+    {
+      "uri": "spotify:track:1C36iBvOkdOtnUs0Hd0NKS",
+      "name": "Tramp Stamp",
+      "artist": "Deathtape"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:23:01.599114+00:00",
+  "generated_at": "2026-10-17T10:42:44.990658+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 69,
+          "show_count": 72,
           "shows": [
-            {
-              "artist": "This Is Lorelei",
-              "show_date": "2026-10-16",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/this-is-lorelei-the-independent-tickets/14908303"
-            },
             {
               "artist": "Asha Banks",
               "show_date": "2026-10-17",
@@ -104,6 +97,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/patrick-wolf-the-independent-tickets/14993743"
+            },
+            {
+              "artist": "High Step Society",
+              "show_date": "2026-10-30",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/high-step-society-the-independent-tickets/14202524"
             }
           ]
         },
@@ -267,17 +267,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "The Jungle Giants",
-              "show_date": "2026-10-16",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Morning Silk"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_O"
-            },
             {
               "artist": "Peaches",
               "show_date": "2026-10-18",
@@ -363,6 +354,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_t"
+            },
+            {
+              "artist": "Frankie and the Witch Fingers",
+              "show_date": "2026-11-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_Y"
             }
           ]
         },
@@ -375,22 +373,8 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 9,
+          "show_count": 7,
           "shows": [
-            {
-              "artist": "Allan Rayman",
-              "show_date": "2026-10-16",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/allan-rayman-hotel-allan-swedish-american-hall-tickets/14971113"
-            },
-            {
-              "artist": "Allan Rayman",
-              "show_date": "2026-10-16",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/hotel-allan-the-swedish-american-hall-tickets/14971303"
-            },
             {
               "artist": "Spencer Krug",
               "show_date": "2026-10-19",
@@ -451,15 +435,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Tainted Love",
-              "show_date": "2026-10-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tainted-love-bimbos-365-club-tickets/14997763"
-            },
             {
               "artist": "Lewis OfMan",
               "show_date": "2026-10-17",
@@ -543,6 +520,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-bimbos-365-club-tickets/14285144"
+            },
+            {
+              "artist": "The Womack Sisters",
+              "show_date": "2026-12-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-bimbos-365-club-tickets/15035463"
             }
           ]
         },
@@ -555,15 +539,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 53,
+          "show_count": 52,
           "shows": [
-            {
-              "artist": "Olive Klug + Frail Talk",
-              "show_date": "2026-10-16",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/olive-klug-frail-talk-brick-and-mortar-music-hall-tickets/15001723"
-            },
             {
               "artist": "Ella Boh  \u2014 Blurry Tour",
               "show_date": "2026-10-17",
@@ -640,6 +617,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/jackzebra-zhuang-zhuang-2026-brick-and-mortar-music-hall-tickets/14325814"
+            },
+            {
+              "artist": "Felukah \u2014 HibisKiss Tour",
+              "show_date": "2026-10-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/felukah-hibiskiss-tour-brick-and-mortar-music-hall-tickets/15040813"
             }
           ]
         },
@@ -652,15 +636,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 55,
+          "show_count": 54,
           "shows": [
-            {
-              "artist": "Parabellum",
-              "show_date": "2026-10-16",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/blind-illusion-hemotoxin-parabellum-neck-of-the-woods-tickets/14303934"
-            },
             {
               "artist": "Lil Darkie (album release show)",
               "show_date": "2026-10-17",
@@ -737,6 +714,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032964"
+            },
+            {
+              "artist": "60 juno",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/60-juno-misandrist-still-ruins-neck-of-the-woods-tickets/14996083"
             }
           ]
         }
