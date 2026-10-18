@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:42:44.990658+00:00",
+  "generated_at": "2026-10-18T11:03:12.261099+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 72,
+          "show_count": 71,
           "shows": [
-            {
-              "artist": "Asha Banks",
-              "show_date": "2026-10-17",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "Alfie Jukes"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/asha-banks-the-independent-tickets/14202424"
-            },
             {
               "artist": "Raaginder",
               "show_date": "2026-10-18",
@@ -104,6 +95,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/high-step-society-the-independent-tickets/14202524"
+            },
+            {
+              "artist": "The Emo Night Tour",
+              "show_date": "2026-10-31",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14303504"
             }
           ]
         },
@@ -435,15 +433,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Lewis OfMan",
-              "show_date": "2026-10-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-lealani-bimbos-365-club-tickets/14933603"
-            },
             {
               "artist": "Stella Lefty",
               "show_date": "2026-10-30",
@@ -527,6 +518,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-bimbos-365-club-tickets/15035463"
+            },
+            {
+              "artist": "Squirrel Nut Zippers",
+              "show_date": "2026-12-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/an-evening-with-squirrel-nut-bimbos-365-club-tickets/14205624"
             }
           ]
         },
@@ -539,15 +537,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 52,
+          "show_count": 51,
           "shows": [
-            {
-              "artist": "Ella Boh  \u2014 Blurry Tour",
-              "show_date": "2026-10-17",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ella-boh-blurry-brick-and-mortar-music-hall-tickets/14996023"
-            },
             {
               "artist": "Jenna Raine",
               "show_date": "2026-10-18",
@@ -624,6 +615,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/felukah-hibiskiss-tour-brick-and-mortar-music-hall-tickets/15040813"
+            },
+            {
+              "artist": "Hayden Everett",
+              "show_date": "2026-10-29",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/hayden-everett-jackson-lundy-brick-and-mortar-music-hall-tickets/15030633"
             }
           ]
         },
@@ -636,15 +634,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 54,
+          "show_count": 53,
           "shows": [
-            {
-              "artist": "Lil Darkie (album release show)",
-              "show_date": "2026-10-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lil-darkie-album-release-show-neck-of-the-woods-tickets/14322794"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-10-20",
@@ -721,6 +712,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/60-juno-misandrist-still-ruins-neck-of-the-woods-tickets/14996083"
+            },
+            {
+              "artist": "Modern Monsters",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lazer-beam-bloodsugar-modern-monsters-neck-of-the-woods-tickets/14370304"
             }
           ]
         }
