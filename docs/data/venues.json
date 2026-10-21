@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:13:02.382692+00:00",
+  "generated_at": "2026-10-21T11:47:29.269936+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 71,
           "shows": [
-            {
-              "artist": "Vox Rea",
-              "show_date": "2026-10-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/new-constellations-the-independent-tickets/14228524"
-            },
-            {
-              "artist": "Sawyer Hill",
-              "show_date": "2026-10-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sawyer-hill-the-independent-tickets/14972813"
-            },
             {
               "artist": "Frankie Cosmos",
               "show_date": "2026-10-22",
@@ -102,6 +88,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/six60-the-independent-tickets/14250904"
+            },
+            {
+              "artist": "Lexi Jayde",
+              "show_date": "2026-11-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lexi-jayde-the-independent-tickets/14289744"
+            },
+            {
+              "artist": "Gilla Band",
+              "show_date": "2026-11-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/gilla-band-the-independent-tickets/14941553"
             }
           ]
         },
@@ -114,17 +114,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 5,
+          "show_count": 4,
           "shows": [
-            {
-              "artist": "Bebe Stockwell",
-              "show_date": "2026-10-19",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Khatumu"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/bebe-stockwell-san-francisco-california-10-19-2026/event/1C0064ADC2979C35"
-            },
             {
               "artist": "Forrest Nolan",
               "show_date": "2026-11-08",
@@ -166,15 +157,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 29,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "Hovvdy",
-              "show_date": "2026-10-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70MoK"
-            },
             {
               "artist": "Justin Nozuka",
               "show_date": "2026-10-22",
@@ -253,6 +237,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3p3"
+            },
+            {
+              "artist": "Marc Broussard",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pK"
             }
           ]
         },
@@ -265,15 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Allah-Las",
-              "show_date": "2026-10-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpqy"
-            },
             {
               "artist": "DIIV",
               "show_date": "2026-10-21",
@@ -359,6 +343,15 @@
                 "Bonnie Bishop"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_V"
+            },
+            {
+              "artist": "Jake Xerxes Fussell",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Dougie Poole"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_U"
             }
           ]
         },
@@ -371,15 +364,8 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 6,
           "shows": [
-            {
-              "artist": "Spencer Krug",
-              "show_date": "2026-10-19",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/spencer-krug-with-emory-duncan-swedish-american-hall-tickets/14994153"
-            },
             {
               "artist": "Conspiracy of Beards",
               "show_date": "2026-11-07",
@@ -433,7 +419,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 19,
           "shows": [
             {
               "artist": "Stella Lefty",
@@ -537,15 +523,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 49,
+          "show_count": 50,
           "shows": [
-            {
-              "artist": "Sean Nicholas Savage",
-              "show_date": "2026-10-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/tth-sean-nicholas-savage-brick-and-mortar-music-hall-tickets/14964683"
-            },
             {
               "artist": "Yana",
               "show_date": "2026-10-21",
@@ -622,6 +601,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/improvement-movement-adron-brick-and-mortar-music-hall-tickets/14244894"
+            },
+            {
+              "artist": "Cardinal Bloom",
+              "show_date": "2026-11-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cardinal-bloom-the-gontiks-brick-and-mortar-music-hall-tickets/14209254"
             }
           ]
         },
@@ -634,15 +620,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 54,
+          "show_count": 53,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-10-20",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227144"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-10-21",
@@ -719,6 +698,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lazer-beam-bloodsugar-modern-monsters-neck-of-the-woods-tickets/14370304"
+            },
+            {
+              "artist": "Halloween Show!",
+              "show_date": "2026-10-31",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/halloween-show-neck-of-the-woods-tickets/14293814"
             }
           ]
         }

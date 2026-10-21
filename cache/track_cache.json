@@ -7411,5 +7411,56 @@
       "name": "Tramp Stamp",
       "artist": "Deathtape"
     }
+  ],
+  "The Brothers Comatose": [
+    {
+      "uri": "spotify:track:0y8e8muEHphzSaE7kDiYvn",
+      "name": "Harvest Moon",
+      "artist": "The Brothers Comatose"
+    },
+    {
+      "uri": "spotify:track:3wShyyPO8fob86VMwkZOCt",
+      "name": "Valerie",
+      "artist": "The Brothers Comatose"
+    },
+    {
+      "uri": "spotify:track:1uW1vIn0NCyS4zr48Iwqa8",
+      "name": "These Days",
+      "artist": "The Brothers Comatose"
+    }
+  ],
+  "Mollie Elizabeth": [
+    {
+      "uri": "spotify:track:1R3Gy6oW42C8atZHSy8om4",
+      "name": "Run Rabbit",
+      "artist": "Mollie Elizabeth"
+    },
+    {
+      "uri": "spotify:track:2fwZYbWNMaepcGjmHTA3lJ",
+      "name": "Petty Crimes",
+      "artist": "Mollie Elizabeth"
+    },
+    {
+      "uri": "spotify:track:601V6Cr1UYkR8qaRtrSDzl",
+      "name": "Dog Eat Dog",
+      "artist": "Mollie Elizabeth"
+    }
+  ],
+  "Nueve Lio": [
+    {
+      "uri": "spotify:track:3k4Vp0ZrIF6sdVLOBylP2T",
+      "name": "RUN IT BACK",
+      "artist": "Nueve Lio"
+    },
+    {
+      "uri": "spotify:track:40euOLaMPnTbkulz1kvsW6",
+      "name": "FEELIN' SMOOVE",
+      "artist": "Nueve Lio"
+    },
+    {
+      "uri": "spotify:track:6i5N9f4VHR13KhxKtn51Ej",
+      "name": "LANDMINE",
+      "artist": "Nueve Lio"
+    }
   ]
 }
