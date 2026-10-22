@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:47:29.269936+00:00",
+  "generated_at": "2026-10-22T11:51:02.449909+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 71,
+          "show_count": 72,
           "shows": [
             {
               "artist": "Frankie Cosmos",
@@ -256,15 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 35,
           "shows": [
-            {
-              "artist": "DIIV",
-              "show_date": "2026-10-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvvGP"
-            },
             {
               "artist": "A Split Second",
               "show_date": "2026-10-22",
@@ -352,6 +345,13 @@
                 "Dougie Poole"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_U"
+            },
+            {
+              "artist": "Russian Circles",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
             }
           ]
         },
@@ -523,15 +523,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 50,
+          "show_count": 49,
           "shows": [
-            {
-              "artist": "Yana",
-              "show_date": "2026-10-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yana-the-feelings-are-brick-and-mortar-music-hall-tickets/14269664"
-            },
             {
               "artist": "WESLEY JOSEPH",
               "show_date": "2026-10-22",
@@ -608,6 +601,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cardinal-bloom-the-gontiks-brick-and-mortar-music-hall-tickets/14209254"
+            },
+            {
+              "artist": "Missio",
+              "show_date": "2026-11-03",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-brick-and-mortar-music-hall-tickets/15027043?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -620,22 +620,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 53,
+          "show_count": 52,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-10-21",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032824"
-            },
-            {
-              "artist": "Big Ass Truck",
-              "show_date": "2026-10-21",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/big-ass-truck-chamber-mugshot-neck-of-the-woods-tickets/15041143"
-            },
             {
               "artist": "Stratejacket/ 100% Jennifer/ The Shirley's",
               "show_date": "2026-10-22",
@@ -705,6 +691,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/halloween-show-neck-of-the-woods-tickets/14293814"
+            },
+            {
+              "artist": "The Undying/ Kink Shamer/ Deliria/ Broken Glass Sanctuary/ 13 Thrones",
+              "show_date": "2026-11-01",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-undying-kink-shamer-deliria-neck-of-the-woods-tickets/14346714"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-11-03",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227264"
             }
           ]
         }

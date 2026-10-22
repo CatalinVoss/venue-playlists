@@ -7462,5 +7462,23 @@
       "name": "LANDMINE",
       "artist": "Nueve Lio"
     }
-  ]
+  ],
+  "Fink": [
+    {
+      "uri": "spotify:track:7bhI6rnvaVw8qgZPn32qE0",
+      "name": "Looking Too Closely",
+      "artist": "Fink"
+    },
+    {
+      "uri": "spotify:track:4brqHrnr9ym8db3o5n70Qg",
+      "name": "This Is The Thing",
+      "artist": "Fink"
+    },
+    {
+      "uri": "spotify:track:5qKuefgF5B0caDyqNReAM2",
+      "name": "We Watch The Stars - Berlin Session",
+      "artist": "Fink"
+    }
+  ],
+  "Slow Joy/ aWannabe/ TBA": []
 }
