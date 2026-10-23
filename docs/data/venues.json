@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:51:02.449909+00:00",
+  "generated_at": "2026-10-23T11:37:23.453085+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 72,
+          "show_count": 71,
           "shows": [
-            {
-              "artist": "Frankie Cosmos",
-              "show_date": "2026-10-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/frankie-cosmos-celebrating-the-independent-tickets/14919283"
-            },
             {
               "artist": "Frog",
               "show_date": "2026-10-23",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/gilla-band-the-independent-tickets/14941553"
+            },
+            {
+              "artist": "INOHA",
+              "show_date": "2026-11-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSZ8"
             }
           ]
         },
@@ -157,15 +157,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Justin Nozuka",
-              "show_date": "2026-10-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mof"
-            },
             {
               "artist": "Frightwig",
               "show_date": "2026-10-23",
@@ -244,6 +237,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pK"
+            },
+            {
+              "artist": "Other Lives",
+              "show_date": "2026-11-13",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mob"
             }
           ]
         },
@@ -256,17 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 35,
+          "show_count": 34,
           "shows": [
-            {
-              "artist": "A Split Second",
-              "show_date": "2026-10-22",
-              "show_time": "18:30:00",
-              "support_acts": [
-                "Automelodi"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_N"
-            },
             {
               "artist": "TR/ST",
               "show_date": "2026-10-23",
@@ -352,6 +343,16 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
+            },
+            {
+              "artist": "Prayers",
+              "show_date": "2026-11-16",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Devora",
+                "Chriz Amaya"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_z"
             }
           ]
         },
@@ -523,15 +524,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 49,
+          "show_count": 50,
           "shows": [
-            {
-              "artist": "WESLEY JOSEPH",
-              "show_date": "2026-10-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wesley-joseph-brick-and-mortar-music-hall-tickets/14852273"
-            },
             {
               "artist": "REZN",
               "show_date": "2026-10-23",
@@ -608,6 +602,15 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-brick-and-mortar-music-hall-tickets/15027043?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "Missio",
+              "show_date": "2026-11-03",
+              "show_time": "20:30:00",
+              "support_acts": [
+                "Fifteen0eight"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJa_"
             }
           ]
         },
@@ -620,15 +623,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 52,
+          "show_count": 51,
           "shows": [
-            {
-              "artist": "Stratejacket/ 100% Jennifer/ The Shirley's",
-              "show_date": "2026-10-22",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stratejacket-100-jennifer-the-shirleys-neck-of-the-woods-tickets/14373094"
-            },
             {
               "artist": "Etch/ Vicious Cycle/ Wink/ Here at the End/ Sucios",
               "show_date": "2026-10-23",
@@ -705,6 +701,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227264"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-11-04",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032724"
             }
           ]
         }

@@ -7480,5 +7480,39 @@
       "artist": "Fink"
     }
   ],
-  "Slow Joy/ aWannabe/ TBA": []
+  "Slow Joy/ aWannabe/ TBA": [],
+  "rexv2 \u2014 Baby Houston Tour": [
+    {
+      "uri": "spotify:track:2X6jULnMmHmk8otx82oxt3",
+      "name": "HoustonBoy",
+      "artist": "rexv2"
+    },
+    {
+      "uri": "spotify:track:3E1LDWRsSirzCkQySm7fRA",
+      "name": "ImFuckedUp",
+      "artist": "rexv2"
+    },
+    {
+      "uri": "spotify:track:1DnJV6QE1e5APbS3gbT9rB",
+      "name": "ChromeWristband",
+      "artist": "rexv2"
+    }
+  ],
+  "Powerplant": [
+    {
+      "uri": "spotify:track:72f3lxZoBqtgNasIAopOVy",
+      "name": "Dungen",
+      "artist": "Powerplant"
+    },
+    {
+      "uri": "spotify:track:7dKK4YlK5ancC7qWhAVF3C",
+      "name": "Heat",
+      "artist": "Powerplant"
+    },
+    {
+      "uri": "spotify:track:35uOOYj5KVoqj78sNCHXGB",
+      "name": "Florida",
+      "artist": "Powerplant"
+    }
+  ]
 }
