@@ -7514,5 +7514,22 @@
       "name": "Florida",
       "artist": "Powerplant"
     }
+  ],
+  "Bella Poarch": [
+    {
+      "uri": "spotify:track:7BoobGhD4x5K96Me0hqC8Q",
+      "name": "Build a Bitch",
+      "artist": "Bella Poarch"
+    },
+    {
+      "uri": "spotify:track:7asnovTkmiN8mf09WeSW2A",
+      "name": "Don't Fear The Reaper",
+      "artist": "Bella Poarch"
+    },
+    {
+      "uri": "spotify:track:0tFUl3tPqBzUM2aV0gitdq",
+      "name": "Dolls",
+      "artist": "Bella Poarch"
+    }
   ]
 }

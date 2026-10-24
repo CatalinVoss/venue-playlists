@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:37:23.453085+00:00",
+  "generated_at": "2026-10-24T10:58:36.190033+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 71,
           "shows": [
-            {
-              "artist": "Frog",
-              "show_date": "2026-10-23",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/frog-the-independent-tickets/14212974"
-            },
             {
               "artist": "Everclear",
               "show_date": "2026-10-24",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSZ8"
+            },
+            {
+              "artist": "INOHA",
+              "show_date": "2026-11-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/inoha-the-independent-tickets/14208834"
             }
           ]
         },
@@ -157,15 +157,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Frightwig",
-              "show_date": "2026-10-23",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77QA"
-            },
             {
               "artist": "The War And Treaty",
               "show_date": "2026-10-26",
@@ -244,6 +237,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mob"
+            },
+            {
+              "artist": "The Cactus Blossoms",
+              "show_date": "2026-11-14",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pf"
             }
           ]
         },
@@ -256,15 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 34,
+          "show_count": 33,
           "shows": [
-            {
-              "artist": "TR/ST",
-              "show_date": "2026-10-23",
-              "show_time": "18:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZvQp"
-            },
             {
               "artist": "illuminati hotties",
               "show_date": "2026-10-24",
@@ -353,6 +346,15 @@
                 "Chriz Amaya"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_z"
+            },
+            {
+              "artist": "Armored Saint",
+              "show_date": "2026-11-17",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Metal Church"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe7-y"
             }
           ]
         },
@@ -524,22 +526,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 50,
+          "show_count": 48,
           "shows": [
-            {
-              "artist": "REZN",
-              "show_date": "2026-10-23",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70bf_"
-            },
-            {
-              "artist": "REZN",
-              "show_date": "2026-10-23",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rezn-lowheaven-mountaineer-brick-and-mortar-music-hall-tickets/14907393"
-            },
             {
               "artist": "she's green",
               "show_date": "2026-10-24",
@@ -611,6 +599,20 @@
                 "Fifteen0eight"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJa_"
+            },
+            {
+              "artist": "Missio",
+              "show_date": "2026-11-03",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-brick-and-mortar-music-hall-tickets/15031223"
+            },
+            {
+              "artist": "Sassy 009",
+              "show_date": "2026-11-04",
+              "show_time": "18:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513"
             }
           ]
         },
@@ -623,22 +625,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 51,
+          "show_count": 49,
           "shows": [
-            {
-              "artist": "Etch/ Vicious Cycle/ Wink/ Here at the End/ Sucios",
-              "show_date": "2026-10-23",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/etch-vicious-cycle-wink-here-neck-of-the-woods-tickets/14346704"
-            },
-            {
-              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
-              "show_date": "2026-10-23",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14375924"
-            },
             {
               "artist": "Camp Blu",
               "show_date": "2026-10-24",
@@ -708,6 +696,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032724"
+            },
+            {
+              "artist": "Roman Candle/ Postdrome/ TBA",
+              "show_date": "2026-11-04",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/roman-candle-postdrome-tba-neck-of-the-woods-tickets/14371704"
+            },
+            {
+              "artist": "Strikeforce",
+              "show_date": "2026-11-06",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/statement-of-pride-stand-tall-neck-of-the-woods-tickets/14311504"
             }
           ]
         }
