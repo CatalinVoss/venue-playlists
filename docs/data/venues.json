@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:58:36.190033+00:00",
+  "generated_at": "2026-10-25T11:26:53.396539+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,15 +15,6 @@
           "stale": false,
           "show_count": 71,
           "shows": [
-            {
-              "artist": "Everclear",
-              "show_date": "2026-10-24",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "American Hi-Fi"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/everclear-with-american-hi-fi-the-independent-tickets/14924703"
-            },
             {
               "artist": "BALTHVS",
               "show_date": "2026-10-25",
@@ -102,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/inoha-the-independent-tickets/14208834"
+            },
+            {
+              "artist": "Greg Freeman",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/greg-freeman-the-independent-tickets/14256774"
             }
           ]
         },
@@ -256,15 +254,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 33,
+          "show_count": 32,
           "shows": [
-            {
-              "artist": "illuminati hotties",
-              "show_date": "2026-10-24",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
-            },
             {
               "artist": "Inner Wave",
               "show_date": "2026-10-26",
@@ -355,6 +346,15 @@
                 "Metal Church"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe7-y"
+            },
+            {
+              "artist": "Sueco",
+              "show_date": "2026-11-18",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Jeris Johnson"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_y"
             }
           ]
         },
@@ -367,7 +367,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 7,
           "shows": [
             {
               "artist": "Conspiracy of Beards",
@@ -410,6 +410,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-arcadian-wild-swedish-american-hall-tickets/14348954"
+            },
+            {
+              "artist": "Cut Worms",
+              "show_date": "2027-02-22",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cut-worms-solo-swedish-american-hall-tickets/14379044"
             }
           ]
         },
@@ -526,15 +533,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 47,
           "shows": [
-            {
-              "artist": "she's green",
-              "show_date": "2026-10-24",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/shes-green-brick-and-mortar-music-hall-tickets/14250864"
-            },
             {
               "artist": "natalie jinju, Chiabiee",
               "show_date": "2026-10-25",
@@ -613,6 +613,13 @@
               "show_time": "18:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513"
+            },
+            {
+              "artist": "AZ Chike",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-tickets/14287724"
             }
           ]
         },
@@ -625,15 +632,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 49,
+          "show_count": 48,
           "shows": [
-            {
-              "artist": "Camp Blu",
-              "show_date": "2026-10-24",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/till-im-dead-fest-2-neck-of-the-woods-tickets/14270064"
-            },
             {
               "artist": "Smush/ Sofia & The Afterglow/ Brother M",
               "show_date": "2026-10-25",
@@ -710,6 +710,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/statement-of-pride-stand-tall-neck-of-the-woods-tickets/14311504"
+            },
+            {
+              "artist": "Fin/ Hellhunter/ Varulf/ Piss Baptism",
+              "show_date": "2026-11-06",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/fin-hellhunter-varulf-piss-baptism-neck-of-the-woods-tickets/14324364"
             }
           ]
         }

@@ -7531,5 +7531,39 @@
       "name": "Dolls",
       "artist": "Bella Poarch"
     }
+  ],
+  "Lady Radiator": [
+    {
+      "uri": "spotify:track:4Dev97TQztwKYRMfR7HZCM",
+      "name": "Box Turtle, Magnificent Isn't She",
+      "artist": "Lady Radiator"
+    },
+    {
+      "uri": "spotify:track:4tUTCjDRDSC5W9r2ZwHjjS",
+      "name": "Box Turtle, Magnificent Isn't She - 2006 Demo",
+      "artist": "Lady Radiator"
+    },
+    {
+      "uri": "spotify:track:2PSGrZXn4JKKAtnQAUCwIo",
+      "name": "Sacred in the wreckage",
+      "artist": "Lady Radiator"
+    }
+  ],
+  "Cut Worms": [
+    {
+      "uri": "spotify:track:4QgvvCRrK6ilJp2xaDLlJx",
+      "name": "Song of the Highest Tower",
+      "artist": "Cut Worms"
+    },
+    {
+      "uri": "spotify:track:3Lm2Em6yWbpOVEX8WDJ92j",
+      "name": "Ballad of the Texas King",
+      "artist": "Cut Worms"
+    },
+    {
+      "uri": "spotify:track:7C6hHmGVWw4SzewfvFU2Hc",
+      "name": "Sold My Soul",
+      "artist": "Cut Worms"
+    }
   ]
 }
