@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:26:53.396539+00:00",
+  "generated_at": "2026-10-26T13:00:47.668465+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 71,
+          "show_count": 70,
           "shows": [
-            {
-              "artist": "BALTHVS",
-              "show_date": "2026-10-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/balthvs-the-independent-tickets/14975903"
-            },
             {
               "artist": "Landon Conrath",
               "show_date": "2026-10-27",
@@ -100,6 +93,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/greg-freeman-the-independent-tickets/14256774"
+            },
+            {
+              "artist": "King Buffalo",
+              "show_date": "2026-11-06",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "LA Witch"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/king-buffalo-the-independent-tickets/14925533"
             }
           ]
         },
@@ -533,15 +535,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "natalie jinju, Chiabiee",
-              "show_date": "2026-10-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/natalie-jinju-chiabiee-brick-and-mortar-music-hall-tickets/14269634"
-            },
             {
               "artist": "jackzebra \u2014 Zhuang Zhuang 2026 Tour",
               "show_date": "2026-10-27",
@@ -620,6 +615,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-tickets/14287724"
+            },
+            {
+              "artist": "Clay Street Unit, Maxwell Oaks",
+              "show_date": "2026-11-06",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/clay-street-unit-maxwell-oaks-brick-and-mortar-music-hall-tickets/14244714"
             }
           ]
         },
@@ -634,13 +636,6 @@
           "stale": false,
           "show_count": 48,
           "shows": [
-            {
-              "artist": "Smush/ Sofia & The Afterglow/ Brother M",
-              "show_date": "2026-10-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/smush-sofia-the-afterglow-neck-of-the-woods-tickets/14303574"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-10-27",
@@ -717,6 +712,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fin-hellhunter-varulf-piss-baptism-neck-of-the-woods-tickets/14324364"
+            },
+            {
+              "artist": "James Ivy/ Harry Teardrop",
+              "show_date": "2026-11-07",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/james-ivy-harry-teardrop-neck-of-the-woods-tickets/14300074"
             }
           ]
         }
