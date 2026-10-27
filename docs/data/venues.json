@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:00:47.668465+00:00",
+  "generated_at": "2026-10-27T12:09:58.494617+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 70,
+          "show_count": 71,
           "shows": [
             {
               "artist": "Landon Conrath",
@@ -157,15 +157,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "The War And Treaty",
-              "show_date": "2026-10-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt77"
-            },
             {
               "artist": "Theo Katzman",
               "show_date": "2026-10-28",
@@ -244,6 +237,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pf"
+            },
+            {
+              "artist": "Craig Finn",
+              "show_date": "2026-11-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv0"
             }
           ]
         },
@@ -256,18 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 32,
+          "show_count": 31,
           "shows": [
-            {
-              "artist": "Inner Wave",
-              "show_date": "2026-10-26",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Heathers the Musical",
-                "The Fazes"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_P"
-            },
             {
               "artist": "Wand",
               "show_date": "2026-10-27",
@@ -357,6 +347,15 @@
                 "Jeris Johnson"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_y"
+            },
+            {
+              "artist": "Jayski",
+              "show_date": "2026-11-20",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "The Dawn"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4QZ"
             }
           ]
         },
@@ -538,13 +537,6 @@
           "show_count": 46,
           "shows": [
             {
-              "artist": "jackzebra \u2014 Zhuang Zhuang 2026 Tour",
-              "show_date": "2026-10-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jackzebra-zhuang-zhuang-2026-brick-and-mortar-music-hall-tickets/14325814"
-            },
-            {
               "artist": "Felukah \u2014 HibisKiss Tour",
               "show_date": "2026-10-28",
               "show_time": "20:00:00",
@@ -622,6 +614,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/clay-street-unit-maxwell-oaks-brick-and-mortar-music-hall-tickets/14244714"
+            },
+            {
+              "artist": "Supertaste + 3kelves",
+              "show_date": "2026-11-07",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
             }
           ]
         },
@@ -634,7 +633,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 51,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
