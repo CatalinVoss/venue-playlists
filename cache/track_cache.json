@@ -7569,5 +7569,57 @@
   "Triptides + Loco Tranquilo": [],
   "Yo! And The Electric/ Mr. Vale's Math Class/ I Am The Octopus": [],
   "Pig City": [],
-  "The Richie Cunning & DJBADDJ Holiday Special Year 2": []
+  "The Richie Cunning & DJBADDJ Holiday Special Year 2": [],
+  "Two Gallants": [
+    {
+      "uri": "spotify:track:4ovdGYbnjXeO2OxD4LU4p1",
+      "name": "Steady Rollin'",
+      "artist": "Two Gallants"
+    },
+    {
+      "uri": "spotify:track:7KQoxeMTiuFadiv0hgAM0G",
+      "name": "Despite What You've Been Told",
+      "artist": "Two Gallants"
+    },
+    {
+      "uri": "spotify:track:6aUlkqKOAqO5GNJpbjAnyY",
+      "name": "Las Cruces Jail",
+      "artist": "Two Gallants"
+    }
+  ],
+  "Asaf Avidan": [
+    {
+      "uri": "spotify:track:68rcszAg5pbVaXVvR7LFNh",
+      "name": "One Day / Reckoning Song (Wankelmut Remix) - Radio Edit",
+      "artist": "Asaf Avidan"
+    },
+    {
+      "uri": "spotify:track:5mFKziCucqlIgsN2z9e0Sp",
+      "name": "The Labyrinth Song",
+      "artist": "Asaf Avidan"
+    },
+    {
+      "uri": "spotify:track:3pSdueiVFFQdP6oDtt97of",
+      "name": "Reckoning Song",
+      "artist": "Asaf Avidan"
+    }
+  ],
+  "Ovrkast": [],
+  "Anna Shoemaker": [
+    {
+      "uri": "spotify:track:4ZiuC55hl9Jg4sCVhm8oFi",
+      "name": "Already Low",
+      "artist": "Anna Shoemaker"
+    },
+    {
+      "uri": "spotify:track:3N9oINKTWMLfMr9RvRZB13",
+      "name": "Back to Pennsylvania",
+      "artist": "Anna Shoemaker"
+    },
+    {
+      "uri": "spotify:track:2bUrVT6HcLBCeRuSaQn1jh",
+      "name": "If You're Going (I'll Go)",
+      "artist": "Anna Shoemaker"
+    }
+  ]
 }
