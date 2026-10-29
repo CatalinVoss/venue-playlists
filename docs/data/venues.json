@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:53:12.434660+00:00",
+  "generated_at": "2026-10-29T12:59:14.086145+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 74,
+          "show_count": 77,
           "shows": [
-            {
-              "artist": "Freak Slug",
-              "show_date": "2026-10-28",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Mamalarky"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/freak-slug-the-independent-tickets/14234574"
-            },
             {
               "artist": "Patrick Wolf",
               "show_date": "2026-10-29",
@@ -102,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karina-rykman-the-independent-tickets/14202474"
+            },
+            {
+              "artist": "THAO",
+              "show_date": "2026-11-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473"
             }
           ]
         },
@@ -114,7 +112,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 4,
+          "show_count": 5,
           "shows": [
             {
               "artist": "Forrest Nolan",
@@ -131,6 +129,15 @@
                 "Gabi Bravo"
               ],
               "ticket_url": "https://www.ticketmaster.com/francisca-valenzuela-san-francisco-california-11-15-2026/event/1C0064B4BCB55F8A"
+            },
+            {
+              "artist": "Jamila Woods",
+              "show_date": "2026-11-18",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Hannah Mayree"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/jamila-woods-10-years-of-heavn-san-francisco-california-11-18-2026/event/1C006505B4884946"
             },
             {
               "artist": "Oliver Hazard",
@@ -157,15 +164,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Theo Katzman",
-              "show_date": "2026-10-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo4"
-            },
             {
               "artist": "Katie Pruitt",
               "show_date": "2026-10-29",
@@ -244,6 +244,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv0"
+            },
+            {
+              "artist": "Margaret Glaspy",
+              "show_date": "2026-11-16",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Anna Tivel"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvP"
             }
           ]
         },
@@ -256,17 +265,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 30,
+          "show_count": 29,
           "shows": [
-            {
-              "artist": "Pixel Grip",
-              "show_date": "2026-10-28",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Dark Chisme"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_E"
-            },
             {
               "artist": "Cold Cave",
               "show_date": "2026-10-30",
@@ -358,6 +358,13 @@
                 "Ivory Layne"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P4Fo"
+            },
+            {
+              "artist": "Andre Nickatina",
+              "show_date": "2026-11-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qv"
             }
           ]
         },
@@ -539,13 +546,6 @@
           "show_count": 48,
           "shows": [
             {
-              "artist": "Felukah \u2014 HibisKiss Tour",
-              "show_date": "2026-10-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/felukah-hibiskiss-tour-brick-and-mortar-music-hall-tickets/15040813"
-            },
-            {
               "artist": "Hayden Everett",
               "show_date": "2026-10-29",
               "show_time": "20:00:00",
@@ -623,6 +623,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524"
+            },
+            {
+              "artist": "Triptides + Loco Tranquilo",
+              "show_date": "2026-11-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/triptides-loco-tranquilo-brick-and-mortar-music-hall-tickets/14273794"
             }
           ]
         },
@@ -635,15 +642,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 50,
+          "show_count": 49,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-10-28",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032964"
-            },
             {
               "artist": "60 juno",
               "show_date": "2026-10-30",
@@ -687,11 +687,11 @@
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032724"
             },
             {
-              "artist": "Roman Candle/ Postdrome/ TBA",
+              "artist": "Roman Candle/ Postdrome/ The American Dream",
               "show_date": "2026-11-04",
               "show_time": "19:30:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/roman-candle-postdrome-tba-neck-of-the-woods-tickets/14371704"
+              "ticket_url": "https://www.ticketweb.com/event/roman-candle-postdrome-the-american-neck-of-the-woods-tickets/14371704"
             },
             {
               "artist": "Strikeforce",
@@ -720,6 +720,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/deathtape-salt-a-block-neck-of-the-woods-tickets/14379594"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-11-10",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227434"
             }
           ]
         }

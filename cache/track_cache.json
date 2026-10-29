@@ -7621,5 +7621,91 @@
       "name": "If You're Going (I'll Go)",
       "artist": "Anna Shoemaker"
     }
-  ]
+  ],
+  "Lazer Dim 700": [
+    {
+      "uri": "spotify:track:7vHIxNext5b91MAQW1Feup",
+      "name": "Laced max",
+      "artist": "LAZER DIM 700"
+    },
+    {
+      "uri": "spotify:track:0fGnUkxT0KEVUKfWU0vsYt",
+      "name": "WTM",
+      "artist": "LAZER DIM 700"
+    },
+    {
+      "uri": "spotify:track:5PXpiAqtsLRlTUlAoeZeYP",
+      "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
+      "artist": "LAZER DIM 700"
+    }
+  ],
+  "Thievery Corporation": [
+    {
+      "uri": "spotify:track:0KVNBXWdsyZs5dicoOTUyq",
+      "name": "Lebanese Blonde",
+      "artist": "Thievery Corporation"
+    },
+    {
+      "uri": "spotify:track:6QiSPrFxkGpgzkOjGlYHnH",
+      "name": "Shadows of Ourselves",
+      "artist": "Thievery Corporation"
+    },
+    {
+      "uri": "spotify:track:2NTZE9qDninBZADUBpSnA4",
+      "name": "Sweet Tides",
+      "artist": "Thievery Corporation"
+    }
+  ],
+  "Codefendants": [
+    {
+      "uri": "spotify:track:2TCmcBRNdgEoKazytLjXbC",
+      "name": "Rivals",
+      "artist": "Codefendants"
+    },
+    {
+      "uri": "spotify:track:3BknWxphwmDlXzhcKHKlbN",
+      "name": "Art of Protest",
+      "artist": "Codefendants"
+    },
+    {
+      "uri": "spotify:track:18ea5cx7ff2Uhb6Vgs510Y",
+      "name": "Def Cons",
+      "artist": "Codefendants"
+    }
+  ],
+  "Jack Kays and his Band": [
+    {
+      "uri": "spotify:track:4dft8CZAm1yURC9weV6o7N",
+      "name": "Feel Like Me",
+      "artist": "Jack Kays"
+    },
+    {
+      "uri": "spotify:track:4rrEWyRMmhquQdNwbNwHcn",
+      "name": "Caffeine",
+      "artist": "Jack Kays"
+    },
+    {
+      "uri": "spotify:track:4Hg7E9luUL45DlEmEkGFW2",
+      "name": "I've Got a Gun",
+      "artist": "Jack Kays"
+    }
+  ],
+  "Jamila Woods": [
+    {
+      "uri": "spotify:track:0yfVAnObp9F3Y32Rbl6pes",
+      "name": "Holy",
+      "artist": "Jamila Woods"
+    },
+    {
+      "uri": "spotify:track:622fSIVOm6SPcLPNOoYeJn",
+      "name": "Tides",
+      "artist": "Jamila Woods"
+    },
+    {
+      "uri": "spotify:track:6fycvYDLa3O3FNLwhLc4eM",
+      "name": "Tiny Garden",
+      "artist": "Jamila Woods"
+    }
+  ],
+  "Roman Candle/ Postdrome/ The American Dream": []
 }
