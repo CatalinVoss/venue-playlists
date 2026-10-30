@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:59:14.086145+00:00",
+  "generated_at": "2026-10-30T12:54:09.106515+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 77,
+          "show_count": 76,
           "shows": [
-            {
-              "artist": "Patrick Wolf",
-              "show_date": "2026-10-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/patrick-wolf-the-independent-tickets/14993743"
-            },
             {
               "artist": "High Step Society",
               "show_date": "2026-10-30",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473"
+            },
+            {
+              "artist": "Weston Estate",
+              "show_date": "2026-11-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/14310194"
             }
           ]
         },
@@ -164,15 +164,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Katie Pruitt",
-              "show_date": "2026-10-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvN"
-            },
             {
               "artist": "Lebo",
               "show_date": "2026-10-30",
@@ -253,6 +246,13 @@
                 "Anna Tivel"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvP"
+            },
+            {
+              "artist": "Maddie Zahm",
+              "show_date": "2026-11-20",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PK7b"
             }
           ]
         },
@@ -546,13 +546,6 @@
           "show_count": 48,
           "shows": [
             {
-              "artist": "Hayden Everett",
-              "show_date": "2026-10-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/hayden-everett-jackson-lundy-brick-and-mortar-music-hall-tickets/15030633"
-            },
-            {
               "artist": "Coral 9, Bazooka, Dogwater, DJ Kalamansi",
               "show_date": "2026-10-30",
               "show_time": "21:00:00",
@@ -630,6 +623,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/triptides-loco-tranquilo-brick-and-mortar-music-hall-tickets/14273794"
+            },
+            {
+              "artist": "Past Self, Creux Lies, Hot Goth GF",
+              "show_date": "2026-11-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/past-self-creux-lies-hot-brick-and-mortar-music-hall-tickets/15048253"
             }
           ]
         },

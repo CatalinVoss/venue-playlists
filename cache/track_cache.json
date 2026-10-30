@@ -7707,5 +7707,23 @@
       "artist": "Jamila Woods"
     }
   ],
-  "Roman Candle/ Postdrome/ The American Dream": []
+  "Roman Candle/ Postdrome/ The American Dream": [],
+  "Ty Segall": [
+    {
+      "uri": "spotify:track:5EbTamOuKNYlEsOUGc51kE",
+      "name": "My Lady's On Fire",
+      "artist": "Ty Segall"
+    },
+    {
+      "uri": "spotify:track:1bShWI36VQ686EHVo3uxS3",
+      "name": "Every 1's a Winner",
+      "artist": "Ty Segall"
+    },
+    {
+      "uri": "spotify:track:5SwX4IIQkl4IRmSzCCVOag",
+      "name": "Time",
+      "artist": "Ty Segall"
+    }
+  ],
+  "Claud": []
 }
