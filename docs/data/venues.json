@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:54:09.106515+00:00",
+  "generated_at": "2026-10-31T12:27:05.091674+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 76,
           "shows": [
-            {
-              "artist": "High Step Society",
-              "show_date": "2026-10-30",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/high-step-society-the-independent-tickets/14202524"
-            },
             {
               "artist": "The Emo Night Tour",
               "show_date": "2026-10-31",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/14310194"
+            },
+            {
+              "artist": "Weston Estate",
+              "show_date": "2026-11-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/15034003"
             }
           ]
         },
@@ -164,17 +164,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Lebo",
-              "show_date": "2026-10-30",
-              "show_time": "20:30:00",
-              "support_acts": [
-                "Holly Bowling"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77Qa"
-            },
             {
               "artist": "The Limi\u00f1anas",
               "show_date": "2026-11-04",
@@ -253,6 +244,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PK7b"
+            },
+            {
+              "artist": "Poi Dog Pondering",
+              "show_date": "2026-11-21",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77Qp"
             }
           ]
         },
@@ -265,15 +263,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 29,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "Cold Cave",
-              "show_date": "2026-10-30",
-              "show_time": "18:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4GV"
-            },
             {
               "artist": "Gasolina Party",
               "show_date": "2026-10-31",
@@ -365,6 +356,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qv"
+            },
+            {
+              "artist": "Emma Ruth Rundle",
+              "show_date": "2026-11-27",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Cinder Well"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qe"
             }
           ]
         },
@@ -439,24 +439,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Stella Lefty",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Grace Enger"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Epk"
-            },
-            {
-              "artist": "Grace Enger",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stella-lefty-grace-enger-bimbos-365-club-tickets/14919433"
-            },
             {
               "artist": "Mystery Skulls",
               "show_date": "2026-11-05",
@@ -531,6 +515,22 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/an-evening-with-squirrel-nut-bimbos-365-club-tickets/14205624"
+            },
+            {
+              "artist": "Sasha Alex Sloan",
+              "show_date": "2026-12-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/an-evening-with-sasha-alex-bimbos-365-club-tickets/14360274"
+            },
+            {
+              "artist": "JD McPherson",
+              "show_date": "2026-12-13",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Melissa Carper"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/jd-mcpherson-socks-bimbos-365-club-tickets/14303734"
             }
           ]
         },
@@ -545,13 +545,6 @@
           "stale": false,
           "show_count": 48,
           "shows": [
-            {
-              "artist": "Coral 9, Bazooka, Dogwater, DJ Kalamansi",
-              "show_date": "2026-10-30",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/coral-9-bazooka-dogwater-dj-brick-and-mortar-music-hall-tickets/14354754"
-            },
             {
               "artist": "Improvement Movement",
               "show_date": "2026-10-31",
@@ -630,6 +623,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/past-self-creux-lies-hot-brick-and-mortar-music-hall-tickets/15048253"
+            },
+            {
+              "artist": "Mad Tsai",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PtAU"
             }
           ]
         },
@@ -642,22 +642,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 49,
+          "show_count": 47,
           "shows": [
-            {
-              "artist": "60 juno",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/60-juno-misandrist-still-ruins-neck-of-the-woods-tickets/14996083"
-            },
-            {
-              "artist": "Modern Monsters",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lazer-beam-bloodsugar-modern-monsters-neck-of-the-woods-tickets/14370304"
-            },
             {
               "artist": "Halloween Show!",
               "show_date": "2026-10-31",
@@ -727,6 +713,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227434"
+            },
+            {
+              "artist": "Boltcutter/ Misery Whip/ Forced To Suffer/ Iron Front",
+              "show_date": "2026-11-11",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/boltcutter-misery-whip-forced-to-neck-of-the-woods-tickets/14305054"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-11-11",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032844"
             }
           ]
         }
