@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:27:05.091674+00:00",
+  "generated_at": "2026-11-01T13:22:44.084900+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 76,
+          "show_count": 77,
           "shows": [
-            {
-              "artist": "The Emo Night Tour",
-              "show_date": "2026-10-31",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14303504"
-            },
             {
               "artist": "SIX60",
               "show_date": "2026-11-01",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/15034003"
+            },
+            {
+              "artist": "Stop Light Observations",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stop-light-observations-the-independent-tickets/14936543"
             }
           ]
         },
@@ -263,15 +263,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Gasolina Party",
-              "show_date": "2026-10-31",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_t"
-            },
             {
               "artist": "Frankie and the Witch Fingers",
               "show_date": "2026-11-01",
@@ -365,6 +358,13 @@
                 "Cinder Well"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qe"
+            },
+            {
+              "artist": "Zepparella",
+              "show_date": "2026-11-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qd"
             }
           ]
         },
@@ -439,7 +439,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 18,
           "shows": [
             {
               "artist": "Mystery Skulls",
@@ -543,15 +543,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 48,
+          "show_count": 47,
           "shows": [
-            {
-              "artist": "Improvement Movement",
-              "show_date": "2026-10-31",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/improvement-movement-adron-brick-and-mortar-music-hall-tickets/14244894"
-            },
             {
               "artist": "Cardinal Bloom",
               "show_date": "2026-11-01",
@@ -630,6 +623,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PtAU"
+            },
+            {
+              "artist": "Mad Tsai",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mad-tsai-piao-bluhour-brick-and-mortar-music-hall-tickets/14213254"
             }
           ]
         },
@@ -642,15 +642,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "Halloween Show!",
-              "show_date": "2026-10-31",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/halloween-show-neck-of-the-woods-tickets/14293814"
-            },
             {
               "artist": "The Undying/ Kink Shamer/ Deliria/ Broken Glass Sanctuary/ 13 Thrones",
               "show_date": "2026-11-01",
@@ -727,6 +720,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032844"
+            },
+            {
+              "artist": "Meadow/ Hoarse/ Skiptrace/ Traceback",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/meadow-hoarse-skiptrace-traceback-neck-of-the-woods-tickets/14377934"
             }
           ]
         }

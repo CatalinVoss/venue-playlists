@@ -7737,5 +7737,40 @@
       "name": "asteroid",
       "artist": "benten"
     }
+  ],
+  "Valley": [],
+  "Moody Joody": [
+    {
+      "uri": "spotify:track:7o6Kif3Zm0qb4i5DR5fWh6",
+      "name": "Velvet Connection - St. Lucia Remix",
+      "artist": "Moody Joody"
+    },
+    {
+      "uri": "spotify:track:3Z2wJWmkgIcfk4Kb0yWFl4",
+      "name": "El Camino High",
+      "artist": "Moody Joody"
+    },
+    {
+      "uri": "spotify:track:401zU5UfRi8XbHQRuVKgUH",
+      "name": "Velvet Connection",
+      "artist": "Moody Joody"
+    }
+  ],
+  "Marian Hill": [
+    {
+      "uri": "spotify:track:0ZQfn5nh2TnVE6Q0AT8eXr",
+      "name": "Down",
+      "artist": "Marian Hill"
+    },
+    {
+      "uri": "spotify:track:4P73ZBrXOmsZA6WXsuxUC1",
+      "name": "Got It",
+      "artist": "Marian Hill"
+    },
+    {
+      "uri": "spotify:track:5m77d1ztVTdZN9FevK9TE1",
+      "name": "I Want You",
+      "artist": "Marian Hill"
+    }
   ]
 }
