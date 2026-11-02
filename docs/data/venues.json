@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:22:44.084900+00:00",
+  "generated_at": "2026-11-02T15:49:31.094527+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 77,
           "shows": [
-            {
-              "artist": "SIX60",
-              "show_date": "2026-11-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/six60-the-independent-tickets/14250904"
-            },
             {
               "artist": "Lexi Jayde",
               "show_date": "2026-11-02",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/stop-light-observations-the-independent-tickets/14936543"
+            },
+            {
+              "artist": "Stephen Day",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/stephen-day-the-independent-tickets/14975963"
             }
           ]
         },
@@ -263,15 +263,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Frankie and the Witch Fingers",
-              "show_date": "2026-11-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_Y"
-            },
             {
               "artist": "Foy Vance",
               "show_date": "2026-11-08",
@@ -365,6 +358,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qd"
+            },
+            {
+              "artist": "John Zorn",
+              "show_date": "2026-12-06",
+              "show_time": "16:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pobv"
             }
           ]
         },
@@ -543,15 +543,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 47,
+          "show_count": 46,
           "shows": [
-            {
-              "artist": "Cardinal Bloom",
-              "show_date": "2026-11-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cardinal-bloom-the-gontiks-brick-and-mortar-music-hall-tickets/14209254"
-            },
             {
               "artist": "Missio",
               "show_date": "2026-11-03",
@@ -630,6 +623,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mad-tsai-piao-bluhour-brick-and-mortar-music-hall-tickets/14213254"
+            },
+            {
+              "artist": "Natanya",
+              "show_date": "2026-11-12",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/natanya-brick-and-mortar-music-hall-tickets/14980533"
             }
           ]
         },
@@ -644,13 +644,6 @@
           "stale": false,
           "show_count": 46,
           "shows": [
-            {
-              "artist": "The Undying/ Kink Shamer/ Deliria/ Broken Glass Sanctuary/ 13 Thrones",
-              "show_date": "2026-11-01",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-undying-kink-shamer-deliria-neck-of-the-woods-tickets/14346714"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-11-03",
@@ -727,6 +720,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/meadow-hoarse-skiptrace-traceback-neck-of-the-woods-tickets/14377934"
+            },
+            {
+              "artist": "LOCKED SHUT",
+              "show_date": "2026-11-13",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/locked-shut-rust-drop-step-neck-of-the-woods-tickets/14281764"
             }
           ]
         }

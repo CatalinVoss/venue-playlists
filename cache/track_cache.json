@@ -7772,5 +7772,22 @@
       "name": "I Want You",
       "artist": "Marian Hill"
     }
+  ],
+  "Vincent Lima": [
+    {
+      "uri": "spotify:track:4cnX8YJt42Yp0SpBLD1Y4J",
+      "name": "Atlas",
+      "artist": "Vincent Lima"
+    },
+    {
+      "uri": "spotify:track:58AVEtQU2ytZFM9P0Ia47P",
+      "name": "Orpheus",
+      "artist": "Vincent Lima"
+    },
+    {
+      "uri": "spotify:track:0w4opFMPxNEWZNsBBfgvAP",
+      "name": "The Fire",
+      "artist": "Vincent Lima"
+    }
   ]
 }
