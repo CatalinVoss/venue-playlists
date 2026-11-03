@@ -7789,5 +7789,56 @@
       "name": "The Fire",
       "artist": "Vincent Lima"
     }
+  ],
+  "SH\u0100HERI": [
+    {
+      "uri": "spotify:track:75MMlO0ImXQSz24FlgpLK4",
+      "name": "PERSI\u0100CUMBI\u0100",
+      "artist": "SH\u0100HERI"
+    },
+    {
+      "uri": "spotify:track:6uivQ0rknwustayAAMJBRp",
+      "name": "\u0100LIYEH",
+      "artist": "SH\u0100HERI"
+    },
+    {
+      "uri": "spotify:track:4ayz32G7rcFTzTsxuiFtM3",
+      "name": "DOKHTAR SHEKAR",
+      "artist": "SH\u0100HERI"
+    }
+  ],
+  "Faux Real": [
+    {
+      "uri": "spotify:track:6ixcDojVMJLPZyUdHoJj1L",
+      "name": "Full Circle",
+      "artist": "Faux Real"
+    },
+    {
+      "uri": "spotify:track:30dZW6UD1rqjHjvFdLYMt0",
+      "name": "Walking Away from My Demons - Wet Leg Remix",
+      "artist": "Faux Real"
+    },
+    {
+      "uri": "spotify:track:7w3D4u2RJE6g2BiRdYQBkv",
+      "name": "1x1",
+      "artist": "Faux Real"
+    }
+  ],
+  "Al Olender": [
+    {
+      "uri": "spotify:track:1MUIHVKK9lYZvTrx0jAxpJ",
+      "name": "The Cyclone",
+      "artist": "Al Olender"
+    },
+    {
+      "uri": "spotify:track:3PoGASt54nDcTrajYvzcb4",
+      "name": "Cherry Licorice",
+      "artist": "Al Olender"
+    },
+    {
+      "uri": "spotify:track:6TyXhJzsdM3wyrG3c0wSpW",
+      "name": "Runner Up",
+      "artist": "Al Olender"
+    }
   ]
 }
