@@ -7840,5 +7840,22 @@
       "name": "Runner Up",
       "artist": "Al Olender"
     }
+  ],
+  "rum.gold": [
+    {
+      "uri": "spotify:track:4LbSWDu37crNaiXqey5LDP",
+      "name": "Call It What You Want",
+      "artist": "rum.gold"
+    },
+    {
+      "uri": "spotify:track:0IVyQJpAKKLzYELawFxCqT",
+      "name": "Waiting For",
+      "artist": "rum.gold"
+    },
+    {
+      "uri": "spotify:track:6nqpNchcQ6zgRR32JFPqkW",
+      "name": "Forever In A Song",
+      "artist": "rum.gold"
+    }
   ]
 }
