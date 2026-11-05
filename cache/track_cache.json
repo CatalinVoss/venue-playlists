@@ -7857,5 +7857,52 @@
       "name": "Forever In A Song",
       "artist": "rum.gold"
     }
+  ],
+  "The Stinkfoot Orchestra": [],
+  "Bebel Gilberto": [
+    {
+      "uri": "spotify:track:5cFYzOBhIkED9cEeeksveU",
+      "name": "Samba Da Ben\u00e7\u00e3o",
+      "artist": "Bebel Gilberto"
+    },
+    {
+      "uri": "spotify:track:3nFdQtC9rweuFIGPjLGnOf",
+      "name": "Aganju",
+      "artist": "Bebel Gilberto"
+    },
+    {
+      "uri": "spotify:track:7Kl7Umto8BIl4saZsauWUK",
+      "name": "So Nice (Summer Samba)",
+      "artist": "Bebel Gilberto"
+    }
+  ],
+  "3l3d3p": [
+    {
+      "uri": "spotify:track:2xUJ4frQcK7zBbJSr1GcUY",
+      "name": "Ibitbt",
+      "artist": "3l3d3p"
+    },
+    {
+      "uri": "spotify:track:1pGfQkSAdfdTuC1EmiUDHj",
+      "name": ">>> (FWD)",
+      "artist": "3l3d3p"
+    },
+    {
+      "uri": "spotify:track:52oH2DILYcz4LaAZ0zDWxA",
+      "name": "rpa",
+      "artist": "3l3d3p"
+    }
+  ],
+  "my point of you/ Star 99/ Grad Nite/16-millimeter shrine": [
+    {
+      "uri": "spotify:track:4aWl99tclfT8tXnNOUBv0t",
+      "name": "footfalls",
+      "artist": "my point of you"
+    },
+    {
+      "uri": "spotify:track:4fzMIt8qCMATHUXXOFPrxy",
+      "name": "catapult",
+      "artist": "my point of you"
+    }
   ]
 }

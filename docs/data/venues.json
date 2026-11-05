@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:30:13.790294+00:00",
+  "generated_at": "2026-11-05T14:38:10.918615+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 79,
           "shows": [
-            {
-              "artist": "INOHA",
-              "show_date": "2026-11-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSZ8"
-            },
-            {
-              "artist": "INOHA",
-              "show_date": "2026-11-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/inoha-the-independent-tickets/14208834"
-            },
             {
               "artist": "Greg Freeman",
               "show_date": "2026-11-05",
@@ -100,6 +86,22 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sean-hayes-with-katzroar-and-the-independent-tickets/14978523"
+            },
+            {
+              "artist": "Silverada",
+              "show_date": "2026-11-17",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Emily Nenni"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/silverada-the-independent-tickets/14985543"
+            },
+            {
+              "artist": "Icona Pop",
+              "show_date": "2026-11-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/icona-pop-the-independent-tickets/15047023"
             }
           ]
         },
@@ -164,15 +166,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "The Limi\u00f1anas",
-              "show_date": "2026-11-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3vO"
-            },
             {
               "artist": "Squirrel Flower",
               "show_date": "2026-11-05",
@@ -251,6 +246,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77Qp"
+            },
+            {
+              "artist": "Petty Theft",
+              "show_date": "2026-11-28",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77jZ"
             }
           ]
         },
@@ -439,7 +441,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 20,
           "shows": [
             {
               "artist": "Mystery Skulls",
@@ -546,13 +548,6 @@
           "show_count": 43,
           "shows": [
             {
-              "artist": "Sassy 009",
-              "show_date": "2026-11-04",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513"
-            },
-            {
               "artist": "AZ Chike",
               "show_date": "2026-11-05",
               "show_time": "20:00:00",
@@ -628,6 +623,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/denise-julia-brick-and-mortar-music-hall-tickets/14283244"
+            },
+            {
+              "artist": "OCT,  Billy Marchiafava",
+              "show_date": "2026-11-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963"
             }
           ]
         },
@@ -642,20 +644,6 @@
           "stale": false,
           "show_count": 45,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-11-04",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032724"
-            },
-            {
-              "artist": "Roman Candle/ Postdrome/ The American Dream",
-              "show_date": "2026-11-04",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/roman-candle-postdrome-the-american-neck-of-the-woods-tickets/14371704"
-            },
             {
               "artist": "Strikeforce",
               "show_date": "2026-11-06",
@@ -725,6 +713,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sutekh-hexen-sin-pavilion-home-neck-of-the-woods-tickets/14365644"
+            },
+            {
+              "artist": "Kraus",
+              "show_date": "2026-11-14",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/my-bloody-shoegaze-fest-neck-of-the-woods-tickets/14293924"
+            },
+            {
+              "artist": "Machina: Inharm/ Copalm/ Swagbaby/ Eclipse.XIV/ Mars Kumari",
+              "show_date": "2026-11-15",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/machina-inharm-copalm-swagbaby-eclipsexiv-neck-of-the-woods-tickets/14346724"
             }
           ]
         }
