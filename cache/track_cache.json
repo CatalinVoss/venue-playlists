@@ -7904,5 +7904,40 @@
       "name": "catapult",
       "artist": "my point of you"
     }
+  ],
+  "Sab Star": [],
+  "Rayland Baxter": [
+    {
+      "uri": "spotify:track:3HOXNIj8NjlgjQiBd3YVIi",
+      "name": "Yellow Eyes",
+      "artist": "Rayland Baxter"
+    },
+    {
+      "uri": "spotify:track:1Wi0vXVg2cAXmfkrHwoQx4",
+      "name": "Small Worlds",
+      "artist": "Rayland Baxter"
+    },
+    {
+      "uri": "spotify:track:6H96yLcXFKuBYTFEEi4Vl2",
+      "name": "Willy's Song",
+      "artist": "Rayland Baxter"
+    }
+  ],
+  "Full Circle Boys - Day 1 Tour Experience": [
+    {
+      "uri": "spotify:track:4s6C7fYMR4GsAVesx2guyz",
+      "name": "KNACK",
+      "artist": "Full Circle Boys"
+    },
+    {
+      "uri": "spotify:track:7BWuk5xrVAZYtMVBM2BHXA",
+      "name": "7.16",
+      "artist": "Full Circle Boys"
+    },
+    {
+      "uri": "spotify:track:6CNF6SXpaPvKvUHTZaQClG",
+      "name": "POLITE",
+      "artist": "Full Circle Boys"
+    }
   ]
 }

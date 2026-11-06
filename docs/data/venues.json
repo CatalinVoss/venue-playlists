@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:38:10.918615+00:00",
+  "generated_at": "2026-11-06T14:15:11.921613+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 80,
           "shows": [
-            {
-              "artist": "Greg Freeman",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/greg-freeman-the-independent-tickets/14256774"
-            },
             {
               "artist": "King Buffalo",
               "show_date": "2026-11-06",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/icona-pop-the-independent-tickets/15047023"
+            },
+            {
+              "artist": "Pretty Sick",
+              "show_date": "2026-11-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pretty-sick-the-independent-tickets/15030033"
             }
           ]
         },
@@ -120,7 +120,9 @@
               "artist": "Forrest Nolan",
               "show_date": "2026-11-08",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Lola Blue"
+              ],
               "ticket_url": "https://www.ticketmaster.com/forrest-nolan-indie-movie-soundtrack-album-san-francisco-california-11-08-2026/event/1C006539DDBBE763"
             },
             {
@@ -166,15 +168,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "Squirrel Flower",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mop"
-            },
             {
               "artist": "Alex Cameron",
               "show_date": "2026-11-07",
@@ -253,6 +248,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77jZ"
+            },
+            {
+              "artist": "Buck Meek",
+              "show_date": "2026-12-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3v-"
             }
           ]
         },
@@ -392,7 +394,9 @@
               "artist": "Kate Nash",
               "show_date": "2026-11-15",
               "show_time": "20:00:00",
-              "support_acts": [],
+              "support_acts": [
+                "Susan O'Neill"
+              ],
               "ticket_url": "https://www.ticketweb.com/event/kate-nash-with-joh-chase-swedish-american-hall-tickets/14313314"
             },
             {
@@ -441,17 +445,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 19,
           "shows": [
-            {
-              "artist": "Mystery Skulls",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Fox Stevenson"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/mystery-skulls-fox-stevenson-bimbos-365-club-tickets/14287464"
-            },
             {
               "artist": "Ezra Collective",
               "show_date": "2026-11-12",
@@ -533,6 +528,13 @@
                 "Melissa Carper"
               ],
               "ticket_url": "https://www.ticketweb.com/event/jd-mcpherson-socks-bimbos-365-club-tickets/14303734"
+            },
+            {
+              "artist": "Pokey LaFarge",
+              "show_date": "2026-12-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_oM"
             }
           ]
         },
@@ -547,13 +549,6 @@
           "stale": false,
           "show_count": 43,
           "shows": [
-            {
-              "artist": "AZ Chike",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-tickets/14287724"
-            },
             {
               "artist": "Clay Street Unit, Maxwell Oaks",
               "show_date": "2026-11-06",
@@ -630,6 +625,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963"
+            },
+            {
+              "artist": "Brokencyde",
+              "show_date": "2026-11-17",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Dot Dot Curve"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/brokencyde-dot-dot-curve-9aradox-brick-and-mortar-music-hall-tickets/14372464"
             }
           ]
         },
