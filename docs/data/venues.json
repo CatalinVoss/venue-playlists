@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:15:11.921613+00:00",
+  "generated_at": "2026-11-07T12:58:52.168332+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "King Buffalo",
-              "show_date": "2026-11-06",
-              "show_time": "21:00:00",
-              "support_acts": [
-                "LA Witch"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/king-buffalo-the-independent-tickets/14925533"
-            },
             {
               "artist": "Karina Rykman",
               "show_date": "2026-11-07",
@@ -102,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/pretty-sick-the-independent-tickets/15030033"
+            },
+            {
+              "artist": "Dan Whitlam",
+              "show_date": "2026-11-20",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dan-whitlam-the-independent-tickets/14860013"
             }
           ]
         },
@@ -550,13 +548,6 @@
           "show_count": 43,
           "shows": [
             {
-              "artist": "Clay Street Unit, Maxwell Oaks",
-              "show_date": "2026-11-06",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/clay-street-unit-maxwell-oaks-brick-and-mortar-music-hall-tickets/14244714"
-            },
-            {
               "artist": "Supertaste + 3kelves",
               "show_date": "2026-11-07",
               "show_time": "21:00:00",
@@ -634,6 +625,13 @@
                 "Dot Dot Curve"
               ],
               "ticket_url": "https://www.ticketweb.com/event/brokencyde-dot-dot-curve-9aradox-brick-and-mortar-music-hall-tickets/14372464"
+            },
+            {
+              "artist": "untitled (halo)",
+              "show_date": "2026-11-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/untitled-halo-brick-and-mortar-music-hall-tickets/14269654"
             }
           ]
         },
@@ -646,22 +644,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 45,
+          "show_count": 43,
           "shows": [
-            {
-              "artist": "Strikeforce",
-              "show_date": "2026-11-06",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/statement-of-pride-stand-tall-neck-of-the-woods-tickets/14311504"
-            },
-            {
-              "artist": "Fin/ Hellhunter/ Varulf/ Piss Baptism",
-              "show_date": "2026-11-06",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/fin-hellhunter-varulf-piss-baptism-neck-of-the-woods-tickets/14324364"
-            },
             {
               "artist": "James Ivy/ Harry Teardrop",
               "show_date": "2026-11-07",
@@ -731,6 +715,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/machina-inharm-copalm-swagbaby-eclipsexiv-neck-of-the-woods-tickets/14346724"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-11-17",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227574"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-11-18",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032994"
             }
           ]
         }
