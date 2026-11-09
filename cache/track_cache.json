@@ -7973,5 +7973,22 @@
       "name": "KNACK",
       "artist": "Full Circle Boys"
     }
+  ],
+  "Temper City": [
+    {
+      "uri": "spotify:track:7CsXW2mwJHmItiGJuxwjwW",
+      "name": "Sex & Drugs",
+      "artist": "Temper City"
+    },
+    {
+      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artist": "Temper City"
+    },
+    {
+      "uri": "spotify:track:0SN26lNl4kDUjil8Z7yLjq",
+      "name": "Reverse Psychology",
+      "artist": "Temper City"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:23:12.046777+00:00",
+  "generated_at": "2026-11-09T16:16:27.409364+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "THAO",
-              "show_date": "2026-11-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473"
-            },
             {
               "artist": "Weston Estate",
               "show_date": "2026-11-09",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/nickcheo-the-tour-the-movie-the-independent-tickets/14287224"
+            },
+            {
+              "artist": "Q Marsden",
+              "show_date": "2026-11-21",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/q-marsden-the-independent-tickets/15020333"
             }
           ]
         },
@@ -112,17 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 5,
+          "show_count": 4,
           "shows": [
-            {
-              "artist": "Forrest Nolan",
-              "show_date": "2026-11-08",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Lola Blue"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/forrest-nolan-indie-movie-soundtrack-album-san-francisco-california-11-08-2026/event/1C006539DDBBE763"
-            },
             {
               "artist": "Francisca Valenzuela",
               "show_date": "2026-11-15",
@@ -265,17 +256,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Foy Vance",
-              "show_date": "2026-11-08",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Bonnie Bishop"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_V"
-            },
             {
               "artist": "Jake Xerxes Fussell",
               "show_date": "2026-11-11",
@@ -367,6 +349,13 @@
               "show_time": "16:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pobv"
+            },
+            {
+              "artist": "The Strike",
+              "show_date": "2026-12-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9fU"
             }
           ]
         },
@@ -538,15 +527,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 42,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Triptides + Loco Tranquilo",
-              "show_date": "2026-11-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/triptides-loco-tranquilo-brick-and-mortar-music-hall-tickets/14273794"
-            },
             {
               "artist": "Past Self, Creux Lies, Hot Goth GF",
               "show_date": "2026-11-09",
@@ -625,6 +607,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/brothel-in-belize-machine-brick-and-mortar-music-hall-tickets/14364444"
+            },
+            {
+              "artist": "Bayonne",
+              "show_date": "2026-11-20",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653"
             }
           ]
         },
@@ -639,13 +628,6 @@
           "stale": false,
           "show_count": 42,
           "shows": [
-            {
-              "artist": "Deathtape/ Salt+/ A Block/  Secrey Society/ Futile Destiny",
-              "show_date": "2026-11-08",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/deathtape-salt-a-block-neck-of-the-woods-tickets/14379594"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-11-10",
@@ -722,6 +704,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yo-and-the-electric-mr-neck-of-the-woods-tickets/14402184"
+            },
+            {
+              "artist": "Dead Butterflies",
+              "show_date": "2026-11-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dead-butterflies-neck-of-the-woods-tickets/14364614"
             }
           ]
         }
