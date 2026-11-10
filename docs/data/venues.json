@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:16:27.409364+00:00",
+  "generated_at": "2026-11-10T14:51:38.311285+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 80,
           "shows": [
-            {
-              "artist": "Weston Estate",
-              "show_date": "2026-11-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/14310194"
-            },
             {
               "artist": "Weston Estate",
               "show_date": "2026-11-10",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/q-marsden-the-independent-tickets/15020333"
+            },
+            {
+              "artist": "Mark William Lewis",
+              "show_date": "2026-11-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mark-william-lewis-the-independent-tickets/14271174"
             }
           ]
         },
@@ -425,7 +425,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 20,
           "shows": [
             {
               "artist": "Ezra Collective",
@@ -527,15 +527,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Past Self, Creux Lies, Hot Goth GF",
-              "show_date": "2026-11-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/past-self-creux-lies-hot-brick-and-mortar-music-hall-tickets/15048253"
-            },
             {
               "artist": "Mad Tsai",
               "show_date": "2026-11-11",
@@ -614,6 +607,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653"
+            },
+            {
+              "artist": "veggi",
+              "show_date": "2026-11-21",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/veggi-j-jaxx-brick-and-mortar-music-hall-tickets/14371094"
             }
           ]
         },
