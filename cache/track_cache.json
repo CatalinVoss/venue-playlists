@@ -8007,5 +8007,55 @@
       "name": "Dance Again",
       "artist": "Christian Kuria"
     }
-  ]
+  ],
+  "MC4D": [
+    {
+      "uri": "spotify:track:29lkMlo6cj4at0FICH06z8",
+      "name": "Silver Lining (MC4D Version)",
+      "artist": "MC4D"
+    },
+    {
+      "uri": "spotify:track:3ezlSJ1x6REwzPP3Gf2UxX",
+      "name": "Spirits (MC4D Version)",
+      "artist": "MC4D"
+    },
+    {
+      "uri": "spotify:track:5vOZflu9doigyNV5ifO7pr",
+      "name": "Be Here With Me Now",
+      "artist": "MC4D"
+    }
+  ],
+  "Gorilla Glue & Lil Nakur": [
+    {
+      "uri": "spotify:track:49zeo9ppt5ZlohRz5epC1l",
+      "name": "\u041e\u043b\u0430\u0434\u0443\u0448\u043a\u0438",
+      "artist": "GORILLA GLUE"
+    },
+    {
+      "uri": "spotify:track:76g0PjKrF07DYkKbpxXWPc",
+      "name": "WOOPAAA",
+      "artist": "GORILLA GLUE"
+    },
+    {
+      "uri": "spotify:track:7iunnYvwcI0T16OsPYIDxb",
+      "name": "\u0411\u0430\u043d\u044f",
+      "artist": "GORILLA GLUE"
+    }
+  ],
+  "Baby Jane \u2014 Winter Forever Tour": [],
+  "Cartoon Hearts, Amity St., Trip Dive, Zacc and the scissorlips": [
+    {
+      "uri": "spotify:track:66ZkBbxPMZ14MCugUv1Lon",
+      "name": "Made For The Game",
+      "artist": "Cartoon"
+    }
+  ],
+  "Cartoon Hearts/ Amity St./ Trip Drive/ Zacc & The Scissorlips": [
+    {
+      "uri": "spotify:track:570ulklwwdTTfKBsA7QEuG",
+      "name": "Euphoria",
+      "artist": "Cartoon"
+    }
+  ],
+  "Buzzed Lightbeer/ Bloodsugar/ Leer/ For Horses": []
 }
