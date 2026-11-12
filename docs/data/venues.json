@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:20:12.687721+00:00",
+  "generated_at": "2026-11-12T15:13:08.536637+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 80,
           "shows": [
-            {
-              "artist": "Stop Light Observations",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stop-light-observations-the-independent-tickets/14936543"
-            },
             {
               "artist": "Stephen Day",
               "show_date": "2026-11-12",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/1-umbrella-the-independent-tickets/14316614"
+            },
+            {
+              "artist": "O'Flynn",
+              "show_date": "2026-11-27",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/oflynn-the-independent-tickets/15043633"
             }
           ]
         },
@@ -112,17 +112,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 4,
+          "show_count": 3,
           "shows": [
-            {
-              "artist": "Francisca Valenzuela",
-              "show_date": "2026-11-15",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Gabi Bravo"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/francisca-valenzuela-san-francisco-california-11-15-2026/event/1C0064B4BCB55F8A"
-            },
             {
               "artist": "Jamila Woods",
               "show_date": "2026-11-18",
@@ -157,15 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 19,
           "shows": [
-            {
-              "artist": "Buzzcocks",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3p3"
-            },
             {
               "artist": "Marc Broussard",
               "show_date": "2026-11-12",
@@ -244,6 +228,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77jk"
+            },
+            {
+              "artist": "Western Standard Time Ska Orchestra",
+              "show_date": "2027-01-08",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77j9"
             }
           ]
         },
@@ -256,17 +247,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Jake Xerxes Fussell",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Dougie Poole"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_U"
-            },
             {
               "artist": "Russian Circles",
               "show_date": "2026-11-12",
@@ -356,6 +338,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9fU"
+            },
+            {
+              "artist": "Matt Hansen",
+              "show_date": "2026-12-13",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70UoJ"
             }
           ]
         },
@@ -527,22 +516,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 42,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Mad Tsai",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PtAU"
-            },
-            {
-              "artist": "Mad Tsai",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mad-tsai-piao-bluhour-brick-and-mortar-music-hall-tickets/14213254"
-            },
             {
               "artist": "Natanya",
               "show_date": "2026-11-12",
@@ -614,6 +589,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/veggi-j-jaxx-brick-and-mortar-music-hall-tickets/14371094"
+            },
+            {
+              "artist": "Ovrkast",
+              "show_date": "2026-11-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ovrkast-still-striking-tour-brick-and-mortar-music-hall-tickets/14343104"
+            },
+            {
+              "artist": "Thoughts on Bowling",
+              "show_date": "2026-11-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/thoughts-on-bowling-brick-and-mortar-music-hall-tickets/15032523"
             }
           ]
         },
@@ -626,22 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 44,
+          "show_count": 41,
           "shows": [
-            {
-              "artist": "Boltcutter/ Misery Whip/ Forced To Suffer/ Iron Front",
-              "show_date": "2026-11-11",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/boltcutter-misery-whip-forced-to-neck-of-the-woods-tickets/14305054"
-            },
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-11-11",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032844"
-            },
             {
               "artist": "Meadow/ Hoarse/ Skiptrace/ Traceback",
               "show_date": "2026-11-12",
@@ -711,6 +686,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/danny-ali-pyro-kp-quincy-neck-of-the-woods-tickets/14360224"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-11-24",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227424"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-11-25",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032864"
             }
           ]
         }
