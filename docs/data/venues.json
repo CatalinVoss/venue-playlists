@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:13:08.536637+00:00",
+  "generated_at": "2026-11-13T14:33:16.443097+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 80,
           "shows": [
-            {
-              "artist": "Stephen Day",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stephen-day-the-independent-tickets/14975963"
-            },
             {
               "artist": "Whitmer Thomas",
               "show_date": "2026-11-13",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/oflynn-the-independent-tickets/15043633"
+            },
+            {
+              "artist": "Oden & Fatzo Live",
+              "show_date": "2026-11-28",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/oden-fatzo-live-the-independent-tickets/14330754"
             }
           ]
         },
@@ -148,15 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Marc Broussard",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pK"
-            },
             {
               "artist": "Other Lives",
               "show_date": "2026-11-13",
@@ -235,6 +228,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77j9"
+            },
+            {
+              "artist": "Swirlies",
+              "show_date": "2027-01-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77jb"
             }
           ]
         },
@@ -247,15 +247,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "Russian Circles",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pwp3"
-            },
             {
               "artist": "Prayers",
               "show_date": "2026-11-16",
@@ -345,6 +338,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70UoJ"
+            },
+            {
+              "artist": "82MAJOR",
+              "show_date": "2026-12-17",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/2026-82major-82club-out-great-american-music-hall-tickets/14355784"
             }
           ]
         },
@@ -414,22 +414,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Ezra Collective",
-              "show_date": "2026-11-12",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv0ZO"
-            },
-            {
-              "artist": "Ezra Collective",
-              "show_date": "2026-11-12",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ezra-collective-here-bimbos-365-club-tickets/14205374"
-            },
             {
               "artist": "Mustache Harbor",
               "show_date": "2026-11-13",
@@ -504,6 +490,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_oM"
+            },
+            {
+              "artist": "Pokey LaFarge",
+              "show_date": "2026-12-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pokey-lafarge-bimbos-365-club-tickets/14903433"
+            },
+            {
+              "artist": "Shaun Cassidy - UNWRAPPED: Songs & Stories For The Holidays",
+              "show_date": "2026-12-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/shaun-cassidy-unwrapped-bimbos-365-club-tickets/14271224"
             }
           ]
         },
@@ -516,15 +516,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Natanya",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/natanya-brick-and-mortar-music-hall-tickets/14980533"
-            },
             {
               "artist": "Deante' Hitchcock",
               "show_date": "2026-11-13",
@@ -603,6 +596,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/thoughts-on-bowling-brick-and-mortar-music-hall-tickets/15032523"
+            },
+            {
+              "artist": "Mikey Vee, Lyka B, Solus The Happy Human",
+              "show_date": "2026-11-28",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mikey-vee-lyka-b-solus-brick-and-mortar-music-hall-tickets/14361294"
             }
           ]
         },
@@ -615,15 +615,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Meadow/ Hoarse/ Skiptrace/ Traceback",
-              "show_date": "2026-11-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/meadow-hoarse-skiptrace-traceback-neck-of-the-woods-tickets/14377934"
-            },
             {
               "artist": "LOCKED SHUT",
               "show_date": "2026-11-13",
@@ -700,6 +693,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032864"
+            },
+            {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-11-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14421024"
             }
           ]
         }

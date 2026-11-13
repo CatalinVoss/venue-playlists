@@ -8075,5 +8075,22 @@
       "name": "Problems",
       "artist": "Westwood"
     }
+  ],
+  "Ruby Waters": [
+    {
+      "uri": "spotify:track:2SwDxrcsSFe5bbCErtA5VV",
+      "name": "WET T-SHIRT",
+      "artist": "Ruby Waters"
+    },
+    {
+      "uri": "spotify:track:3lK2gBDAAywjbQ34STiKUH",
+      "name": "GET A GRIP",
+      "artist": "Ruby Waters"
+    },
+    {
+      "uri": "spotify:track:5ZEq9YuBdFgwAnYmjafWu3",
+      "name": "Quantum Physics",
+      "artist": "Ruby Waters"
+    }
   ]
 }
