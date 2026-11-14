@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:33:16.443097+00:00",
+  "generated_at": "2026-11-14T13:29:44.596923+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 80,
+          "show_count": 79,
           "shows": [
-            {
-              "artist": "Whitmer Thomas",
-              "show_date": "2026-11-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/whitmer-thomas-the-independent-tickets/15036013"
-            },
             {
               "artist": "Sean Hayes",
               "show_date": "2026-11-14",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/oden-fatzo-live-the-independent-tickets/14330754"
+            },
+            {
+              "artist": "UNKLE",
+              "show_date": "2026-11-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/unkle-the-independent-tickets/14322434"
             }
           ]
         },
@@ -148,15 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Other Lives",
-              "show_date": "2026-11-13",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mob"
-            },
             {
               "artist": "The Cactus Blossoms",
               "show_date": "2026-11-14",
@@ -235,6 +228,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA77jb"
+            },
+            {
+              "artist": "Book of Love",
+              "show_date": "2027-01-15",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Iuy"
             }
           ]
         },
@@ -414,15 +414,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Mustache Harbor",
-              "show_date": "2026-11-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-bimbos-365-club-tickets/14312824"
-            },
             {
               "artist": "Hug",
               "show_date": "2026-11-20",
@@ -452,14 +445,14 @@
               "show_date": "2026-12-02",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-bimbos-365-club-tickets/14285144"
+              "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bimbos-365-club-tickets/14285144"
             },
             {
               "artist": "The Womack Sisters",
               "show_date": "2026-12-03",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-bimbos-365-club-tickets/15035463"
+              "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-dj-harry-bimbos-365-club-tickets/15035463"
             },
             {
               "artist": "Squirrel Nut Zippers",
@@ -504,6 +497,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/shaun-cassidy-unwrapped-bimbos-365-club-tickets/14271224"
+            },
+            {
+              "artist": "Tainted Love",
+              "show_date": "2026-12-31",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "DJ Omar"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/new-years-eve-with-tainted-bimbos-365-club-tickets/14386334"
             }
           ]
         },
@@ -516,22 +518,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "Deante' Hitchcock",
-              "show_date": "2026-11-13",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/deante-hitchcock-brick-and-mortar-music-hall-tickets/14303374?REFERRAL_ID=tmfeed"
-            },
-            {
-              "artist": "Deante' Hitchcock",
-              "show_date": "2026-11-13",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/deante-hitchcock-brick-and-mortar-music-hall-tickets/14303384"
-            },
             {
               "artist": "Denise Julia",
               "show_date": "2026-11-14",
@@ -603,6 +591,20 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mikey-vee-lyka-b-solus-brick-and-mortar-music-hall-tickets/14361294"
+            },
+            {
+              "artist": "Gorilla Glue & Lil Nakur",
+              "show_date": "2026-12-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/gorilla-glue-lil-nakur-brick-and-mortar-music-hall-tickets/14437764?REFERRAL_ID=tmfeed"
+            },
+            {
+              "artist": "The Kilans",
+              "show_date": "2026-12-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-kilans-could-you-brick-and-mortar-music-hall-tickets/15040833"
             }
           ]
         },
@@ -615,22 +617,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 39,
           "shows": [
-            {
-              "artist": "LOCKED SHUT",
-              "show_date": "2026-11-13",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/locked-shut-rust-drop-step-neck-of-the-woods-tickets/14281764"
-            },
-            {
-              "artist": "Sutekh Hexen/ Sin Pavilion/ Home Is The Void/ Silakbo",
-              "show_date": "2026-11-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sutekh-hexen-sin-pavilion-home-neck-of-the-woods-tickets/14365644"
-            },
             {
               "artist": "Kraus",
               "show_date": "2026-11-14",
@@ -700,6 +688,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14421024"
+            },
+            {
+              "artist": "Cartoon Hearts/ Amity St./ Trip Drive/ Zacc & The Scissorlips",
+              "show_date": "2026-11-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cartoon-hearts-amity-st-trip-neck-of-the-woods-tickets/14439714"
+            },
+            {
+              "artist": "Thus Spoke Zarathustra/ Destroy All! Humans/ What I Bleed Is Yours/ Fall of the King",
+              "show_date": "2026-11-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/thus-spoke-zarathustra-destroy-all-neck-of-the-woods-tickets/14377964"
             }
           ]
         }
