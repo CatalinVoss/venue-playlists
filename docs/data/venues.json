@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:29:44.596923+00:00",
+  "generated_at": "2026-11-15T13:55:05.481788+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 79,
           "shows": [
-            {
-              "artist": "Sean Hayes",
-              "show_date": "2026-11-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sean-hayes-with-katzroar-and-the-independent-tickets/14978523"
-            },
             {
               "artist": "Silverada",
               "show_date": "2026-11-17",
@@ -100,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/unkle-the-independent-tickets/14322434"
+            },
+            {
+              "artist": "The Buttertones",
+              "show_date": "2026-12-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-buttertones-the-independent-tickets/14308734"
             }
           ]
         },
@@ -148,15 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "The Cactus Blossoms",
-              "show_date": "2026-11-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3pf"
-            },
             {
               "artist": "Craig Finn",
               "show_date": "2026-11-15",
@@ -235,6 +228,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Iuy"
+            },
+            {
+              "artist": "Book of Love",
+              "show_date": "2027-01-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo_"
             }
           ]
         },
@@ -518,15 +518,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 37,
           "shows": [
-            {
-              "artist": "Denise Julia",
-              "show_date": "2026-11-14",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/denise-julia-brick-and-mortar-music-hall-tickets/14283244"
-            },
             {
               "artist": "OCT,  Billy Marchiafava",
               "show_date": "2026-11-15",
@@ -605,6 +598,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-kilans-could-you-brick-and-mortar-music-hall-tickets/15040833"
+            },
+            {
+              "artist": "Sunshine Benzie",
+              "show_date": "2026-12-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sunshine-benzie-brick-and-mortar-music-hall-tickets/14375284"
             }
           ]
         },
@@ -617,15 +617,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "Kraus",
-              "show_date": "2026-11-14",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/my-bloody-shoegaze-fest-neck-of-the-woods-tickets/14293924"
-            },
             {
               "artist": "Machina: Inharm/ Copalm/ Swagbaby/ Eclipse.XIV/ Mars Kumari",
               "show_date": "2026-11-15",
@@ -702,6 +695,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/thus-spoke-zarathustra-destroy-all-neck-of-the-woods-tickets/14377964"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-12-01",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227584"
             }
           ]
         }
