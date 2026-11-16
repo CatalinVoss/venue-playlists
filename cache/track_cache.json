@@ -8110,5 +8110,39 @@
       "name": "Molly In The Club",
       "artist": "Sophia Stel"
     }
+  ],
+  "Sophia Stel": [
+    {
+      "uri": "spotify:track:4AgFz88NHRADgVAV2MzOSq",
+      "name": "Power",
+      "artist": "Sophia Stel"
+    },
+    {
+      "uri": "spotify:track:0FAlG6uOeaXWuRdDxaeIQY",
+      "name": "I'll Take It",
+      "artist": "Sophia Stel"
+    },
+    {
+      "uri": "spotify:track:7yF9lVGIUbSOLKIaERqsn3",
+      "name": "Molly In The Club",
+      "artist": "Sophia Stel"
+    }
+  ],
+  "Noah Gundersen": [
+    {
+      "uri": "spotify:track:3MTSqaQ3guZR0kak8FIwQY",
+      "name": "Round Here",
+      "artist": "Noah Gundersen"
+    },
+    {
+      "uri": "spotify:track:4m5Pj4jk0XAOxzIPLeItuP",
+      "name": "Cigarettes",
+      "artist": "Noah Gundersen"
+    },
+    {
+      "uri": "spotify:track:0x4h86BfG86UdHO5TbfZeV",
+      "name": "Atlantis",
+      "artist": "Noah Gundersen"
+    }
   ]
 }

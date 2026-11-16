@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:55:05.481788+00:00",
+  "generated_at": "2026-11-16T15:44:24.408899+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 79,
+          "show_count": 81,
           "shows": [
             {
               "artist": "Silverada",
@@ -148,15 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Craig Finn",
-              "show_date": "2026-11-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPv0"
-            },
             {
               "artist": "Margaret Glaspy",
               "show_date": "2026-11-16",
@@ -235,6 +228,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Mo_"
+            },
+            {
+              "artist": "Fruition",
+              "show_date": "2027-01-22",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3Fo"
             }
           ]
         },
@@ -247,7 +247,7 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 24,
           "shows": [
             {
               "artist": "Prayers",
@@ -357,17 +357,8 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 6,
+          "show_count": 5,
           "shows": [
-            {
-              "artist": "Kate Nash",
-              "show_date": "2026-11-15",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Susan O'Neill"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/kate-nash-with-joh-chase-swedish-american-hall-tickets/14313314"
-            },
             {
               "artist": "Elijah Fox",
               "show_date": "2026-12-03",
@@ -518,15 +509,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "OCT,  Billy Marchiafava",
-              "show_date": "2026-11-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963"
-            },
             {
               "artist": "Brokencyde",
               "show_date": "2026-11-17",
@@ -605,6 +589,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sunshine-benzie-brick-and-mortar-music-hall-tickets/14375284"
+            },
+            {
+              "artist": "Nightmare of You",
+              "show_date": "2026-12-04",
+              "show_time": "21:00:00",
+              "support_acts": [
+                "Anthony Family"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/nightmare-of-you-anthony-family-brick-and-mortar-music-hall-tickets/14284994"
             }
           ]
         },
@@ -619,13 +612,6 @@
           "stale": false,
           "show_count": 38,
           "shows": [
-            {
-              "artist": "Machina: Inharm/ Copalm/ Swagbaby/ Eclipse.XIV/ Mars Kumari",
-              "show_date": "2026-11-15",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/machina-inharm-copalm-swagbaby-eclipsexiv-neck-of-the-woods-tickets/14346724"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-11-17",
@@ -702,6 +688,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227584"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-12-02",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032834"
             }
           ]
         }
