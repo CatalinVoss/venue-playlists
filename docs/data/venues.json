@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:44:24.408899+00:00",
+  "generated_at": "2026-11-17T15:58:44.806209+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 84,
           "shows": [
             {
               "artist": "Silverada",
@@ -148,17 +148,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 14,
           "shows": [
-            {
-              "artist": "Margaret Glaspy",
-              "show_date": "2026-11-16",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Anna Tivel"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvP"
-            },
             {
               "artist": "Maddie Zahm",
               "show_date": "2026-11-20",
@@ -235,6 +226,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv3Fo"
+            },
+            {
+              "artist": "Ty Segall",
+              "show_date": "2027-01-29",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Kfw"
             }
           ]
         },
@@ -247,18 +245,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "Prayers",
-              "show_date": "2026-11-16",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Devora",
-                "Chriz Amaya"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_z"
-            },
             {
               "artist": "Armored Saint",
               "show_date": "2026-11-17",
@@ -345,6 +333,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/2026-82major-82club-out-great-american-music-hall-tickets/14355784"
+            },
+            {
+              "artist": "The Mother Hips",
+              "show_date": "2026-12-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qk"
             }
           ]
         },
@@ -509,7 +504,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 37,
           "shows": [
             {
               "artist": "Brokencyde",
@@ -610,7 +605,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 39,
           "shows": [
             {
               "artist": "Karaoke Tuesday",

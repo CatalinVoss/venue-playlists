@@ -8144,5 +8144,63 @@
       "name": "Atlantis",
       "artist": "Noah Gundersen"
     }
+  ],
+  "Amira Elfeky": [
+    {
+      "uri": "spotify:track:35qlLHdXJ60WKwKIryhL0U",
+      "name": "Funeral",
+      "artist": "Amira Elfeky"
+    },
+    {
+      "uri": "spotify:track:4z4JQxp5ddY3Z8ETnaPPAK",
+      "name": "Will You Love Me When I\u2019m Dead",
+      "artist": "Amira Elfeky"
+    },
+    {
+      "uri": "spotify:track:5oI4fVw2iCZQlWxD85hly8",
+      "name": "I don\u2019t want to fall in love",
+      "artist": "Amira Elfeky"
+    }
+  ],
+  "Rio Romeo": [
+    {
+      "uri": "spotify:track:47ck5fZE0E2gbd4cjQoJ3V",
+      "name": "Nothing's New",
+      "artist": "Rio Romeo"
+    },
+    {
+      "uri": "spotify:track:6ZGPIIKlcpOvM0v2YaSY8g",
+      "name": "Inarticulation",
+      "artist": "Rio Romeo"
+    },
+    {
+      "uri": "spotify:track:4KMKicuFmMYCT6exgJDz4i",
+      "name": "Absence",
+      "artist": "Rio Romeo"
+    }
+  ],
+  "Dogma": [
+    {
+      "uri": "spotify:track:05y8S5N6z2IH3jpmQx07yn",
+      "name": "Like A Prayer",
+      "artist": "Dogma"
+    }
+  ],
+  "Montana 700 \u2014 The Reminiscing Tour": [
+    {
+      "uri": "spotify:track:1EfgrKTXGhswv1f34lVTkI",
+      "name": "700 Loads",
+      "artist": "Montana 700"
+    },
+    {
+      "uri": "spotify:track:2IFfSow1cCrJ4dbtar3EYG",
+      "name": "Still Hands On",
+      "artist": "Montana 700"
+    },
+    {
+      "uri": "spotify:track:0sREdoEG2CoYTu4VRwYNkh",
+      "name": "Switch The Hustle",
+      "artist": "Montana 700"
+    }
   ]
 }
