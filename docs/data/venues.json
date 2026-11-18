@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:58:44.806209+00:00",
+  "generated_at": "2026-11-18T15:38:41.515713+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 84,
+          "show_count": 86,
           "shows": [
-            {
-              "artist": "Silverada",
-              "show_date": "2026-11-17",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Emily Nenni"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/silverada-the-independent-tickets/14985543"
-            },
             {
               "artist": "Icona Pop",
               "show_date": "2026-11-18",
@@ -100,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-buttertones-the-independent-tickets/14308734"
+            },
+            {
+              "artist": "MEEK",
+              "show_date": "2026-12-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/meek-the-independent-tickets/14941923"
             }
           ]
         },
@@ -148,7 +146,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 14,
+          "show_count": 15,
           "shows": [
             {
               "artist": "Maddie Zahm",
@@ -248,15 +246,6 @@
           "show_count": 23,
           "shows": [
             {
-              "artist": "Armored Saint",
-              "show_date": "2026-11-17",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Metal Church"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe7-y"
-            },
-            {
               "artist": "Sueco",
               "show_date": "2026-11-18",
               "show_time": "20:00:00",
@@ -340,6 +329,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qk"
+            },
+            {
+              "artist": "The Mother Hips",
+              "show_date": "2026-12-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvI0z"
             }
           ]
         },
@@ -504,17 +500,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Brokencyde",
-              "show_date": "2026-11-17",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Dot Dot Curve"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/brokencyde-dot-dot-curve-9aradox-brick-and-mortar-music-hall-tickets/14372464"
-            },
             {
               "artist": "untitled (halo)",
               "show_date": "2026-11-18",
@@ -593,6 +580,13 @@
                 "Anthony Family"
               ],
               "ticket_url": "https://www.ticketweb.com/event/nightmare-of-you-anthony-family-brick-and-mortar-music-hall-tickets/14284994"
+            },
+            {
+              "artist": "Tommy Fleece + Reserv",
+              "show_date": "2026-12-05",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/tommy-fleece-reserv-brick-and-mortar-music-hall-tickets/14307074"
             }
           ]
         },
@@ -608,13 +602,6 @@
           "show_count": 39,
           "shows": [
             {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-11-17",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227574"
-            },
-            {
               "artist": "Open Mic Night",
               "show_date": "2026-11-18",
               "show_time": "19:30:00",
@@ -629,7 +616,7 @@
               "ticket_url": "https://www.ticketweb.com/event/yo-and-the-electric-mr-neck-of-the-woods-tickets/14402184"
             },
             {
-              "artist": "Dead Butterflies",
+              "artist": "awakebutstillinbed",
               "show_date": "2026-11-20",
               "show_time": "20:00:00",
               "support_acts": [],
@@ -690,6 +677,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032834"
+            },
+            {
+              "artist": "2th/ A Brief Memoir/ A Mourning In Heaven/ Softsnag/ County Fair",
+              "show_date": "2026-12-03",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/2th-a-brief-memoir-a-neck-of-the-woods-tickets/14446854"
             }
           ]
         }
