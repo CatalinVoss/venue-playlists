@@ -8284,5 +8284,39 @@
       "artist": "awakebutstillinbed"
     }
   ],
-  "Big Bad Bitchfest 3 (Night 1)": []
+  "Big Bad Bitchfest 3 (Night 1)": [],
+  "TMOTV: The Music of Tom Verlaine": [
+    {
+      "uri": "spotify:track:7eB1OBanMu6jyJhmW81weX",
+      "name": "Brief Description",
+      "artist": "Tom Verlaine"
+    },
+    {
+      "uri": "spotify:track:3kPUfIngNEyUWeAPVUhgzZ",
+      "name": "Flame",
+      "artist": "Tom Verlaine"
+    },
+    {
+      "uri": "spotify:track:7qEO7rt3QJFV0zTgxILQis",
+      "name": "Breakin' My Heart",
+      "artist": "Tom Verlaine"
+    }
+  ],
+  "Lightris & Ekebabyy": [
+    {
+      "uri": "spotify:track:6A0hbxqneFkrSWeBsC8V1s",
+      "name": "bin",
+      "artist": "Lightris"
+    },
+    {
+      "uri": "spotify:track:411AGut9V5DrTKE4cwOsbZ",
+      "name": "Kwik Trip",
+      "artist": "Lightris"
+    },
+    {
+      "uri": "spotify:track:6Nn9ukAkanidjcJZ6Uj8XC",
+      "name": "Everyday",
+      "artist": "Lightris"
+    }
+  ]
 }

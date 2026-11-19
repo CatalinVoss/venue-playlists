@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:38:41.515713+00:00",
+  "generated_at": "2026-11-19T15:43:20.893279+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 86,
+          "show_count": 85,
           "shows": [
-            {
-              "artist": "Icona Pop",
-              "show_date": "2026-11-18",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/icona-pop-the-independent-tickets/15047023"
-            },
             {
               "artist": "Pretty Sick",
               "show_date": "2026-11-19",
@@ -98,6 +91,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/meek-the-independent-tickets/14941923"
+            },
+            {
+              "artist": "Nirosta Steel",
+              "show_date": "2026-12-04",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/nirosta-steel-the-independent-tickets/14372924"
             }
           ]
         },
@@ -110,17 +110,8 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 3,
+          "show_count": 2,
           "shows": [
-            {
-              "artist": "Jamila Woods",
-              "show_date": "2026-11-18",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Hannah Mayree"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/jamila-woods-10-years-of-heavn-san-francisco-california-11-18-2026/event/1C006505B4884946"
-            },
             {
               "artist": "Oliver Hazard",
               "show_date": "2026-12-10",
@@ -146,7 +137,7 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 16,
           "shows": [
             {
               "artist": "Maddie Zahm",
@@ -243,17 +234,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "Sueco",
-              "show_date": "2026-11-18",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Jeris Johnson"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4_y"
-            },
             {
               "artist": "Jayski",
               "show_date": "2026-11-20",
@@ -336,6 +318,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvI0z"
+            },
+            {
+              "artist": "The Mother Hips",
+              "show_date": "2026-12-20",
+              "show_time": "13:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Q6"
             }
           ]
         },
@@ -396,7 +385,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 18,
           "shows": [
             {
               "artist": "Hug",
@@ -503,13 +492,6 @@
           "show_count": 36,
           "shows": [
             {
-              "artist": "untitled (halo)",
-              "show_date": "2026-11-18",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/untitled-halo-brick-and-mortar-music-hall-tickets/14269654"
-            },
-            {
               "artist": "Brothel In Belize \u2014 Machine Machine Fall 2026",
               "show_date": "2026-11-19",
               "show_time": "20:00:00",
@@ -587,6 +569,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/tommy-fleece-reserv-brick-and-mortar-music-hall-tickets/14307074"
+            },
+            {
+              "artist": "Geordie Kieffer",
+              "show_date": "2026-12-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/geordie-kieffer-brick-mortar-music-hall-tickets/14292004?REFERRAL_ID=tmfeed"
             }
           ]
         },
@@ -599,15 +588,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-11-18",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032994"
-            },
             {
               "artist": "Yo! And The Electric/ Mr. Vale's Math Class/ I Am The Octopus",
               "show_date": "2026-11-19",
@@ -684,6 +666,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/2th-a-brief-memoir-a-neck-of-the-woods-tickets/14446854"
+            },
+            {
+              "artist": "Buzzed Lightbeer/ Bloodsugar/ Leer/ For Horses",
+              "show_date": "2026-12-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/buzzed-lightbeer-bloodsugar-leer-for-neck-of-the-woods-tickets/14439724"
             }
           ]
         }
