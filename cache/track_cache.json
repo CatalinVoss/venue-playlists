@@ -8318,5 +8318,40 @@
       "name": "Everyday",
       "artist": "Lightris"
     }
+  ],
+  "BabyTron": [
+    {
+      "uri": "spotify:track:07iXzCjxJdfHTUenA34iXt",
+      "name": "Out On Bond",
+      "artist": "BabyTron"
+    },
+    {
+      "uri": "spotify:track:4TPot2zdZDMXE8J8nkmvW3",
+      "name": "A2Z",
+      "artist": "BabyTron"
+    },
+    {
+      "uri": "spotify:track:2QxYsn2ygOrfJ70JItrlCO",
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mixx",
+      "artist": "BabyTron"
+    }
+  ],
+  "The Official Santa Con SF Bar Crawl": [],
+  "Tony Jupiter": [
+    {
+      "uri": "spotify:track:67r4mkO7EGvMvoCNvcezK6",
+      "name": "Solo Sin Tu Amor",
+      "artist": "Tony Jupiter"
+    },
+    {
+      "uri": "spotify:track:4cb6JF67rnn9kKr8h3rkAo",
+      "name": "Quedate Conmigo",
+      "artist": "Tony Jupiter"
+    },
+    {
+      "uri": "spotify:track:5CPt6G9BJOMrUatyVe6Qsa",
+      "name": "It's Over",
+      "artist": "Tony Jupiter"
+    }
   ]
 }
