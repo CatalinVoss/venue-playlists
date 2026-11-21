@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:26:08.009292+00:00",
+  "generated_at": "2026-11-21T14:38:01.469813+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 84,
           "shows": [
-            {
-              "artist": "Dan Whitlam",
-              "show_date": "2026-11-20",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dan-whitlam-the-independent-tickets/14860013"
-            },
-            {
-              "artist": "@NICKCHEO the *TOUR* the *MOVIE*",
-              "show_date": "2026-11-20",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/nickcheo-the-tour-the-movie-the-independent-tickets/14287224"
-            },
             {
               "artist": "Q Marsden",
               "show_date": "2026-11-21",
@@ -98,6 +84,22 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dragon-smoke-the-independent-tickets/14242194"
+            },
+            {
+              "artist": "Fireworks",
+              "show_date": "2026-12-06",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Stateside"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/fireworks-the-independent-tickets/14256724"
+            },
+            {
+              "artist": "Lazer Dim 700",
+              "show_date": "2026-12-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lazer-dim-700-the-independent-tickets/14404834"
             }
           ]
         },
@@ -137,15 +139,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Maddie Zahm",
-              "show_date": "2026-11-20",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PK7b"
-            },
             {
               "artist": "Poi Dog Pondering",
               "show_date": "2026-11-21",
@@ -222,6 +217,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Kfw"
+            },
+            {
+              "artist": "Ty Segall",
+              "show_date": "2027-01-30",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7p4v"
             }
           ]
         },
@@ -234,17 +236,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Jayski",
-              "show_date": "2026-11-20",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "The Dawn"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4QZ"
-            },
             {
               "artist": "Andrew McMahon",
               "show_date": "2026-11-21",
@@ -325,6 +318,13 @@
               "show_time": "13:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Q6"
+            },
+            {
+              "artist": "Oakland Interfaith Gospel Choir",
+              "show_date": "2026-12-24",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4QF"
             }
           ]
         },
@@ -385,18 +385,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Hug",
-              "show_date": "2026-11-20",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Gyan Riley",
-                "Devendra Banhart"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/hug-feat-gyan-riley-devendra-bimbos-365-club-tickets/14234634"
-            },
             {
               "artist": "Wonderbread 5",
               "show_date": "2026-11-27",
@@ -477,6 +467,13 @@
                 "DJ Omar"
               ],
               "ticket_url": "https://www.ticketweb.com/event/new-years-eve-with-tainted-bimbos-365-club-tickets/14386334"
+            },
+            {
+              "artist": "Bebel Gilberto",
+              "show_date": "2027-01-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bebel-gilberto-25-years-of-bimbos-365-club-tickets/14418434"
             }
           ]
         },
@@ -491,13 +488,6 @@
           "stale": false,
           "show_count": 37,
           "shows": [
-            {
-              "artist": "Bayonne",
-              "show_date": "2026-11-20",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653"
-            },
             {
               "artist": "veggi",
               "show_date": "2026-11-21",
@@ -576,6 +566,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/kumo-99-brick-and-mortar-music-hall-tickets/14341324"
+            },
+            {
+              "artist": "Father of Peace",
+              "show_date": "2026-12-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/father-of-peace-brick-and-mortar-music-hall-tickets/14206324"
             }
           ]
         },
@@ -590,13 +587,6 @@
           "stale": false,
           "show_count": 37,
           "shows": [
-            {
-              "artist": "awakebutstillinbed",
-              "show_date": "2026-11-20",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/dead-butterflies-neck-of-the-woods-tickets/14364614"
-            },
             {
               "artist": "Danny Ali/ Pyro KP/ Quincy ISO/ Griffen",
               "show_date": "2026-11-21",
@@ -673,6 +663,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sleepyhead-neck-of-the-woods-tickets/14452364"
+            },
+            {
+              "artist": "Slow Joy/ aWannabe/ TBA",
+              "show_date": "2026-12-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/slow-joy-awannabe-tba-neck-of-the-woods-tickets/14391834"
             }
           ]
         }

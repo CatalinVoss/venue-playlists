@@ -8353,5 +8353,24 @@
       "name": "It's Over",
       "artist": "Tony Jupiter"
     }
-  ]
+  ],
+  "Rin": [],
+  "Islandman": [
+    {
+      "uri": "spotify:track:2gL3yeSrVcdgYUgebT6TKN",
+      "name": "Sumeru",
+      "artist": "islandman"
+    },
+    {
+      "uri": "spotify:track:6opwC6PK5zmG5Wqu30EsL7",
+      "name": "Self Hypnosis",
+      "artist": "islandman"
+    },
+    {
+      "uri": "spotify:track:4oDj9KjjAHfKIlERxoUu1f",
+      "name": "Khepre",
+      "artist": "islandman"
+    }
+  ],
+  "Bongfather, Band of coyotes, Liam Miller band, Niantic": []
 }
