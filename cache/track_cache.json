@@ -8372,5 +8372,22 @@
       "artist": "islandman"
     }
   ],
-  "Bongfather, Band of coyotes, Liam Miller band, Niantic": []
+  "Bongfather, Band of coyotes, Liam Miller band, Niantic": [],
+  "Knats": [
+    {
+      "uri": "spotify:track:1ZpWjJ6jBfzTE3cjoKovGS",
+      "name": "Never Gonna Be A Boxer",
+      "artist": "Knats"
+    },
+    {
+      "uri": "spotify:track:4z5istXyPyAuArb5Kkb68b",
+      "name": "One For Josh",
+      "artist": "Knats"
+    },
+    {
+      "uri": "spotify:track:2hx7lGPTvriQLsxCeyTQei",
+      "name": "Wor Jackie",
+      "artist": "Knats"
+    }
+  ]
 }
