@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:33:03.994382+00:00",
+  "generated_at": "2026-11-23T18:05:32.990591+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 83,
+          "show_count": 82,
           "shows": [
-            {
-              "artist": "Mark William Lewis",
-              "show_date": "2026-11-22",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/mark-william-lewis-the-independent-tickets/14271174"
-            },
             {
               "artist": "1 Umbrella",
               "show_date": "2026-11-25",
@@ -102,6 +95,13 @@
                 "The Umbrellas"
               ],
               "ticket_url": "https://www.ticketweb.com/event/wishy-the-independent-tickets/15032533"
+            },
+            {
+              "artist": "feeble little horse",
+              "show_date": "2026-12-09",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14244224"
             }
           ]
         },
@@ -486,7 +486,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 38,
           "shows": [
             {
               "artist": "Ovrkast",
@@ -585,7 +585,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 38,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
