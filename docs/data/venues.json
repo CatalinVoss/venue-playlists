@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:05:32.990591+00:00",
+  "generated_at": "2026-11-24T17:42:55.102225+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 82,
+          "show_count": 84,
           "shows": [
             {
               "artist": "1 Umbrella",
@@ -585,7 +585,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 39,
           "shows": [
             {
               "artist": "Karaoke Tuesday",
