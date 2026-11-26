@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:11:39.082757+00:00",
+  "generated_at": "2026-11-26T16:52:44.751225+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 85,
+          "show_count": 84,
           "shows": [
-            {
-              "artist": "1 Umbrella",
-              "show_date": "2026-11-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/1-umbrella-the-independent-tickets/14316614"
-            },
             {
               "artist": "O'Flynn",
               "show_date": "2026-11-27",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14244224"
+            },
+            {
+              "artist": "feeble little horse",
+              "show_date": "2026-12-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023"
             }
           ]
         },
@@ -114,7 +114,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 2,
+          "show_count": 3,
           "shows": [
             {
               "artist": "Oliver Hazard",
@@ -129,6 +129,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbkA"
+            },
+            {
+              "artist": "Sadurn",
+              "show_date": "2027-03-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/sadurn-the-underworld-us-tour-san-francisco-california-03-26-2027/event/1C00654DD4E36280"
             }
           ]
         },
@@ -238,15 +245,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 19,
           "shows": [
-            {
-              "artist": "Andre Nickatina",
-              "show_date": "2026-11-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qv"
-            },
             {
               "artist": "Emma Ruth Rundle",
               "show_date": "2026-11-27",
@@ -325,6 +325,13 @@
               "show_time": "21:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qa"
+            },
+            {
+              "artist": "Jerry's Middle Finger",
+              "show_date": "2026-12-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvo8p"
             }
           ]
         },
@@ -486,15 +493,8 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 39,
           "shows": [
-            {
-              "artist": "Ovrkast",
-              "show_date": "2026-11-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ovrkast-still-striking-tour-brick-and-mortar-music-hall-tickets/14343104"
-            },
             {
               "artist": "Thoughts on Bowling",
               "show_date": "2026-11-27",
@@ -573,6 +573,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sam-quealy-brick-and-mortar-music-hall-tickets/14260854"
+            },
+            {
+              "artist": "The Official Santa Con SF Bar Crawl",
+              "show_date": "2026-12-12",
+              "show_time": "12:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-official-santa-con-sf-brick-and-mortar-music-hall-tickets/15056513"
             }
           ]
         },
@@ -585,15 +592,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 37,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-11-25",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032864"
-            },
             {
               "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
               "show_date": "2026-11-27",
@@ -670,6 +670,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227394"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-12-09",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032714"
             }
           ]
         }
