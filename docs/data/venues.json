@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:52:44.751225+00:00",
+  "generated_at": "2026-11-27T16:38:35.248928+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 84,
+          "show_count": 85,
           "shows": [
             {
               "artist": "O'Flynn",
@@ -344,7 +344,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 5,
+          "show_count": 6,
           "shows": [
             {
               "artist": "Elijah Fox",
@@ -380,6 +380,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cut-worms-solo-swedish-american-hall-tickets/14379044"
+            },
+            {
+              "artist": "Sarah Julia",
+              "show_date": "2027-03-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sarah-julia-2027-swedish-american-hall-tickets/14379054"
             }
           ]
         },
@@ -493,7 +500,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 40,
           "shows": [
             {
               "artist": "Thoughts on Bowling",
@@ -592,7 +599,7 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 38,
           "shows": [
             {
               "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",

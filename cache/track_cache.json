@@ -8461,5 +8461,57 @@
       "name": "Los Angeles",
       "artist": "Caiola"
     }
-  ]
+  ],
+  "Hudson Freeman": [
+    {
+      "uri": "spotify:track:1QnFKAPgZ7GI9sYITPuYyL",
+      "name": "If You Know Me",
+      "artist": "Hudson Freeman"
+    },
+    {
+      "uri": "spotify:track:1x0Q0nvWYbJCrmsPZNHIkb",
+      "name": "If You Know Me - demo",
+      "artist": "Hudson Freeman"
+    },
+    {
+      "uri": "spotify:track:6JyF1Ku01d0vhCJWFvT6So",
+      "name": "Wild Horses",
+      "artist": "Hudson Freeman"
+    }
+  ],
+  "Sarah Julia": [
+    {
+      "uri": "spotify:track:171L1i9B8JSR234FJbKDPi",
+      "name": "Silver Springs - Spotify Singles",
+      "artist": "Sarah Julia"
+    },
+    {
+      "uri": "spotify:track:0iFdtqVlV5piDnq0KUloCB",
+      "name": "Bigger Picture",
+      "artist": "Sarah Julia"
+    },
+    {
+      "uri": "spotify:track:2vXS0Aia2hmzUvZg2iFpEz",
+      "name": "Wishing Stone",
+      "artist": "Sarah Julia"
+    }
+  ],
+  "Susannah Joffe": [
+    {
+      "uri": "spotify:track:5IwaP7cqLDFi0RJTA5laG4",
+      "name": "Like A Sister",
+      "artist": "Susannah Joffe"
+    },
+    {
+      "uri": "spotify:track:2tyfn5zPNpAa8IyF0sszGj",
+      "name": "All I See Is The Sky",
+      "artist": "Susannah Joffe"
+    },
+    {
+      "uri": "spotify:track:4tJrxR1KushXMiAu7iH4ip",
+      "name": "Happiness is Just a Myth",
+      "artist": "Susannah Joffe"
+    }
+  ],
+  "Truck Violence, Concrete Vehicles": []
 }
