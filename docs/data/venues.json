@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:38:35.248928+00:00",
+  "generated_at": "2026-11-28T15:29:41.331579+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 85,
           "shows": [
-            {
-              "artist": "O'Flynn",
-              "show_date": "2026-11-27",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/oflynn-the-independent-tickets/15043633"
-            },
             {
               "artist": "Oden & Fatzo Live",
               "show_date": "2026-11-28",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023"
+            },
+            {
+              "artist": "THE BOBBY LEES",
+              "show_date": "2026-12-11",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-bobby-lees-the-independent-tickets/14911093"
             }
           ]
         },
@@ -245,17 +245,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Emma Ruth Rundle",
-              "show_date": "2026-11-27",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Cinder Well"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Qe"
-            },
             {
               "artist": "Zepparella",
               "show_date": "2026-11-28",
@@ -332,6 +323,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvo8p"
+            },
+            {
+              "artist": "Jerry's Middle Finger",
+              "show_date": "2026-12-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4Q8"
             }
           ]
         },
@@ -399,15 +397,8 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "Wonderbread 5",
-              "show_date": "2026-11-27",
-              "show_time": "20:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/firefighters-holiday-ball-bimbos-365-club-tickets/14325774"
-            },
             {
               "artist": "Fleetwood Macram\u00e9",
               "show_date": "2026-11-28",
@@ -488,6 +479,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bebel-gilberto-25-years-of-bimbos-365-club-tickets/14418434"
+            },
+            {
+              "artist": "Super Diamond",
+              "show_date": "2027-01-29",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/super-diamond-bimbos-365-club-tickets/15057163"
             }
           ]
         },
@@ -502,13 +500,6 @@
           "stale": false,
           "show_count": 40,
           "shows": [
-            {
-              "artist": "Thoughts on Bowling",
-              "show_date": "2026-11-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/thoughts-on-bowling-brick-and-mortar-music-hall-tickets/15032523"
-            },
             {
               "artist": "Mikey Vee, Lyka B, Solus The Happy Human",
               "show_date": "2026-11-28",
@@ -587,6 +578,13 @@
               "show_time": "12:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-official-santa-con-sf-brick-and-mortar-music-hall-tickets/15056513"
+            },
+            {
+              "artist": "Bay Area Bands Winter Showcase",
+              "show_date": "2026-12-13",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bay-area-bands-winter-showcase-brick-and-mortar-music-hall-tickets/15065073"
             }
           ]
         },
@@ -599,15 +597,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 37,
           "shows": [
-            {
-              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
-              "show_date": "2026-11-27",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14421024"
-            },
             {
               "artist": "Cartoon Hearts/ Amity St./ Trip Drive/ Zacc & The Scissorlips",
               "show_date": "2026-11-28",
@@ -684,6 +675,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032714"
+            },
+            {
+              "artist": "Pig City",
+              "show_date": "2026-12-11",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/pig-city-pos-mob-straggler-neck-of-the-woods-tickets/14402334"
             }
           ]
         }

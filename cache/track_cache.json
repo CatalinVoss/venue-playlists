@@ -8513,5 +8513,39 @@
       "artist": "Susannah Joffe"
     }
   ],
-  "Truck Violence, Concrete Vehicles": []
+  "Truck Violence, Concrete Vehicles": [],
+  "Worldpeace DMT": [
+    {
+      "uri": "spotify:track:3HGZUb5t818Ie2MsJJZhMq",
+      "name": "Ivy",
+      "artist": "Worldpeace DMT"
+    },
+    {
+      "uri": "spotify:track:7rgWNlWTf1vFpsLZ7Grxn3",
+      "name": "Love Yourself",
+      "artist": "Worldpeace DMT"
+    },
+    {
+      "uri": "spotify:track:0YwtsLxxci8s57omyhPvfV",
+      "name": "Thank You",
+      "artist": "Worldpeace DMT"
+    }
+  ],
+  "Hotel Fiction": [
+    {
+      "uri": "spotify:track:2ge1M7ZWeVWIWlueRxbdxb",
+      "name": "Sunrise",
+      "artist": "Hotel Fiction"
+    },
+    {
+      "uri": "spotify:track:7HhIHbBHNQQThHZizJw19D",
+      "name": "Ghost of Me",
+      "artist": "Hotel Fiction"
+    },
+    {
+      "uri": "spotify:track:51RDNoy9s5Qy73LTe7HzBD",
+      "name": "Halfway (Acoustic) feat. Hotel Fiction",
+      "artist": "Hotel Fiction"
+    }
+  ]
 }
